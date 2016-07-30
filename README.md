@@ -1,2 +1,2 @@
 # ProjectX
-Mysterious repository, created to hide the dark projects. As well as those who are just shy. (๏̯๏)
+Mysterious repository, created to hide the darkest projects. As well as those who are just shy. (๏̯๏)
