@@ -1,0 +1,28 @@
+[
+  {
+    "id": "", ///генерация: type + content.name
+    "type": "", ///например: artifact_active
+    "game": "", /// принадлежность к игре (имя)
+    "content": {
+      /// сам контент он может быть разный в зависимости от типа
+    }
+  },
+  ///все поля, кроме вики информации заполняются нижним регистром, пробел - "_"
+  ///пример:
+  {
+    "id": "artifact_passive_1up",
+    "type": "artifact_passive",
+    "game": "the_binding_of_isaac",
+    "content": {
+      "appearance": {
+        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/76/1up.png/revision/latest?cb=20120727181911&path-prefix=ru" ],
+        "descr": "Cледует за игроком"
+      },
+      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/2f/011_TBoI_collectibles.png/revision/latest?cb=20160111221912&path-prefix=ru",
+      "locale_name": "+1",
+      "name": "1UP",
+      "descr": "Дает дополнительную жизнь. Умерли - появились снова в предыдущей комнате с полным здоровьем. Сочетается с Мёртвой Кошкой. Имеет приоритет над ней, если игрок повысил максимальное здоровье с тех пор, как подобрал Кошку. Может быть подобрано несколько раз за одно прохождение. Баг: Сестренка Мэгги или Маленький Стив превратятся в Братика Бобби до выхода из комнаты. Получение: Секретная комната (1\\2 шанс на х2). Отсылка к играм серии \"Mario\"",
+      "links": [ ]
+    }
+  }
+]
