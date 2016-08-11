@@ -1,18 +1,20 @@
-﻿[
+[
   {
     "id": "artifact_passive_<3",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/6/65/Greater_Than_Three.jpg/revision/latest?cb=20120229142038&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_<3_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/a/ad/015_TBoI_collectibles.png/revision/latest?cb=20160111221956&path-prefix=ru",
-      "locale_name": "<3",
+      "icon": "img/artifact_passive_<3_icon.png",
+      "local_name": null,
       "name": "<3",
       "descr": "Увеличивает максимальное здоровье на 1 и восполняет все здоровье. Получение: Сокровищница, Дроп с Чревоугодия. Этот артефакт бьется так же, как сердце из другой игры Эдмунда МакМиллена \"Spewer\".",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -21,14 +23,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/76/1up.png/revision/latest?cb=20120727181911&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_1up_artifacts.json_0.png"
+        ],
         "descr": "Cледует за игроком"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/2f/011_TBoI_collectibles.png/revision/latest?cb=20160111221912&path-prefix=ru",
-      "locale_name": "+1",
+      "icon": "img/artifact_passive_1up_icon.png",
+      "local_name": null,
       "name": "1UP",
       "descr": "Дает дополнительную жизнь. Умерли - появились снова в предыдущей комнате с полным здоровьем. Сочетается с Мёртвой Кошкой. Имеет приоритет над ней, если игрок повысил максимальное здоровье с тех пор, как подобрал Кошку. Может быть подобрано несколько раз за одно прохождение. Баг: Сестренка Мэгги или Маленький Стив превратятся в Братика Бобби до выхода из комнаты. Получение: Секретная комната (1\\2 шанс на х2). Отсылка к играм серии \"Mario\"",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -37,14 +41,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/5/56/Battery_Isaac.jpg/revision/latest?cb=20120229141031&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_battery_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/83/063_TBoI_collectibles.png/revision/latest?cb=20160111222810&path-prefix=ru",
-      "locale_name": "Батарейка",
+      "icon": "img/artifact_passive_battery_icon.png",
+      "local_name": null,
       "name": "Battery",
       "descr": "Восполняет полоску перезарядки активируемого Артефакта по одному кубику каждые 20 секунд. После использования восполняет только до половины. Так же при захождении в комнату, где битва, восполнит 3 кубика. Получение: Магазин (1\\2 шанс).",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -53,14 +59,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/7/7b/The_belt.jpg/revision/latest?cb=20120229144925&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_belt_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/7/72/028_TBoI_collectibles.png/revision/latest?cb=20160111222159&path-prefix=ru",
-      "locale_name": "Ремень",
+      "icon": "img/artifact_passive_the_belt_icon.png",
+      "local_name": null,
       "name": "The Belt",
       "descr": "Увеличивает скорость на 0.3. Получение: Босс, Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -69,14 +77,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/46/Blood_of_the_martyr.jpg/revision/latest?cb=20120229141157&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_blood_of_the_martyr_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/d/d2/007_TBoI_collectibles.png/revision/latest?cb=20160111221822&path-prefix=ru",
-      "locale_name": "Кровь мученика",
+      "icon": "img/artifact_passive_blood_of_the_martyr_icon.png",
+      "local_name": null,
       "name": "Blood of the Martyr",
       "descr": "Увеличивает урон на 1 и превращает слёзы в кровавые. В сочетании с \"Книгой Дьявола\" или картой таро \"Дьявол\" дает дополнительный эффект умножения урона х1.5. Получение: Сокровищница, Комната Ангела. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -85,14 +95,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/a/a2/Boom%21_isaac.jpg/revision/latest?cb=20120229141406&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_boom!_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/0/07/019_TBoI_collectibles.png/revision/latest?cb=20160111222023&path-prefix=ru",
-      "locale_name": "Бум!",
+      "icon": "img/artifact_passive_boom!_icon.png",
+      "local_name": null,
       "name": "Boom!",
       "descr": "Дает игроку 10 бомб. Получение: Сокровищница х2.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -101,14 +113,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f0/025_TBoI_collectibles.png/revision/latest?cb=20160111222136&path-prefix=ru",
-      "locale_name": "Завтрак",
+      "icon": "img/artifact_passive_breakfast_icon.png",
+      "local_name": null,
       "name": "Breakfast",
       "descr": "Даёт 1 полный контейнер здоровья. Получение: Босс.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -117,14 +129,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/9/97/008_TBoI_collectibles.png/revision/latest?cb=20160111221842&path-prefix=ru",
-      "locale_name": "Братик Бобби",
+      "icon": "img/artifact_passive_brother_bobby_icon.png",
+      "local_name": null,
       "name": "Brother Bobby",
       "descr": "Следует за игроком, стреляет снарядами по 3.5 урона. Получение: Сокровищница х2, Комната Дьявола. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -133,14 +145,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/52/Charm_of_the_Vampire.png/revision/latest?cb=20120229141544&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_charm_of_the_vampire_artifacts.json_0.png"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/6/6c/062_TBoI_collectibles.png/revision/latest?cb=20160111222755&path-prefix=ru",
-      "locale_name": "Очарование вампира",
+      "icon": "img/artifact_passive_charm_of_the_vampire_icon.png",
+      "local_name": null,
       "name": "Charm of the Vampire",
       "descr": "Каждые 13 убитых монстров лечат игрока на пол-сердца. Мухи (кроме взрывных) не засчитываются. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -149,14 +163,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/71/Choco_milk.jpg/revision/latest?cb=20120229141608&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_chocolate_milk_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/42/069_TBoI_collectibles.png/revision/latest?cb=20160111222945&path-prefix=ru",
-      "locale_name": "Шоколадное молоко",
+      "icon": "img/artifact_passive_chocolate_milk_icon.png",
+      "local_name": null,
       "name": "Chocolate Milk",
       "descr": "Позволяет игроку заряжать (накапливать) выстрелы, делая их тем самым мощнее. Эффект сохраняется с Технологией, Зародышем в банке и другими модификаторами типа атаки (кроме Маминого ножа). Заряд можно не накапливать, стреляя обычными снарядами. Увеличивает возможную скорострельность. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -165,14 +181,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/3a/021_TBoI_collectibles.png/revision/latest?cb=20160111222034&path-prefix=ru",
-      "locale_name": "Компас",
+      "icon": "img/artifact_passive_the_compass_icon.png",
+      "local_name": null,
       "name": "The Compass",
       "descr": "Открывает все иконки комнат на уровнях. Отсылка к игре The Legend of ZeldaПолучение: Магазин х2, Комната Испытания.",
-      "links": [ "http://ru.wikipedia.org/wiki/The_Legend_of_Zelda_(%D0%B8%D0%B3%D1%80%D0%B0)" ]
+      "links": [
+        "http://ru.wikipedia.org/wiki/The_Legend_of_Zelda_(%D0%B8%D0%B3%D1%80%D0%B0)"
+      ]
     }
   },
   {
@@ -181,14 +199,21 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/7/74/Meat_Cube_Isaac.jpg/revision/latest?cb=20120504062436&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_cube_of_meat_artifacts.json_0.jpg"
+        ],
         "descr": "Кусок мяса кружится по орбите"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/4/42/073_TBoI_collectibles.png/revision/latest?cb=20160111223046&path-prefix=ru",
-      "locale_name": "Кубик мяса",
+      "icon": "img/artifact_passive_cube_of_meat_icon.png",
+      "local_name": null,
       "name": "Cube of Meat",
       "descr": "1 форма: летающий кубик, защищает от снарядов, наносит 7 урона в касание.2 форма: Летающая вокруг игрока голова, стреляет красными слезами, наносящими 5 урона, 3 раза за каждый круг орбиты и так же защищает от снарядов и наносит урон в касание.3 форма: ходящий отдельно от игрока “Мясной Парень” (Meat Boy). Не стреляет, но повреждает врагов в ближнем бою. Наносит 3.5 урона за удар. Примечание: может толкать бомбы.4 форма: увеличивает размер и повреждение субъекта до 5.5. Последняя, которая по задумке может быть достигнута - нужно убить всех 4-ых Всадников.5 форма: Дает в дополнение к четвертой форме первую. Всего можно иметь до 8 кубиков, то есть 2 митбоя 4 уровня. Подбор дополнительных кубиков ничего не даст. Переход между формами осуществляется путем подбора дополнительных кубиков мяса. Получение: Дроп со Всадников Апокалипсиса. ->  ->   -> Примечание: кубик мяса всегда приоритетнее, чем мухи (Pretty fly / Halo of flies). Если у вас 2 мухи и кубик, подбор новых мух ничего не даст. Если у вас 3 мухи, подбор кубика заменит одну на кубик. Открывается прохождением уровней Глубин. Отсылка к другой игре Эдмунда МакМиллена \"Super Meat Boy\"",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20120229142850&path-prefix=ru", "http://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20120229142859&path-prefix=ru", "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/9d/Meat3boy.png/revision/latest?cb=20120229142909&path-prefix=ru", "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20120229142919&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20120229142850&path-prefix=ru",
+        "http://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20120229142859&path-prefix=ru",
+        "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/9d/Meat3boy.png/revision/latest?cb=20120229142909&path-prefix=ru",
+        "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20120229142919&path-prefix=ru"
+      ]
     }
   },
   {
@@ -197,14 +222,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/1a/Cupid%27s_Arrow_Isaac.jpg/revision/latest?cb=20120229141717&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_cupid's_arrow_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/7/75/048_TBoI_collectibles.png/revision/latest?cb=20160111222608&path-prefix=ru",
-      "locale_name": "Стрела Купидона",
+      "icon": "img/artifact_passive_cupid's_arrow_icon.png",
+      "local_name": null,
       "name": "Cupid's Arrow",
       "descr": "Делает слезы игрока пронизывающими. Выстрелы проходят сквозь врагов. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -213,14 +240,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/52/024_TBoI_collectibles.png/revision/latest?cb=20160111222127&path-prefix=ru",
-      "locale_name": "Десерт",
+      "icon": "img/artifact_passive_dessert_icon.png",
+      "local_name": null,
       "name": "Dessert",
       "descr": "Даёт один полный контейнер здоровья. Получение: Босс.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -229,14 +256,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/1/13/023_TBoI_collectibles.png/revision/latest?cb=20160111222121&path-prefix=ru",
-      "locale_name": "Ужин",
+      "icon": "img/artifact_passive_dinner_icon.png",
+      "local_name": null,
       "name": "Dinner",
       "descr": "Даёт один полный контейнер здоровья. Получение: Босс.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -245,14 +272,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/1/10/Red_Attack_Fly.png/revision/latest?cb=20120229144218&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_distant_admiration_artifacts.json_0.png"
+        ],
         "descr": "Кружит по орбите"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/1/12/057_TBoI_collectibles.png/revision/latest?cb=20160111222720&path-prefix=ru",
-      "locale_name": "Восторг на расстоянии",
+      "icon": "img/artifact_passive_distant_admiration_icon.png",
+      "local_name": null,
       "name": "Distant Admiration",
       "descr": "Муха описывает круги вокруг игрока, повреждая врагов при касании на 5 урона. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -261,14 +290,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/0/00/018_TBoI_collectibles.png/revision/latest?cb=20160111222017&path-prefix=ru",
-      "locale_name": "Доллар",
+      "icon": "img/artifact_passive_a_dollar_icon.png",
+      "local_name": null,
       "name": "A Dollar",
       "descr": "Количество монет становится равным 99. Можно найти или получить несколько раз за прохождение. Получение: Игровой Автомат.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -277,14 +306,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/44/Dr_Fetus.jpg/revision/latest?cb=20120229141917&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_dr_fetus_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/0/0e/052_TBoI_collectibles.png/revision/latest?cb=20160111222640&path-prefix=ru",
-      "locale_name": "Зародыш в банке",
+      "icon": "img/artifact_passive_dr_fetus_icon.png",
+      "local_name": null,
       "name": "Dr Fetus",
       "descr": "Вместо слез игрок стреляет бомбами. Открывается прохождением игры 5 раз (в дополнении Wrath Of The Lamb может использоваться после победы над Мамой - в испытании Месть Доктора). Если у вас помимо Зародыша есть \"Технология\", это позволит вам стрелять обоими зарядами. На эти бомбы влияет урон и некоторые эффекты. Отсылка к финальному Боссу из игры \"Super Meat Boy\". Предмет является отсылкой к известной игре от создателя самого TBoI - Super meat boy. Получение: Сокровищница. При поднятии добавляет \"Бобби-Бомбу\" и \"Мистер Мега\" в возможный дроп сокровищниц текущего прохождения в количестве х6 каждый. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -293,14 +324,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/0/0f/Blue_Attack_Fly.png/revision/latest?cb=20120229141234&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_forever_alone_artifacts.json_0.png"
+        ],
         "descr": "Кружит по орбите"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/2/26/128_TBoI_collectibles.png/revision/latest?cb=20160111224014&path-prefix=ru",
-      "locale_name": "Навеки один",
+      "icon": "img/artifact_passive_forever_alone_icon.png",
+      "local_name": null,
       "name": "Forever Alone",
       "descr": "Добавляет синюю муху, летающую на большем расстоянии от персонажа и атакующую противников. Наносит 2 урона. Примечание: муха не стреляет, но беспрестанно кружит вокруг игрока и повреждает все на своем пути. Получение: Сокровищница, Дроп с Супер-Зависти.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -309,14 +342,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/ff/Growth_Hormones.jpg/revision/latest?cb=20120229142049&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_growth_hormones_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/7/73/070_TBoI_collectibles.png/revision/latest?cb=20160111222953&path-prefix=ru",
-      "locale_name": "Гормоны роста",
+      "icon": "img/artifact_passive_growth_hormones_icon.png",
+      "local_name": null,
       "name": "Growth Hormones",
       "descr": "Увеличивает скорость на 0.4 и урон на 1. Получение: Сокровищница, Комната Испытания. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -325,14 +360,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/e/e1/081_TBoI_collectibles.png/revision/latest?cb=20160111223208&path-prefix=ru",
-      "locale_name": "Мёртвая кошка",
+      "icon": "img/artifact_passive_dead_cat_icon.png",
+      "local_name": null,
       "name": "Dead Cat",
       "descr": "Здоровье становится равным 1 Сердцу, но выдается 9 жизней. Можно увеличивать максимальное здоровье Артефактами, но после смерти снова будет 1 Сердце. Получение: Комната Дьявола, Красный сундук.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -341,14 +376,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/e/e5/Halo_Isaac.jpg/revision/latest?cb=20120229142209&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_halo_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/1f/101_TBoI_collectibles.png/revision/latest?cb=20160111223759&path-prefix=ru",
-      "locale_name": "Нимб",
+      "icon": "img/artifact_passive_halo_icon.png",
+      "local_name": null,
       "name": "Halo",
       "descr": "Увеличивает урон на 0.3, скорость на 0.3, дальность стрельбы на 2.75, здоровье на 1, скорость стрельбы на 0.2. Открывается победой над Мамой, Сердцем Мамы или Оно Живое с помощью Артефакта “Библия” (The Bible). Получение: Комната Ангела, Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -357,14 +394,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/8/88/Halo_of_flies_cut.jpg/revision/latest?cb=20120608120533&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_halo_of_flies_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/4b/010_TBoI_collectibles.png/revision/latest?cb=20160111221853&path-prefix=ru",
-      "locale_name": "Нимб из мух",
+      "icon": "img/artifact_passive_halo_of_flies_icon.png",
+      "local_name": null,
       "name": "Halo of Flies",
       "descr": "Добавляет 2-х Мух, летающих вокруг игрока, блокируя вражеские выстрелы. При касании бьют только мух. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -373,14 +412,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/5/52/Inner_Eye.jpg/revision/latest?cb=20120229142328&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_inner_eye_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/19/002_TBoI_collectibles.png/revision/latest?cb=20160111213834&path-prefix=ru",
-      "locale_name": "Внутренний глаз",
+      "icon": "img/artifact_passive_the_inner_eye_icon.png",
+      "local_name": null,
       "name": "The Inner Eye",
       "descr": "Игрок стреляет тройными слезами, при этом снижается скорострельность. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -389,14 +430,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется, лестница появляется перед пропастью"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/55/060_TBoI_collectibles.png/revision/latest?cb=20160111222747&path-prefix=ru",
-      "locale_name": "Лестница",
+      "icon": "img/artifact_passive_ladder_icon.png",
+      "local_name": null,
       "name": "Ladder",
       "descr": "Позволяет пересекать пропасти шириной в один квадрат. Получение: Магазин х2.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -405,14 +446,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/3a/096_TBoI_collectibles.png/revision/latest?cb=20160111223532&path-prefix=ru",
-      "locale_name": "Маленький Ч. А. Д.",
+      "icon": "img/artifact_passive_little_c._h._a._d._icon.png",
+      "local_name": null,
       "name": "Little C. H. A. D.",
       "descr": "Создает пол-Сердца после зачистки каждых трех комнат. Открывается победой над Ч. А. Д.-ом. Отсылка к игре \"Super Meat Boy\", где Ч. А. Д. является боссом. Получение:  Дроп с Ч. А. Д, Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -421,14 +462,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/a/a6/088_TBoI_collectibles.png/revision/latest?cb=20160111223438&path-prefix=ru",
-      "locale_name": "Маленький Чабби",
+      "icon": "img/artifact_passive_little_chubby_icon.png",
+      "local_name": null,
       "name": "Little Chubby",
       "descr": "Добавляет к выстрелам игрока личинку, которая запускается как только догоняет игрока. Личинка может проходить сквозь врагов и останавливается только стенами, камнями, калом и кострами. Наносит 3.5 урона за удар. Открывается победой над всеми Боссами на уровнях Пещеры. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -437,14 +478,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/b/be/099_TBoI_collectibles.png/revision/latest?cb=20160111223549&path-prefix=ru",
-      "locale_name": "Маленький Гиш",
+      "icon": "img/artifact_passive_little_gish_icon.png",
+      "local_name": null,
       "name": "Little Gish",
       "descr": "Следует за игроком, стреляет снарядами, которые наносят 3.5 урона и имеют шанс замедлить врагов. Если маленький Гиш попадает в бомбу, то с некоторой вероятностью бомба становится чёрной, как и её взрыв с чёрной анимацией. Но взрыв такой бомбы не замедляет врага Открывается победой над Гиш-ем, альтернативным Боссом. Получение: Дроп с Гиша, Сокровищница. Отсылка к другой игре Эдмунда МакМиллена \"Gish\"Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -453,14 +494,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/1f/100_TBoI_collectibles.png/revision/latest?cb=20160111223555&path-prefix=ru",
-      "locale_name": "Маленький Стив",
+      "icon": "img/artifact_passive_little_steve_icon.png",
+      "local_name": null,
       "name": "Little Steve",
       "descr": "Следует за игроком, стреляет самонаводящимися снарядами, с большой дальностью, наносит 3.5 урона. Открывается победой над Стивеном, альтернативным боссом. Получение: Дроп со Стивена с шансом 5\\6, Сокровищница. Отсылка к другой игре Эдмунда МакМиллена \"Time Fcuk\". Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -469,14 +510,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/d/da/Lokii_Horns_Isaac.jpg/revision/latest?cb=20120229142556&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_loki's_horns_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/69/087_TBoI_collectibles.png/revision/latest?cb=20160111223431&path-prefix=ru",
-      "locale_name": "Рога Локи",
+      "icon": "img/artifact_passive_loki's_horns_icon.png",
+      "local_name": null,
       "name": "Loki's Horns",
       "descr": "Дает случайный шанс выстрелить во все 4 стороны. Если у игрока уже есть “Мамин Глаз” (Mom’s Eye), то он всегда стреляет таким образом. Открывается победой над всеми Боссами на уровнях Глубин. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -485,14 +528,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/82/Lord_Of_The_Pit_Isaac.jpg/revision/latest?cb=20120229142616&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_lord_of_the_pit_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/b/b9/082_TBoI_collectibles.png/revision/latest?cb=20160111223218&path-prefix=ru",
-      "locale_name": "Повелитель ям",
+      "icon": "img/artifact_passive_lord_of_the_pit_icon.png",
+      "local_name": null,
       "name": "Lord of the Pit",
       "descr": "Дает полет, увеличивает скорость на 0.2. Получение: Комната Дьявола (1\\3 шанс).",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -501,14 +546,19 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/d/d8/Lucky_Foot_Isaac.jpg/revision/latest?cb=20120229142643&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_lucky_foot_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/e/e7/046_TBoI_collectibles.png/revision/latest?cb=20160111222458&path-prefix=ru",
-      "locale_name": "Счастливая ножка",
+      "icon": "img/artifact_passive_lucky_foot_icon.png",
+      "local_name": null,
       "name": "Lucky Foot",
       "descr": "Увеличивает шанс выигрыша с 33% до 50% у Наперсточника. Снижает шанс получения предсказаний из Автомата Предсказаний до нуля и повышает шанс получения предметов. Повышает шанс выигрыша у Игрового Автомата. Также же изменяет все отрицательные эффекты от пилюль на положительные. (по аналогии с \"Докторским дипломом\"). Открывается при наличии 55 или более центов одновременно. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Каин начинает игру с данным артефактом. Отсылка к народному суеверию \"Кроличья лапка\"",
-      "links": [ null, "http://ru.bindingofisaac.wikia.com/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9" ]
+      "links": [
+        null,
+        "http://ru.bindingofisaac.wikia.com/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9"
+      ]
     }
   },
   {
@@ -517,14 +567,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/b/bf/Screenshot_20140918221922_-_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png/revision/latest?cb=20140918182833&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_lump_of_coal_artifacts.json_0.png"
+        ],
         "descr": "Угольное пятно на лбу, слезы становятся серыми."
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/1/14/132_TBoI_collectibles.png/revision/latest?cb=20160111224041&path-prefix=ru",
-      "locale_name": "Кусок угля",
+      "icon": "img/artifact_passive_lump_of_coal_icon.png",
+      "local_name": null,
       "name": "Lump of Coal",
       "descr": "Увеличивает урон в зависимости от времени нахождения слезы на экране. +4.2 урона за каждую секунду (+0.14 каждый кадр, игра идет на 30 кадрах в секунду). После получения на лбу появляется угольная пыль. Слезы окрашиваются в черный цвет. Разблокируется после победы над Крампусом. Получение: Дроп с Крампуса.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -533,14 +585,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/b/bf/022_TBoI_collectibles.png/revision/latest?cb=20160111222115&path-prefix=ru",
-      "locale_name": "Обед",
+      "icon": "img/artifact_passive_lunch_icon.png",
+      "local_name": null,
       "name": "Lunch",
       "descr": "Дает один полный контейнер здоровья. Получение: Босс.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -549,14 +601,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/0/0d/Magic_Mush_Isaac.jpg/revision/latest?cb=20120229142730&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_magic_mushroom_artifacts.json_0.jpg"
+        ],
         "descr": "Игрок визуально увеличивается. "
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f7/012_TBoI_collectibles.png/revision/latest?cb=20160111221940&path-prefix=ru",
-      "locale_name": "Волшебный грибочек",
+      "icon": "img/artifact_passive_magic_mushroom_icon.png",
+      "local_name": null,
       "name": "Magic Mushroom",
       "descr": "Полное лечение, увеличивает характеристики: +1 здоровье, +0.5 урона, +0.3 скорость, +7.75 дальность, x1.5 урон. Получение: Сокровищница. Отсылка к Super Mario Bros. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -565,14 +619,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/7/7d/Magneto_Isaac.jpg/revision/latest?cb=20120229142808&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_magneto_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/b/bc/053_TBoI_collectibles.png/revision/latest?cb=20160111222648&path-prefix=ru",
-      "locale_name": "Магнит",
+      "icon": "img/artifact_passive_magneto_icon.png",
+      "local_name": null,
       "name": "Magneto",
       "descr": "Притягивает предметы к игроку. Предметы смогут пересекать и камни, и пропасти, и шипы. Тролль-бомбы также будут притягиваться. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -581,14 +637,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/e/e2/The_Mark_Isaac.jpg/revision/latest?cb=20120229145027&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_mark_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/e/ed/079_TBoI_collectibles.png/revision/latest?cb=20160111223152&path-prefix=ru",
-      "locale_name": "Метка",
+      "icon": "img/artifact_passive_the_mark_icon.png",
+      "local_name": null,
       "name": "The Mark",
       "descr": "Увеличивает урон на 1, скорость передвижения на 0.2 и добавляет одно Сердце Души. Получение: Комната Дьявола.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -597,14 +655,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/2c/Max%27s_Head_Isaac.jpg/revision/latest?cb=20120229142840&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_max's_head_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/b/b2/004_TBoI_collectibles.png/revision/latest?cb=20160111221747&path-prefix=ru",
-      "locale_name": "Голова Макса",
+      "icon": "img/artifact_passive_max's_head_icon.png",
+      "local_name": null,
       "name": "Max's Head",
       "descr": "Добавляет 0.5 урона, и умножает наносимый урон х1.5, увеличенная отдача. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -613,14 +673,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/5/5e/Mini_Mush_Isaac.jpg/revision/latest?cb=20120229142928&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mini_mush_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f0/071_TBoI_collectibles.png/revision/latest?cb=20160111223002&path-prefix=ru",
-      "locale_name": "Мини-грибочек",
+      "icon": "img/artifact_passive_mini_mush_icon.png",
+      "local_name": null,
       "name": "Mini Mush",
       "descr": "Увеличивает скорость на 0.3 и дальность на 3.25, так же уменьшает размер игрока. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -629,14 +691,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/c/c1/Mom%27s_Contacts_Isaac.jpg/revision/latest?cb=20120229143000&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mom's_contacts_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/8b/110_TBoI_collectibles.png/revision/latest?cb=20160111224239&path-prefix=ru",
-      "locale_name": "Мамины линзы",
+      "icon": "img/artifact_passive_mom's_contacts_icon.png",
+      "local_name": null,
       "name": "Mom's Contacts",
       "descr": "Выстрелы игрока могут превратить врага в камень на некоторое время. Получение: Сокровищница. Открывается сбором “Маминого Глаза” (Mom’s Eye) и другого Артефакта Мамы за одно прохождение. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -645,14 +709,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/9/96/Mom%27s_Eye.png/revision/latest?cb=20120229143016&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mom's_eye_artifacts.json_0.png"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/2/20/055_TBoI_collectibles.png/revision/latest?cb=20160111222526&path-prefix=ru",
-      "locale_name": "Мамин глаз",
+      "icon": "img/artifact_passive_mom's_eye_icon.png",
+      "local_name": null,
       "name": "Mom's Eye",
       "descr": "На затылке появляется еще один глаз, и каждые несколько обычных выстрелов он делает выстрел назад. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -661,14 +727,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/c/cc/Mom%27s_heels.jpg/revision/latest?cb=20120229143036&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mom's_heels_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/8/8a/030_TBoI_collectibles.png/revision/latest?cb=20160111222214&path-prefix=ru",
-      "locale_name": "Мамины каблуки",
+      "icon": "img/artifact_passive_mom's_heels_icon.png",
+      "local_name": null,
       "name": "Mom's Heels",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -677,14 +745,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/86/Mom%27s_Lipstick.jpg/revision/latest?cb=20120229143119&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mom's_lipstick_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/9/96/031_TBoI_collectibles.png/revision/latest?cb=20160111222222&path-prefix=ru",
-      "locale_name": "Мамина помада",
+      "icon": "img/artifact_passive_mom's_lipstick_icon.png",
+      "local_name": null,
       "name": "Mom's Lipstick",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -693,14 +763,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/d/d8/Mom%27s_Undies.jpg/revision/latest?cb=20120229143138&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mom's_underwear_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/24/029_TBoI_collectibles.png/revision/latest?cb=20160111222206&path-prefix=ru",
-      "locale_name": "Мамины панталоны",
+      "icon": "img/artifact_passive_mom's_underwear_icon.png",
+      "local_name": null,
       "name": "Mom's Underwear",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -709,14 +781,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/15/Money_Equals_Power_Isaac.jpg/revision/latest?cb=20120229143247&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_money_=_power_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/109_TBoI_collectibles.png/revision/latest?cb=20160111224230&path-prefix=ru",
-      "locale_name": "Деньги = Сила",
+      "icon": "img/artifact_passive_money_=_power_icon.png",
+      "local_name": null,
       "name": "Money = Power",
       "descr": "Увеличивает урон на 0.04 за каждую монету до максимума 3.96 при 99 монетах. Уменьшение кол-ва монет так же влечёт за собой уменьшение урона. Если взять артефакт Четвертак (Quarter), урон не увеличится. Открывается прохождением игры в 8-ой раз. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -725,14 +799,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/0/02/Mr_Mega_Isaac.jpg/revision/latest?cb=20120229143328&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mr._mega_artifacts.json_0.jpg"
+        ],
         "descr": " Делает голову Исаака такой же, как и у Гнева"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/4/43/106_TBoI_collectibles.png/revision/latest?cb=20160111223641&path-prefix=ru",
-      "locale_name": "Мистер Мега",
+      "icon": "img/artifact_passive_mr._mega_icon.png",
+      "local_name": null,
       "name": "Mr. Mega",
       "descr": "Дает 5 бомб и делает все бомбы большими, подобно действию Артефакта “Мистер Бум” (Mr. Boom). Большие бомбы имеют больший радиус взрыва и наносят 110 урона вместо обычных 60. Открывается использованием большого количества бомб. Получение: Сокровищница, Дроп с Супер-Гнева.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -741,14 +817,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/0/04/My_Reflection.jpg/revision/latest?cb=20120229143355&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_my_reflection_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/4/43/005_TBoI_collectibles.png/revision/latest?cb=20160111221755&path-prefix=ru",
-      "locale_name": "Мое отражение",
+      "icon": "img/artifact_passive_my_reflection_icon.png",
+      "local_name": null,
       "name": "My Reflection",
       "descr": "Слезы летят по траектории бумеранга. Дальность становится изначальной. Новые улучшения дальности выстрелов будут влиять на дальность эффекта бумеранга. Получение: Сокровищница. Специальный (0.2 от обычного).",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -757,14 +835,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/4/45/Number_one%21.jpg/revision/latest?cb=20120229143456&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_number_one_artifacts.json_0.jpg"
+        ],
         "descr": "Вместо слез стреляет желтыми каплями."
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/3/34/006_TBoI_collectibles.png/revision/latest?cb=20160111221801&path-prefix=ru",
-      "locale_name": "Номер один",
+      "icon": "img/artifact_passive_number_one_icon.png",
+      "local_name": null,
       "name": "Number One",
       "descr": "Увеличивает скорострельность на 1.5 при минимальной дальности выстрелов. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -773,14 +853,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/e/ee/The_Pact_Isaac.jpg/revision/latest?cb=20120229145036&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_pact_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/b/b5/080_TBoI_collectibles.png/revision/latest?cb=20160111223200&path-prefix=ru",
-      "locale_name": "Договор",
+      "icon": "img/artifact_passive_the_pact_icon.png",
+      "local_name": null,
       "name": "The Pact",
       "descr": "Игрок становится черным и получает 2 Сердца души. Увеличивает скорострельность на 0.7 и урон на 0.5. Получение: Комната Дьявола.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -789,14 +871,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f5/Parasite_isaac.jpg/revision/latest?cb=20120229143628&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_parasite_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/3/33/104_TBoI_collectibles.png/revision/latest?cb=20160111223750&path-prefix=ru",
-      "locale_name": "Паразит",
+      "icon": "img/artifact_passive_the_parasite_icon.png",
+      "local_name": null,
       "name": "The Parasite",
       "descr": "Слезы становятся оранжевыми и разделяются пополам после удара. Части разлетаются от точки попадания перпендикулярно старой траектории. Открывается сбором 2-х из “мёртвых голов” за одно прохождение: “Гнилая Голова Боба” (Bob’s Rotten Head), “Голова Гаппи” (Guppy's Head), “Голова Макса” (Max’s Head), “Голова Тамми” (Tammy’s Head). Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -805,14 +889,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/e/ea/Pentagram_Isaac.jpg/revision/latest?cb=20120229143719&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_pentagram_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/28/051_TBoI_collectibles.png/revision/latest?cb=20160111222630&path-prefix=ru",
-      "locale_name": "Пентаграмма",
+      "icon": "img/artifact_passive_pentagram_icon.png",
+      "local_name": null,
       "name": "Pentagram",
       "descr": "Увеличивает урон на 1. Увеличивает шанс получения комнаты Дьявола\\Ангела на 20%. Получение: Босс. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -821,14 +907,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/25/PHD_Isaac.jpg/revision/latest?cb=20120229143745&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_phd_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/3/32/075_TBoI_collectibles.png/revision/latest?cb=20160111223105&path-prefix=ru",
-      "locale_name": "Докторский диплом",
+      "icon": "img/artifact_passive_phd_icon.png",
+      "local_name": null,
       "name": "PHD",
       "descr": "Пилюли с уменьшением параметров превращаются в аналогичные Пилюли с увеличением. Восстанавливает 2 сердца, увеличивает количество монет выпадаемых из автомата по сдаче крови и из капельницы (всегда падает 2 или 3). Определяет эффект пилюль до их использования. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -837,14 +925,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/0/0c/074_TBoI_collectibles.png/revision/latest?cb=20160111223057&path-prefix=ru",
-      "locale_name": "Четвертак",
+      "icon": "img/artifact_passive_a_quarter_icon.png",
+      "local_name": null,
       "name": "A Quarter",
       "descr": "Дает 25 центов. Открывается прохождением игры 4 раза. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Дроп с Супер-Алчности.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -853,14 +941,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/3/39/016_TBoI_collectibles.png/revision/latest?cb=20160111222002&path-prefix=ru",
-      "locale_name": "Сырая печень",
+      "icon": "img/artifact_passive_raw_liver_icon.png",
+      "local_name": null,
       "name": "Raw Liver",
       "descr": "Увеличивает максимальное здоровье на 2 и полностью восстанавливает здоровье. Получение: Секретная комната. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -869,14 +957,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/20/Common_Cold_Isaac.jpg/revision/latest?cb=20120229141638&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_common_cold_artifacts.json_0.jpg"
+        ],
         "descr": "Иногда вылетают зеленые слезы."
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/85/103_TBoI_collectibles.png/revision/latest?cb=20160111223614&path-prefix=ru",
-      "locale_name": "Простуда",
+      "icon": "img/artifact_passive_the_common_cold_icon.png",
+      "local_name": null,
       "name": "The Common Cold",
       "descr": "Дает шанс отравить врагов, слезы становятся зелеными. Яд наносит 2 урона за тик. Открывается сбором “Стероидной Ярости” (Roid Rage), “Вируса” (The Virus) и “Гормонов Роста” (Growth Hormones). Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -885,14 +975,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/27/098_TBoI_collectibles.png/revision/latest?cb=20160111223544&path-prefix=ru",
-      "locale_name": "Реликвия",
+      "icon": "img/artifact_passive_the_relic_icon.png",
+      "local_name": null,
       "name": "The Relic",
       "descr": "Создает Сердце Души (синее) после прохождения каждых 4-х комнат. Открывается прохождением игры за персонажа Магдалина. Получение: Сокровищница, Комната Ангела.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -901,14 +991,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/6/66/095_TBoI_collectibles.png/revision/latest?cb=20160111223526&path-prefix=ru",
-      "locale_name": "Крошка-Робот",
+      "icon": "img/artifact_passive_robo-baby_icon.png",
+      "local_name": null,
       "name": "Robo-Baby",
       "descr": "Следует за игроком, стреляет лазером из глаза, наносит 3 урона. Если приглядеться,то можно увидеть,что Крошка-Робот стреляет лазером изо рта. Открывается прохождением игры за персонажа Иуда. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -917,14 +1007,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/0/03/Roid_Rage_Isaac.jpg/revision/latest?cb=20120229144238&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_roid_rage_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/4/45/014_TBoI_collectibles.png/revision/latest?cb=20160111221951&path-prefix=ru",
-      "locale_name": "Стероидная ярость",
+      "icon": "img/artifact_passive_roid_rage_icon.png",
+      "local_name": null,
       "name": "Roid Rage",
       "descr": "Увеличивает скорость передвижения на 0.6. Получение: Сокровищница, Комната Испытания.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -933,14 +1025,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/8f/Rosary_Isaac.jpg/revision/latest?cb=20120229144314&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_rosary_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/5/54/072_TBoI_collectibles.png/revision/latest?cb=20160111223015&path-prefix=ru",
-      "locale_name": "Четки",
+      "icon": "img/artifact_passive_rosary_icon.png",
+      "local_name": null,
       "name": "Rosary",
       "descr": "Добавляют 3 Сердца Души, а также помещают  “Библию” (The Bible) в магазины следующих уровней данного прохождения в количестве х6. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -949,14 +1043,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/28/026_TBoI_collectibles.png/revision/latest?cb=20160111222145&path-prefix=ru",
-      "locale_name": "Гнилое мясо",
+      "icon": "img/artifact_passive_rotten_meat_icon.png",
+      "local_name": null,
       "name": "Rotten Meat",
       "descr": "Дает один полный контейнер здоровья. Получение: Босс.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -965,14 +1059,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/4/4b/094_TBoI_collectibles.png/revision/latest?cb=20160111223520&path-prefix=ru",
-      "locale_name": "Сумка монет",
+      "icon": "img/artifact_passive_sack_of_pennies_icon.png",
+      "local_name": null,
       "name": "Sack of Pennies",
       "descr": "Выдает монетку через каждые 2 комнаты. Открывается прохождением игры за персонажа Каин. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -981,14 +1075,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/d/de/Sad_onion.jpg/revision/latest?cb=20120229144341&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_sad_onion_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/a/a3/001_TBoI_collectibles.png/revision/latest?cb=20160111211719&path-prefix=ru",
-      "locale_name": "Грустный лучок",
+      "icon": "img/artifact_passive_the_sad_onion_icon.png",
+      "local_name": null,
       "name": "The Sad Onion",
       "descr": "Увеличивает скорострельность на 0.7. Является отсылкой к обзорам пользователя Ashens на YouTube. Получение: Сокровищница, Золотой сундук. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -997,14 +1093,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/9/9d/067_TBoI_collectibles.png/revision/latest?cb=20160111222927&path-prefix=ru",
-      "locale_name": "Сестренка Мэгги",
+      "icon": "img/artifact_passive_sister_maggy_icon.png",
+      "local_name": null,
       "name": "Sister Maggy",
       "descr": "Следует за игроком, стреляет снарядами, наносящими 5 урона. Получение: Сокровищница, Комната Дьявола. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1013,14 +1109,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/1f/Skatole_Isaac.jpg/revision/latest?cb=20120229144439&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_skatole_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/73/009_TBoI_collectibles.png/revision/latest?cb=20160111221847&path-prefix=ru",
-      "locale_name": "Скатол",
+      "icon": "img/artifact_passive_skatole_icon.png",
+      "local_name": null,
       "name": "Skatole",
       "descr": "Мухи больше не повреждают игрока и притягиваются к нему, а взрывающиеся двигаются медленнее. Действует на мух не моментально. Можно успеть получить урон. Скатол – вещество, придающие калу характерный запах. Получение: Наперсточник.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1029,14 +1127,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/86/Skele_Key_Isaac.jpg/revision/latest?cb=20120229144502&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_skeleton_key_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/d/dc/017_TBoI_collectibles.png/revision/latest?cb=20160111222011&path-prefix=ru",
-      "locale_name": "Отмычка",
+      "icon": "img/artifact_passive_skeleton_key_icon.png",
+      "local_name": null,
       "name": "Skeleton Key",
       "descr": "Дает 99 ключей. Словосочетание Skeleton Key (он же passingkey) обозначает специальный ключ, сделанный таким образом, чтобы открывать все замки в определённом месте, например в гостиницах. Данное словосочетание не переводится на Русский язык дословно, как \"ключ скелета\" и является достаточно распространённой ошибкой. В частности в русской версии игры The Elder Scrolls. Получение: Сокровищница (1\\2 шанс), Комната Испытания.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1045,14 +1145,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/e/ec/Small_Rock_Isaac.jpg/revision/latest?cb=20120229144531&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_small_rock_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/d/d0/090_TBoI_collectibles.png/revision/latest?cb=20160111223452&path-prefix=ru",
-      "locale_name": "Камешек",
+      "icon": "img/artifact_passive_small_rock_icon.png",
+      "local_name": null,
       "name": "Small Rock",
       "descr": "Увеличивает урон на 1, скорострельность на 0.2 но уменьшает скорость перемещения на 0.2. Перекрашивает слезы в серый цвет. Получение: Помеченные камни (10% дроп). Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1061,14 +1163,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/2/24/Spelunker_Isaac.jpg/revision/latest?cb=20120229144601&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_spelunkers_hat_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/14/091_TBoI_collectibles.png/revision/latest?cb=20160111223459&path-prefix=ru",
-      "locale_name": "Каска шахтёра",
+      "icon": "img/artifact_passive_spelunkers_hat_icon.png",
+      "local_name": null,
       "name": "Spelunkers Hat",
       "descr": "Отображает местонахождение Секретной Комнаты, когда игрок доходит до комнаты, смежной с ней. Также отображает наличие минибоссов в смежных комнатах. Открывается прохождением Пещер. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1077,14 +1181,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/97/Spider_bite.jpg/revision/latest?cb=20120229144609&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_spider's_bite_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/d/d8/089_TBoI_collectibles.png/revision/latest?cb=20160111223445&path-prefix=ru",
-      "locale_name": "Укус паука",
+      "icon": "img/artifact_passive_spider's_bite_icon.png",
+      "local_name": null,
       "name": "Spider's Bite",
       "descr": "У слез игрока есть шанс замедлить врага. Открывается прохождением уровней Подвала. Получение: Секретная комната. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1093,14 +1199,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/36/Spoon_Bender_Isaac.jpg/revision/latest?cb=20120229144628&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_spoon_bender_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/4/4d/003_TBoI_collectibles.png/revision/latest?cb=20160111221736&path-prefix=ru",
-      "locale_name": "Сгибатель ложек",
+      "icon": "img/artifact_passive_spoon_bender_icon.png",
+      "local_name": null,
       "name": "Spoon Bender",
       "descr": "Снаряды игрока изгибаются в сторону врагов и приобретают фиолетовый оттенок. Если у вас хорошая дальность, то они могут повернуть назад, если пролетели врагов. Является отсылкой к фильму \"Матрица\", где главный герой силой мысли согнул ложку. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1109,14 +1217,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/d/d5/Steam_Sale_Isaac.jpg/revision/latest?cb=20120229144751&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_steam_sale_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/52/064_TBoI_collectibles.png/revision/latest?cb=20160111222818&path-prefix=ru",
-      "locale_name": "Распродажа в Стиме",
+      "icon": "img/artifact_passive_steam_sale_icon.png",
+      "local_name": null,
       "name": "Steam Sale",
       "descr": "Снижает цены в Магазине на 50%. Дорогие артефакты снижаются с округлением вниз (15->7), а дешевые предметы - с округлением вверх (5->3, 3->2). Получение: Магазин, Дроп с Алчности.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1125,14 +1235,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/e/e9/Steven_Isaac.jpg/revision/latest?cb=20120229144819&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_steven_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/3/36/050_TBoI_collectibles.png/revision/latest?cb=20160111222623&path-prefix=ru",
-      "locale_name": "Стивен",
+      "icon": "img/artifact_passive_steven_icon.png",
+      "local_name": null,
       "name": "Steven",
       "descr": "Увеличивает урон на 1. Получение: Золотой сундук, Дроп со Стивена с шансом 1\\6. Отсылка к другой игре Эдмунда МакМиллена \"Time Fcuk\"Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1141,14 +1253,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/f/f1/Super_bandage.jpg/revision/latest?cb=20120229144831&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_super_bandage_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/28/092_TBoI_collectibles.png/revision/latest?cb=20160111223506&path-prefix=ru",
-      "locale_name": "Супер пластырь",
+      "icon": "img/artifact_passive_super_bandage_icon.png",
+      "local_name": null,
       "name": "Super Bandage",
       "descr": "Даёт один полный контейнер здоровья и добавляет два Сердца Души. Встречается после победы над боссом. Открывается после нахождения 4-й формы \"Кубика мяса\". Получение: Босс (2\\3 шанс). Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1157,14 +1271,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/7/72/Technology.jpg/revision/latest?cb=20120229144854&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_technology_artifacts.json_0.jpg"
+        ],
         "descr": "Вместо слез стреляет лазером"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/a/af/068_TBoI_collectibles.png/revision/latest?cb=20160111222935&path-prefix=ru",
-      "locale_name": "Технология",
+      "icon": "img/artifact_passive_technology_icon.png",
+      "local_name": null,
       "name": "Technology",
       "descr": "Заменяет слезы персонажа на лазер. Дальность не ограничена. Лазеры не могут быть выпущены под углом, и они не останавливают/отбрасывают врагов при попадании, как слезы. Если у вас был Артефакт “Эпичный Зародыш” (Epic Fetus), то помимо запуска ракет, персонаж будет стрелять невидимым лазером (баг?). Получение: Сокровищница (4\\5 шанс), Комната Дьявола (1\\5 шанс). Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1173,14 +1289,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/5/56/Transcendance_Isaac.jpg/revision/latest?cb=20120229145252&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_transcendence_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/1b/020_TBoI_collectibles.png/revision/latest?cb=20160111222028&path-prefix=ru",
-      "locale_name": "Виселица",
+      "icon": "img/artifact_passive_transcendence_icon.png",
+      "local_name": null,
       "name": "Transcendence",
       "descr": "Веревка с петлей, убирающая тело игрока, позволяющая голове летать над камнями и пропастями. Если у вас уже есть Артефакт, делающий игрока демоном (“Гвоздь”, “Договор”), Трансцендентность даст игроку вместо этого черные крылья. Открывается прохождением игры второй раз. Получение: Секретная комната (2\\3 шанс). Трансцендентность – непостижимость для сознания.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1189,14 +1307,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/b/b8/054_TBoI_collectibles.png/revision/latest?cb=20160111222656&path-prefix=ru",
-      "locale_name": "Карта Сокровищ",
+      "icon": "img/artifact_passive_treasure_map_icon.png",
+      "local_name": null,
       "name": "Treasure Map",
       "descr": "Показывает полную карту каждого уровня (без иконок), также отмечая Секретные Комнаты. Получение: Магазин х2.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1205,14 +1323,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/b/b6/The_Virus.jpg/revision/latest?cb=20120229145105&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_virus_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/8/8e/013_TBoI_collectibles.png/revision/latest?cb=20160111221945&path-prefix=ru",
-      "locale_name": "Вирус",
+      "icon": "img/artifact_passive_the_virus_icon.png",
+      "local_name": null,
       "name": "The Virus",
       "descr": "Позволяет повреждать врагов при касании, 40 урона, дополнительно отравляя их ядом, 2 урона за тик. Уменьшает скорость на 0.2. Уменьшение скорости не сочетается с оным от \"Толстого чудо-гриба\". Получение: Сокровищница, Комната Испытания, Дроп с Похоти.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1221,14 +1341,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/0/05/The_Wafer_Isaac.jpg/revision/latest?cb=20120229145130&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_the_wafer_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/a/ad/108_TBoI_collectibles.png/revision/latest?cb=20160111223654&path-prefix=ru",
-      "locale_name": "Облатка",
+      "icon": "img/artifact_passive_the_wafer_icon.png",
+      "local_name": null,
       "name": "The Wafer",
       "descr": "Добавляет сопротивление урону. Любой отнимающий 1 полное сердце урон отнимет только 1/2 сердца Замечательно работает с персонажем ???. Все предметы в Комнате Дьявола будут стоить 1/2 Сердца души. (визуально цена остаётся прежней, но при покупке тратится только половина сердца). Открывается прохождением игры в 7-ой раз. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1237,14 +1359,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/9/9f/Wiggle_Worm.jpg/revision/latest?cb=20120229145522&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_wiggle_worm_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/14/059_TBoI_collectibles.png/revision/latest?cb=20160111222738&path-prefix=ru",
-      "locale_name": "Извивающийся червь",
+      "icon": "img/artifact_passive_wiggle_worm_icon.png",
+      "local_name": null,
       "name": "Wiggle Worm",
       "descr": "Заставляет слезы лететь по волнообразной траектории, увеличивает скорострельность на 0.2. Если у вас есть Артефакт “Технология” (Technology), данный Артефакт лишь изменит анимацию выстреливающего лазера, но не расширит его. Получение: Сокровищница. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1253,14 +1377,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/a/a7/Wire_Coat_Hanger_Isaac.jpg/revision/latest?cb=20120229145542&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_wire_coat_hanger_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/5/57/032_TBoI_collectibles.png/revision/latest?cb=20160111222228&path-prefix=ru",
-      "locale_name": "Вешалка из проволоки",
+      "icon": "img/artifact_passive_wire_coat_hanger_icon.png",
+      "local_name": null,
       "name": "Wire Coat Hanger",
       "descr": "Увеличивает скорострельность на 0.7. Получение: Босс.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1269,14 +1395,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/b/be/Spoon_Isaac.jpg/revision/latest?cb=20120229144654&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_wooden_spoon_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/35/027_TBoI_collectibles.png/revision/latest?cb=20160111222153&path-prefix=ru",
-      "locale_name": "Деревянная ложка",
+      "icon": "img/artifact_passive_wooden_spoon_icon.png",
+      "local_name": null,
       "name": "Wooden Spoon",
       "descr": "Увеличивает скорость перемещения на 0.3. Получение: Босс, Золотой сундук.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1285,14 +1413,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/8b/X-Ray_Specs_Isaac.jpg/revision/latest?cb=20120229145703&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_x-ray_vision_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/1f/076_TBoI_collectibles.png/revision/latest?cb=20160111223120&path-prefix=ru",
-      "locale_name": "Рентгеновское зрение",
+      "icon": "img/artifact_passive_x-ray_vision_icon.png",
+      "local_name": null,
       "name": "X-Ray Vision",
       "descr": "Отображает и делает всегда открытыми входы в Секретные Комнаты. (Существует небольшой баг. Рыцари и многие другие враги могут застрять в дырке, ведущей в секретную комнату, при ускорении в Вас). Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1301,14 +1431,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/20/Nine_Volt_Isaac.jpg/revision/latest?cb=20120229143445&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_9_volt_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/4/45/116_TBoI_collectibles.png/revision/latest?cb=20160111223851&path-prefix=ru",
-      "locale_name": "9 Вольт",
+      "icon": "img/artifact_passive_9_volt_icon.png",
+      "local_name": null,
       "name": "9 Volt",
       "descr": "После использования активируемого предмета шкала заряда заполнится на 2 пункта. Способность почти не касается предметов, которые заряжаются за 2 или менее комнат. В итоге, предмет, который заряжается 3 комнаты, заполнится за 2, а 6 - за 4 комнаты. При покупке мгновенно перезаряжает текущий предмет. Получение: Магазин (1\\2 шанс).",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1317,14 +1449,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/7/7b/Blood_Bag_Isaac.jpg/revision/latest?cb=20120229141107&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_blood_bag_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/5/53/119_TBoI_collectibles.png/revision/latest?cb=20160111223913&path-prefix=ru",
-      "locale_name": "Пакет с кровью",
+      "icon": "img/artifact_passive_blood_bag_icon.png",
+      "local_name": null,
       "name": "Blood Bag",
       "descr": "Увеличивает максимальное здоровье на 1, скорость на 0.2 и восстанавливает 4 сердца. Можно найти или получить несколько раз за прохождение. Получение: Автомат сдачи крови.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1333,14 +1467,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Внешний вид не меняется"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/ff/125_TBoI_collectibles.png/revision/latest?cb=20160111223948&path-prefix=ru",
-      "locale_name": "Бобби-Бомба",
+      "icon": "img/artifact_passive_bobby-bomb_icon.png",
+      "local_name": null,
       "name": "Bobby-Bomb",
       "descr": "Дает 5 бомб и делает их самонаводящимися. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1349,14 +1483,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Cледует за игроком"
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/91/131_TBoI_collectibles.png/revision/latest?cb=20160111224035&path-prefix=ru",
-      "locale_name": "Мешок с бомбами",
+      "icon": "img/artifact_passive_bomb_bag_icon.png",
+      "local_name": null,
       "name": "Bomb Bag",
       "descr": "Каждые 3 комнаты случайно выпадают бомба, 1+1 Free бомба или Тролль-бомба. Разблокируется после прохождения Преисподней за Каина. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1365,14 +1499,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/90/Brimstone_Isaac_small.png/revision/latest?cb=20120608120224&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_brimstone_artifacts.json_0.png"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/88/118_TBoI_collectibles.png/revision/latest?cb=20160111223903&path-prefix=ru",
-      "locale_name": "Сера",
+      "icon": "img/artifact_passive_brimstone_icon.png",
+      "local_name": null,
       "name": "Brimstone",
       "descr": "Стрельба мощным потоком крови изо рта. Увеличивает урон в 3 раза. Бьет несколько раз за выстрел. Существует баг, названный \"Brimsnap Glitch\": если после разрядки лазера быстро нажимать кнопку стрельбы, он ударит еще несколько раз, при этом визуально игрок стреляет вниз. Получение: Комната Дьявола.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1381,14 +1517,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/c/c6/Lard.png/revision/latest?cb=20120229142506&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_bucket_of_lard_artifacts.json_0.png"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/d/d6/129_TBoI_collectibles.png/revision/latest?cb=20160111224024&path-prefix=ru",
-      "locale_name": "Ведро сала",
+      "icon": "img/artifact_passive_bucket_of_lard_icon.png",
+      "local_name": null,
       "name": "Bucket of Lard",
       "descr": "Добавляет 2 пустых контейнера под сердца и восстанавливает половину сердца, а также уменьшает скорость на 0.2. Получение: Сокровищница, Дроп с Супер-Чревоугодия.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1397,14 +1535,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/11/Dead_Bird_Isaac.jpg/revision/latest?cb=20120229141749&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_dead_bird_artifacts.json_0.jpg"
+        ],
         "descr": "В активированном состоянии следует за игроком и врагами поблизости"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/4/46/117_TBoI_collectibles.png/revision/latest?cb=20160111223857&path-prefix=ru",
-      "locale_name": "Мёртвая птичка",
+      "icon": "img/artifact_passive_dead_bird_icon.png",
+      "local_name": null,
       "name": "Dead Bird",
       "descr": "Когда игрок получает повреждение, птичка начинает атаковать врагов, нанося 2 урона за удар. Может перелетать через препятствия. Действует только в текущей комнате. Разблокируется после открытия Евы. Имеет неприятную особенность \"зависать\" на стреляющих статуях в виде головы. Однако, убивает Наблюдателей, даже если те в форме черепа. Получение: Сокровищница, Ева начинает игру с данным артефактом.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1413,14 +1553,14 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ ],
+        "imgs": [],
         "descr": "Следует за игроком"
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/f/f3/113_TBoI_collectibles.png/revision/latest?cb=20160111223716&path-prefix=ru",
-      "locale_name": "Крошка-Демон",
+      "icon": "img/artifact_passive_demon_baby_icon.png",
+      "local_name": null,
       "name": "Demon Baby",
       "descr": "Летает за игроком и автоматически стреляет во врагов в любом направлении, наносит 3 урона, если цель в допустимом радиусе атаки. Не атакует цель, если та находится за преградой или в пропасти. (Также может доставить Вам много проблем, если рядом с Вами взрывоопасные монстры). Разблокируется после прохождения Преисподней персонажем Ева. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс).",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1429,14 +1569,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/d/da/Guardian_Angel.png/revision/latest?cb=20120229142124&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_guardian_angel_artifacts.json_0.png"
+        ],
         "descr": "Кружит по орбите вокруг игрока"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/8f/112_TBoI_collectibles.png/revision/latest?cb=20160111223708&path-prefix=ru",
-      "locale_name": "Ангел-Хранитель",
+      "icon": "img/artifact_passive_guardian_angel_icon.png",
+      "local_name": null,
       "name": "Guardian Angel",
       "descr": "Вращается вокруг игрока, блокирует снаряды от врагов, наносит 7 урона противникам при прикосновении. Также увеличивает скорость вращения всех прислужников, летающих вокруг Вас на 30%. При поднятии появляется надпись Faith Up, однако ничего общего с Чётками не имеет. Получение: Сокровищница, Комната Ангела. Разблокируется после прохождения Преисподней Магдалиной.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1445,14 +1587,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/f/f0/Mom%27s_Knife_Isaac.jpg/revision/latest?cb=20120229143056&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_mom's_knife_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/a/a4/114_TBoI_collectibles.png/revision/latest?cb=20160111223840&path-prefix=ru",
-      "locale_name": "Мамин нож",
+      "icon": "img/artifact_passive_mom's_knife_icon.png",
+      "local_name": null,
       "name": "Mom's Knife",
       "descr": "Игроку дается нож, дальность полета зависит от зажима атаки. Нож можно бросать как бумеранг. Также можно использовать как оружие ближнего боя. Нож можно бросить по диагонали. Также нож \"привязывается\" к основному урону. Максимальное поражение броском достигается тем, что нож дольше находится в враге. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Открывается после победы над Сатаной за Исаака. Нож изменяет свой внешний вид (цвет) из за некоторых предметов:Паразит (Parasite) - оранжевыйСгибатель ложек (Spoon Bender) - фиолетовыйПростуда (Common Cold) - зеленыйДоска для спиритических сеансов (Ouija Board) - прозрачныйМаленький камешек (Small Rock) - серыйКусок угля (Lump of Coal) - черныйУкус паука (Spider Bite) - белыйМамины линзы (Mom's Contacts) - красныйНомер один (Number One) - желтый",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1461,14 +1605,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/25/Odd_mush_thin.jpg/revision/latest?cb=20120229143516&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_odd_mushroom_(thin)_artifacts.json_0.jpg"
+        ],
         "descr": " Уменьшение размеров головы игрока"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/1/17/120_TBoI_collectibles.png/revision/latest?cb=20160111223919&path-prefix=ru",
-      "locale_name": "Тонкий Чудо-гриб",
+      "icon": "img/artifact_passive_odd_mushroom_(thin)_icon.png",
+      "local_name": null,
       "name": "Odd Mushroom (Thin)",
       "descr": "Увеличение скорости на 0.3, максимальная скорострельность (+1.7). Урон умножается на 0.9 и уменьшается на 0.4. Получение: Сокровищница.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1477,14 +1623,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/2/28/Odd_Mush_Flat_Isaac.jpg/revision/latest?cb=20120229143505&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_odd_mushroom_(large)_artifacts.json_0.jpg"
+        ],
         "descr": " Увеличение размеров головы игрока"
       },
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/e/e3/121_TBoI_collectibles.png/revision/latest?cb=20160111223925&path-prefix=ru",
-      "locale_name": "Толстый Чудо-гриб",
+      "icon": "img/artifact_passive_odd_mushroom_(large)_icon.png",
+      "local_name": null,
       "name": "Odd Mushroom (Large)",
       "descr": "Увеличение урона на 0.3, добавление одного пустого контейнера под здоровье, уменьшение скорости на 0.2.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1493,14 +1641,16 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/Ouija_Isaac.jpg/revision/latest?cb=20120229143557&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_ouija_board_artifacts.json_0.jpg"
+        ],
         "descr": ""
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/f7/115_TBoI_collectibles.png/revision/latest?cb=20160111223846&path-prefix=ru",
-      "locale_name": "Доска для спиритических сеансов",
+      "icon": "img/artifact_passive_ouija_board_icon.png",
+      "local_name": null,
       "name": "Ouija Board",
       "descr": "Позволяет слезам игрока пролетать через препятствия. Огонь и груды кала всё еще можно разбивать/тушить, но медленнее. Получение: Сокровищница, Комната Дьявола. Специальный.",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1509,14 +1659,18 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/a/af/Whore_of_Babylon_Isaac_small.jpg/revision/latest?cb=20120608115854&path-prefix=ru" ],
+        "imgs": [
+          "img/artifact_passive_whore_of_babylon_artifacts.json_0.jpg"
+        ],
         "descr": "Внешний вид в активированном состоянии"
       },
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/8e/122_TBoI_collectibles.png/revision/latest?cb=20160111223931&path-prefix=ru",
-      "locale_name": "Вавилонская блудница",
+      "icon": "img/artifact_passive_whore_of_babylon_icon.png",
+      "local_name": null,
       "name": "Whore of Babylon",
       "descr": "Превращает игрока в демона, когда остается 1/2 сердца. Урон увеличивается на 2.16, скорость - на 0.45. При переходе в следующую комнату и сохранении эффекта прибавка к урону снизится до 1.5. Действие прекратится, если здоровье персонажа станет больше, чем 1/2 сердца и он перейдет в другую комнату. При активации на экране появляется надпись: '\"What a horrible night to have a curse...\" (Страшная ночь для того, чтобы быть проклятой) - отсылка к 's_Quest Castlevania 2: Simon's Quest. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Ева начинает игру с данным артефактом.",
-      "links": [ "http://ru.wikipedia.org/wiki/Castlevania_II_Simon" ]
+      "links": [
+        "http://ru.wikipedia.org/wiki/Castlevania_II_Simon"
+      ]
     }
   },
   {
@@ -1524,12 +1678,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/3b/065_TBoI_collectibles.png/revision/latest?cb=20160111222827&path-prefix=ru",
-      "locale_name": "Поваренная книга анархиста",
+      "appearance": null,
+      "icon": "img/artifact_active_anarchist_cookbook_icon.png",
+      "local_name": null,
       "name": "Anarchist Cookbook",
       "descr": "Создает 6 тролль-бомб по всей комнате. Карта Таро \"Башня\" имеет такой же эффект. Получение: Библиотека, Сокровищница, дроп с Гордыни. Название - отсылка к пособию по изготовлению взрывчатки в домашних условиях.",
-      "cooldown": "3",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1537,12 +1691,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/5/56/111_TBoI_collectibles.png/revision/latest?cb=20160111223701&path-prefix=ru",
-      "locale_name": "Боб",
+      "appearance": null,
+      "icon": "img/artifact_active_the_bean_icon.png",
+      "local_name": null,
       "name": "The Bean",
       "descr": "При активации выделяет газ, отравляя врагов поблизости. Пилюля \"отвратительный газ\" (Bad Gas) имеет такой же эффект. Получение: Сокровищница. Открывается уничтожением 50 кучек кала на игровых уровнях.",
-      "cooldown": "1",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1550,12 +1704,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/3/36/042_TBoI_collectibles.png/revision/latest?cb=20160111222435&path-prefix=ru",
-      "locale_name": "Гнилая голова Боба",
+      "appearance": null,
+      "icon": "img/artifact_active_bob's_rotten_head_icon.png",
+      "local_name": null,
       "name": "Bob's Rotten Head",
       "descr": "При активации, игрок поднимает над собой голову и кидает её в выбранном направлении. Повреждает врагов напрямую, а также отравляет ядом в течение 5 секунд. Взрыв головы-бомбы уничтожает камни и также может повредить игрока. Получение: Секретная комната, Дроп с Лени. Бомбы полетят по дуге обратно к игроку, если у вас имеется артефакт \"Мое Отражение\".",
-      "cooldown": "3",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1563,12 +1717,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/9d/033_TBoI_collectibles.png/revision/latest?cb=20160111222236&path-prefix=ru",
-      "locale_name": "Библия",
+      "appearance": null,
+      "icon": "img/artifact_active_the_bible_icon.png",
+      "local_name": null,
       "name": "The Bible",
       "descr": "Дарует игроку крылья и возможность летать в пределах данной комнаты. Также мгновенно убивает Маму, Сердце Мамы и Оно Живое. Предупреждение: - Сатана, Исаак (босс) и ??? (босс) мгновенно убивают при попытке использования Библии во время схватки с ними. Получение: Сокровищница, Комната Ангела, Магазин х6 только при подъеме \"Четок\".",
-      "cooldown": "6",
-      "links": [ "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/78/Isaac_Fate.png/revision/latest?cb=20120903165205&path-prefix=ru" ]
+      "links": [
+        "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/78/Isaac_Fate.png/revision/latest?cb=20120903165205&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1576,12 +1732,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/e/e1/034_TBoI_collectibles.png/revision/latest?cb=20160111222243&path-prefix=ru",
-      "locale_name": "Книга Белиала",
+      "appearance": null,
+      "icon": "img/artifact_active_the_book_of_belial_icon.png",
+      "local_name": null,
       "name": "The Book of Belial",
       "descr": "+2 урона в пределах данной комнаты. Эффект одинаков с картой таро “Дьявол” (The Devil) и не сочетается с ней. Если персонаж при активации имеет артефакт \"Кровь Мученика\", их совмещенный эффект добавляет умножение урона в полтора раза. Увеличивает шанс получения комнаты Дьявола\\Ангела на 25%. Получение: Библиотека, Сокровищница (1\\3 шанс), Комната Дьявола (1\\6 шанс), Секретная комната (1\\2 шанс), Иуда начинат игру с данным артефактом. Открывается убийством Сердца Мамы. Белиал – имя демона в Библии и некоторых других книгах.",
-      "cooldown": "3",
-      "links": ["http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/de/Belialisaac.jpg/revision/latest?cb=20120903165218&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/de/Belialisaac.jpg/revision/latest?cb=20120903165218&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1589,12 +1747,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/4/4e/078_TBoI_collectibles.png/revision/latest?cb=20160111223146&path-prefix=ru",
-      "locale_name": "Книга Откровений",
+      "appearance": null,
+      "icon": "img/artifact_active_the_book_of_revelations_icon.png",
+      "local_name": null,
       "name": "The Book of Revelations",
       "descr": "Добавляет 1 Сердце Души. При использовании на уровне гарантирует появление Всадника-босса, если он на этом этаже ещё не появлялся. Не влияет на уровни с проклятьем лабиринта. Увеличивает шанс получения комнаты Дьявола\\Ангела на 35%Получение: Библиотека, Магазин. Открывается убийством любого из Всадников.",
-      "cooldown": "6",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1602,12 +1760,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/5/5e/058_TBoI_collectibles.png/revision/latest?cb=20160111222729&path-prefix=ru",
-      "locale_name": "Книга Теней",
+      "appearance": null,
+      "icon": "img/artifact_active_book_of_shadows_icon.png",
+      "local_name": null,
       "name": "Book of Shadows",
       "descr": "Создает барьер не пропускающий урон на 10 секунд. Получение: Сокровищница, Библиотека. Отсылка к сериалу \"Зачарованные\".",
-      "cooldown": "3",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/43/Shield.jpg/revision/latest?cb=20120903165230&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/43/Shield.jpg/revision/latest?cb=20120903165230&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1615,12 +1775,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/4d/097_TBoI_collectibles.png/revision/latest?cb=20160111223538&path-prefix=ru",
-      "locale_name": "Книга Грехов",
+      "appearance": null,
+      "icon": "img/artifact_active_the_book_of_sin_icon.png",
+      "local_name": null,
       "name": "The Book of Sin",
       "descr": "Создает рядом случайный Предмет (бомбы, ключи, сердечки, пилюли и карты Таро). Получение: Библиотека, Комната Дьявола (1\\3 шанс), Сокровищница (2\\3 шанс). Открывается победой над каждым из Семи Смертных Грехов.",
-      "cooldown": "4",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1628,12 +1788,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/3a/124_TBoI_collectibles.png/revision/latest?cb=20160111223942&path-prefix=ru",
-      "locale_name": "Свитки Мёртвого моря",
+      "appearance": null,
+      "icon": "img/artifact_active_dead_sea_scrolls_icon.png",
+      "local_name": null,
       "name": "Dead Sea Scrolls",
       "descr": "Использует случайный активируемый предмет. Не может использовать \"D6\". Если предмет не имеет времени перезарядки (Камикадзе, например), то есть возможность использовать Свиток еще раз без перезарядки. Получение: Сокровищница.",
-      "cooldown": "0-6",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1641,12 +1801,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/2/25/085_TBoI_collectibles.png/revision/latest?cb=20160111223415&path-prefix=ru",
-      "locale_name": "Колода карт",
+      "appearance": null,
+      "icon": "img/artifact_active_колода_карт_icon.png",
+      "local_name": null,
       "name": "Колода карт",
       "descr": "Deck of Cards",
-      "cooldown": "",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1654,12 +1814,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/9/98/105_TBoI_collectibles.png/revision/latest?cb=20160111223620&path-prefix=ru",
-      "locale_name": "D6",
+      "appearance": null,
+      "icon": "img/artifact_active_d6_icon.png",
+      "local_name": null,
       "name": "D6",
       "descr": "Позволяет заменить любой лежащий на пьедестале Артефакт, будь он Активируемым или Пассивным, на случайный другой. D6 может заменять не только Артефакты, лежащие в Комнате Сокровищ, но и Артефакты в Магазине, а также выпавшие из Боссов, Попрошайки, разрушаемого камня и т.д. Исключения – Кубик Мяса, Пони, Белая Пони, и Маленький Ч. А. Д. они всегда будут заменены на эти же Артефакты. Получение: Сокровищница, Исаак начинает игру с данным артафактом (только после прохождения Утробы за персонажа ???).",
-      "cooldown": "3",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1667,12 +1827,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/2/2e/047_TBoI_collectibles.png/revision/latest?cb=20160111222508&path-prefix=ru",
-      "locale_name": "ПДУ Доктора",
+      "appearance": null,
+      "icon": "img/artifact_active_doctor's_remote_icon.png",
+      "local_name": null,
       "name": "Doctor's Remote",
       "descr": "Устанавливает крупную красную мишень на полу комнаты, позицию которой можно изменить с помощью стрелок на клавиатуре или с помощью мышки (как с \"Эпичным Зародышем\"). Через несколько секунд огромная ракета прилетит в указанное место, наносит 80 урона. Получение: Сокровищница. Это отсылка к персонажу Dr. Fetus из игры Super Meat Boy.",
-      "cooldown": "3",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1680,12 +1840,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/c/c7/127_TBoI_collectibles.png/revision/latest?cb=20160111224008&path-prefix=ru",
-      "locale_name": "Забудь меня",
+      "appearance": null,
+      "icon": "img/artifact_active_forget_me_now_icon.png",
+      "local_name": null,
       "name": "Forget Me Now",
       "descr": "При активации уровень заканчивается и запускается заново: с новыми комнатами, монстрами и предметами. Исчезает при активации. Получение: Сокровищница (1\\2 шанс), Комната Дьявола(1\\2 шанс). Отсылка к сериалу \"Замедленное Развитие\", где персонаж Джоб называет \"roofies\" \"Забудь Меня\". Открывается прохождением Преисподней персонажем ???. Использование в Соборе спавнит игрока в Преисподней, на Сундук это не распространяется.",
-      "cooldown": "-",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1693,12 +1853,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/0/04/093_TBoI_collectibles.png/revision/latest?cb=20160111223513&path-prefix=ru",
-      "locale_name": "Геймкид",
+      "appearance": null,
+      "icon": "img/artifact_active_the_gamekid_icon.png",
+      "local_name": null,
       "name": "The Gamekid",
       "descr": "Дает несколько эффектов: временная неуязвимость, способность касанием повреждать врагов на 40 урона, лечит 1/2 здоровья при убийстве каждого 2 монстра (не босса) в течение 5 секунд. Во время действия невозможно использовать обычную атаку. Ощутимым отличием от Артефакта “Мой Маленький Единорог” (My Little Unicorn) является то, что враги во время действия Геймкида убегают от игрока в течение 5 секунд. Открывается посещением Игровых Комнат 10 раз. Получение: Сокровищница. Примечание: Когда используется в комнате дьявола, цвета сердец кажутся более темными, но они НЕ превращены в сердца души (покупаемое изделие, будет стоить нормальных сердец). Отсылка к игре \"Pac-Man\" и  к приставке \"Gameboy\"",
-      "cooldown": "6",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/4c/Pacisaac.jpg/revision/latest?cb=20120903170241&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/4c/Pacisaac.jpg/revision/latest?cb=20120903170241&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1706,12 +1868,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/87/066_TBoI_collectibles.png/revision/latest?cb=20160111222918&path-prefix=ru",
-      "locale_name": "Песочные часы",
+      "appearance": null,
+      "icon": "img/artifact_active_the_hourglass_icon.png",
+      "local_name": null,
       "name": "The Hourglass",
       "descr": "Замедляет врагов и снаряды на 7,5 секунд. Получение: Сокровищница.",
-      "cooldown": "2",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1719,12 +1881,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "",
-      "locale_name": "Камикадзе! ",
+      "appearance": null,
+      "icon": "img/artifact_active_kamikaze!_icon.jpg",
+      "local_name": null,
       "name": "Kamikaze!",
       "descr": "Активация создает взрыв вокруг игрока, повреждая врагов вокруг, а также отнимая у самого игрока одно сердце. Получение: Сокровищница. Баг: если использовать, плотно прижавшись к стене (т.е. двигаясь в стену), то сердце не отнимается. Баг не работает, если за стеной находится секретная или супер-секретная  комната.",
-      "cooldown": "0",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1732,12 +1894,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/e/ee/056_TBoI_collectibles.png/revision/latest?cb=20160111222711&path-prefix=ru",
-      "locale_name": "Лимонная авария",
+      "appearance": null,
+      "icon": "img/artifact_active_lemon_mishap_icon.png",
+      "local_name": null,
       "name": "Lemon Mishap",
       "descr": "Заставляет игрока, дословно, обмочиться, что создает лужу, повреждающую любых врагов, пересекающих ее. Получение: Сокровищница. Наносит 8 урона за удар.",
-      "cooldown": "2",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1745,12 +1907,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/21/102_TBoI_collectibles.png/revision/latest?cb=20160111223607&path-prefix=ru",
-      "locale_name": "Мамина склянка пилюль",
+      "appearance": null,
+      "icon": "img/artifact_active_mom's_bottle_of_pills_icon.png",
+      "local_name": null,
       "name": "Mom's Bottle of Pills",
       "descr": "Создает случайную пилюлю. Открывается многократным использованием Автомата по сдаче крови. Получение: Сокровищница.",
-      "cooldown": "6",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1758,12 +1920,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/89/Momsbra.png/revision/latest?cb=20120805150237&path-prefix=ru",
-      "locale_name": "Мамин лифчик",
+      "appearance": null,
+      "icon": "img/artifact_active_mom's_bra_icon.png",
+      "local_name": null,
       "name": "Mom's Bra",
       "descr": "Заставляет игрока надеть на голову лифчик на 15 секунд, благодаря чему враги на 7 секунд застывают на месте. Получение: Сокровищница.",
-      "cooldown": "3",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f7/039_TBoI_collectibles.png/revision/latest?cb=20160111222407&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f7/039_TBoI_collectibles.png/revision/latest?cb=20160111222407&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1771,12 +1935,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/f0/041_TBoI_collectibles.png/revision/latest?cb=20160111222427&path-prefix=ru",
-      "locale_name": "Мамина прокладка",
+      "appearance": null,
+      "icon": "img/artifact_active_mom's_pad_icon.png",
+      "local_name": null,
       "name": "Mom's Pad",
       "descr": "Враги на 6 секунд начинают убегать от игрока и становятся синими. Получение: Сокровищница.",
-      "cooldown": "3",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1784,12 +1948,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/22/123_TBoI_collectibles.png/revision/latest?cb=20160111223936&path-prefix=ru",
-      "locale_name": "Руководство о монстрах",
+      "appearance": null,
+      "icon": "img/artifact_active_monster_manuel_icon.png",
+      "local_name": null,
       "name": "Monster Manuel",
       "descr": "Вызывает случайного помощника на текущую комнату. Открывается прохождением Преисподней персонажем Иуда. Получение: Сокровищница (2\\3 шанс), Библиотека, Комната Дьявола (1\\3 шанс).",
-      "cooldown": "4",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1797,12 +1961,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/99/086_TBoI_collectibles.png/revision/latest?cb=20160111223424&path-prefix=ru",
-      "locale_name": "Зуб Монстро",
+      "appearance": null,
+      "icon": "img/artifact_active_monstro's_tooth_icon.png",
+      "local_name": null,
       "name": "Monstro's Tooth",
       "descr": "Монстро прыгает на случайного из врагов и наносит 120 урона. Будьте внимательны: прикосновение к Монстро так же повреждает игрока. Примечание: не работает на самом Монстро (с Монстро 2 работает). Работает в части Rebirth. Получение: Сокровищница. Открывается победой над каждым Боссом с уровней Подвала.",
-      "cooldown": "4",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1810,12 +1974,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/6/66/037_TBoI_collectibles.png/revision/latest?cb=20160111222337&path-prefix=ru",
-      "locale_name": "Мистер Бум",
+      "appearance": null,
+      "icon": "img/artifact_active_mr._boom_icon.png",
+      "local_name": null,
       "name": "Mr. Boom",
       "descr": "Ставит большую бомбу. У нее больший радиус взрыва и она наносит 110 урона (вместо обычных 60). Получение: Сокровищница, дроп с Гнева.",
-      "cooldown": "2",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1823,12 +1987,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/6/6f/077_TBoI_collectibles.png/revision/latest?cb=20160111223137&path-prefix=ru",
-      "locale_name": "Мой маленький единорог",
+      "appearance": null,
+      "icon": "img/artifact_active_my_little_unicorn_icon.png",
+      "local_name": null,
       "name": "My Little Unicorn",
       "descr": "Дает неуязвимость и возможность наносить 40 урона касанием в течение 5 секунд. Во время действия невозможно использовать обычную атаку. Является отсылкой к мультсериалу My Little Pony. Получение: Сокровищница, Секретная Комната (1\\2 шанс на х2).",
-      "cooldown": "6",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/1d/MLUisaac.jpg/revision/latest?cb=20120903170328&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/1d/MLUisaac.jpg/revision/latest?cb=20120903170328&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1836,12 +2002,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f9/083_TBoI_collectibles.png/revision/latest?cb=20160111223227&path-prefix=ru",
-      "locale_name": "Гвоздь",
+      "appearance": null,
+      "icon": "img/artifact_active_the_nail_icon.png",
+      "local_name": null,
       "name": "The Nail",
       "descr": "Несколько эффектов: добавляет 1 Сердце Души; позволяет ломать камни, проходя через них; увеличивает повреждение на 0.7; уменьшает скорость перемещения на 0.2 в текущей комнате. Открывается прохождением игры 3 раза. Получение: Комната Дьявола (2\\3 шанс).",
-      "cooldown": "6",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1849,12 +2015,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/13/035_TBoI_collectibles.png/revision/latest?cb=20160111222249&path-prefix=ru",
-      "locale_name": "Некрономикон",
+      "appearance": null,
+      "icon": "img/artifact_active_the_necronomicon_icon.png",
+      "local_name": null,
       "name": "The Necronomicon",
       "descr": "Наносит всем врагам в комнате по 40 урона. Открывается использованием карты Таро “Смерть” (The Death) определенное число раз. Некрономикон – вымышленная книга мёртвых. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (2\\9 шанс), Библиотека (2\\3 шанс).",
-      "cooldown": "6",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1862,12 +2028,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/9/99/130_TBoI_collectibles.png/revision/latest?cb=20160111224029&path-prefix=ru",
-      "locale_name": "Пони",
+      "appearance": null,
+      "icon": "img/artifact_active_a_pony_icon.png",
+      "local_name": null,
       "name": "A Pony",
       "descr": "Устанавливает параметр скорости на 1.5 и позволяет игроку летать через различные препятствия. При использовании игрок быстро перелетает в выбранном направлении, нанося 40 урона всем подряд, кто стоит на пути. Примечание: При использовании в Аппарат по сдачи крови вы не потратите сердце. Так же в комнате жертвоприношений. Получение: Дроп с Всадника без Головы.",
-      "cooldown": "4",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/6b/Official_pony.png/revision/latest?cb=20120903170440&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/6b/Official_pony.png/revision/latest?cb=20120903170440&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1875,12 +2043,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "",
-      "locale_name": "Какашка ",
+      "appearance": null,
+      "icon": "img/artifact_active_the_poop_icon.jpg",
+      "local_name": null,
       "name": "The Poop",
       "descr": "Игрок роняет кучку кала, точно такую же, какие лежат в подвалах. Открывается 10-ым прохождением игры. Получение: Сокровищница, ??? начинает игру с этим Артефактом.",
-      "cooldown": "1",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1888,12 +2056,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/14/126_TBoI_collectibles.png/revision/latest?cb=20160111223954&path-prefix=ru",
-      "locale_name": "Лезвие бритвы",
+      "appearance": null,
+      "icon": "img/artifact_active_razor_blade_icon.png",
+      "local_name": null,
       "name": "Razor Blade",
       "descr": "Отнимает сердце в обмен на увеличение урона в данной комнате. За каждое использование дает 0.6 урона. Как и аппарат по сдаче крови, Бритва сначала отнимает красные сердца, а с половины сердца - сердца душ. Разблокируется после убийства Сердца Мамы/Оно Живое персонажем Ева. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс).",
-      "cooldown": "-",
-      "links": [ "http://vignette4.wikia.nocookie.net/bindingofisaac/images/e/e8/Eve_Razor_Blade_small.png/revision/latest?cb=20120903170628&path-prefix=ru" ]
+      "links": [
+        "http://vignette4.wikia.nocookie.net/bindingofisaac/images/e/e8/Eve_Razor_Blade_small.png/revision/latest?cb=20120903170628&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1901,12 +2071,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/b/b5/107_TBoI_collectibles.png/revision/latest?cb=20160111223648&path-prefix=ru",
-      "locale_name": "Ножницы",
+      "appearance": null,
+      "icon": "img/artifact_active_the_pinking_shears_icon.png",
+      "local_name": null,
       "name": "The Pinking Shears",
       "descr": "Отрезает голову от тела на одну комнату. То есть дает голове полет, а тело бегает по комнате и наносит 7 урона врагам за удар. Получение: Сокровищница. Открывается 100 смертями игрока.  ",
-      "cooldown": "6",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/64/Shearsisaac.jpg/revision/latest?cb=20120903170652&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/64/Shearsisaac.jpg/revision/latest?cb=20120903170652&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1914,12 +2086,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/7/72/049_TBoI_collectibles.png/revision/latest?cb=20160111222615&path-prefix=ru",
-      "locale_name": "Шуп да вуп!",
+      "appearance": null,
+      "icon": "img/artifact_active_shoop_da_whoop!_icon.png",
+      "local_name": null,
       "name": "Shoop Da Whoop!",
       "descr": "Выстреливает лазером изо рта игрока. Наносит 22 урона за удар. Отсылка к известному мему. Получение: Сокровищница, Дроп с Зависти.",
-      "cooldown": "3",
-      "links": [ "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/5a/Shoopisaac.jpg/revision/latest?cb=20120903170710&path-prefix=ru" ]
+      "links": [
+        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/5a/Shoopisaac.jpg/revision/latest?cb=20120903170710&path-prefix=ru"
+      ]
     }
   },
   {
@@ -1927,12 +2101,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/7/79/038_TBoI_collectibles.png/revision/latest?cb=20160111222344&path-prefix=ru",
-      "locale_name": "Голова Тамми",
+      "appearance": null,
+      "icon": "img/artifact_active_tammy's_head_icon.png",
+      "local_name": null,
       "name": "Tammy's Head",
       "descr": "Выстреливает 10 снарядов вокруг игрока. Снаряды имеют те же эффекты, что слёзы игрока, урон от каждого увеличен. Получение: Золотой сундук.",
-      "cooldown": "1",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1940,12 +2114,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/df/044_TBoI_collectibles.png/revision/latest?cb=20160111222443&path-prefix=ru",
-      "locale_name": "Телепорт!",
+      "appearance": null,
+      "icon": "img/artifact_active_teleport!_icon.png",
+      "local_name": null,
       "name": "Teleport!",
       "descr": "Телепортирует игрока в случайную комнату, кроме комнаты Я-ОШИБКА. Получение: Сокровищница, Комната Испытаний.",
-      "cooldown": "2",
-      "links": [ ]
+      "links": []
     }
   },
   {
@@ -1953,12 +2127,14 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/de/084_TBoI_collectibles.png/revision/latest?cb=20160111223405&path-prefix=ru",
-      "locale_name": "Нам нужно глубже",
+      "appearance": null,
+      "icon": "img/artifact_active_we_need_to_go_deeper_icon.png",
+      "local_name": null,
       "name": "We Need to Go Deeper",
       "descr": "Создает люк, ведущий на следующий уровень. На последнем уровне не делает ничего. При использовании МОЖНО получить достижение на прохождение без урона, если не пропускается каждый второй уровень (Подвал 2, Катакомбы 2 и т.п.) Если вы используете лопату, к примеру, на уровне Утроба 1 и пройдёте без потери жизни следующий уровень (Утроба 2) - вы всё-равно получите достижение. ПримерПолучение: Комната Дьявола (1\\3 шанс), Секретная комната (1\\2 шанс). Используя лопату на уровне Утроба 2, можно попасть в Преисподнюю на ранних прохождениях, без нужды убивать Сердце Мамы определенное количество раз. В самой Преисподней предмет бесполезен.",
-      "cooldown": "6",
-      "links": [ "http://www.youtube.com/watch?v=acz6BnkDp0c" ]
+      "links": [
+        "http://www.youtube.com/watch?v=acz6BnkDp0c"
+      ]
     }
   },
   {
@@ -1966,12 +2142,12 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/6d/045_TBoI_collectibles.png/revision/latest?cb=20160111222450&path-prefix=ru",
-      "locale_name": "Ням-Сердце",
+      "appearance": null,
+      "icon": "img/artifact_active_yum_heart_icon.png",
+      "local_name": null,
       "name": "Yum Heart",
       "descr": "Восполняет 1 полное Сердце (красное). Открывается при наличии 7 слотов Сердечек одновременно. Получение: Сокровищница, Дроп с Супер-Похоти, Магдалина начинает игру с данным артефактом..",
-      "cooldown": "4",
-      "links": [ ]
+      "links": []
     }
   }
 ]
