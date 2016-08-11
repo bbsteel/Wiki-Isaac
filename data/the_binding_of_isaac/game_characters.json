@@ -1,39 +1,28 @@
-﻿[
+[
   {
     "id": "game_character_isaac",
     "type": "game_character",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/a/a0/IsaacHD.png/revision/latest/scale-to-width-down/80?cb=20120820155435&path-prefix=ru",
+      "icon": "img/game_character_isaac_icon.png",
       "locale_name": "Исаак",
       "name": "Isaac",
       "descr": "Исаак (Isaac) – главный персонаж в игре и первый из доступных. Единственный доступный для испытаний персонаж. После прохождения Утробы персонажем ??? получает начальный артефакт - Игральный Кубик (D6). Также является главным боссом в Соборе.",
-      "health": {
-        "red": 3,
-        "blue": 0
-      },
-      "damage": 2,
-      "rate": 2,
-      "speed": 2,
-      "range": 2,
-      "items": {
-        "keys": 0,
-        "bombs": 1,
-        "coins": 0
-      },
-      "artifacts": [ "artifact_active_d6" ],
+      "artifacts": [
+        "artifact_active_d6"
+      ],
       "unlockable": [
         {
           "descr": "Прохождение Преисподнии разблокирует Мамин Нож",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/5/5d/MomsKnife.jpg/revision/latest?cb=20120820160037&path-prefix=ru"
+          "icon": "img/game_character_isaac_game_characters_0.jpg"
         },
         {
           "descr": "Прохождение Собора в Wrath of the Lamb разблокирует D20",
-          "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/1/13/1d424461d0357e9d311019021d848377886660f7.jpg/revision/latest?cb=20120608082001&path-prefix=ru"
+          "icon": "img/game_character_isaac_game_characters_1.jpg"
         },
         {
           "descr": "Прохождение Сундука в Wrath of the Lamb разблокирует Голову Исаака",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/e/e2/Isaacs_Head.jpg/revision/latest?cb=20120707012140&path-prefix=ru"
+          "icon": "img/game_character_isaac_game_characters_2.jpg"
         }
       ],
       "extra": "В библии Исаак – Сын Авраама и Сарры, сделавшийся носителем всех данных им обетований. Бог пожелал испытать силу веры Авраама и повелел ему принести своего любимого сына Исаака «во всесожжение». Авраам, не колеблясь, повиновался. Когда над Исааком был уже занесён жертвенный нож, ангел воззвал к нему с неба: \"Авраам! Не поднимай руки твоей на отрока и не делай над ним ничего, ибо теперь Я знаю, что боишься ты Бога и не пожалел сына твоего, единственного твоего, для Меня\". Вместо Исаака в жертву был принесён баран.\nЭдмунд упомянул, что Исаак - левша."
@@ -44,40 +33,29 @@
     "type": "game_character",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/87/Maggy.png/revision/latest/scale-to-width-down/80?cb=20120823170549&path-prefix=ru",
+      "icon": "img/game_character_magdalene_icon.png",
       "locale_name": "Магдалина",
       "name": "Magdalene",
       "descr": "Магдалина (Magdalene) – разблокируемый персонаж в The Binding of Isaac. За нее можно играть, если собрать 7 ячеек жизни за одну игру (синие сердца не считаются, однако временное усиление с карты Таро Сила считается).",
-      "health": {
-        "red": 4,
-        "blue": 0
-      },
-      "damage": 2,
-      "rate": 2,
-      "speed": 2,
-      "range": 2,
-      "items": {
-        "keys": 0,
-        "bombs": 0,
-        "coins": 0
-      },
-      "artifacts": [ "artifact_active_yum_heart" ],
+      "artifacts": [
+        "artifact_active_yum_heart"
+      ],
       "unlockable": [
         {
           "descr": "Прохождение Утробы разблокирует Реликвию",
-          "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/0/03/Cross.jpg/revision/latest?cb=20120309190535&path-prefix=ru"
+          "icon": "img/game_character_magdalene_game_characters_0.jpg"
         },
         {
           "descr": "Прохождение Преисподней разблокирует Ангела-Хранителя",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/1/19/The_Guardian_Angel.jpg/revision/latest?cb=20120705185108&path-prefix=ru"
+          "icon": "img/game_character_magdalene_game_characters_1.jpg"
         },
         {
           "descr": "Прохождение Собора в Wrath of the Lamb разблокирует Кельтский Крест",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/5e/E69b6f52e7afc69db69a9ab011b856b5bca6d8d3.jpg/revision/latest?cb=20120608082015&path-prefix=ru"
+          "icon": "img/game_character_magdalene_game_characters_2.jpg"
         },
         {
           "descr": "Прохождение Сундука в Wrath of the Lamb разблокирует Веру Мэгги",
-          "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/3/3d/Maggys_Faith.jpg/revision/latest?cb=20120707012152&path-prefix=ru"
+          "icon": "img/game_character_magdalene_game_characters_3.jpg"
         }
       ],
       "extra": "Магдалина, как и другие персонажи, являются самим Исааком, что подтверждал Эдмунд Мак'Миллен в своём блоге.\nВ библии Мари́я Магдали́на — преданная последовательница Иисуса, христианская святая, мироносица, которая, согласно евангельскому тексту, следовала за Христом, присутствовала при Распятии и была свидетельницей его посмертного явления.\nВ буклете Unholy Edition Магдалина упоминается как \"Священник\" из-за увеличенного здоровья и регенерации (Ням-Сердце).\nВ одном из снов персонажа между уровнями, Исаак получает парик с бантом, идентичный причёске Магдалины.\nПри входе в комнату с мини-боссом, на заголовке в верхней части экрана написано Magdalena вместо Magdalene."
@@ -88,40 +66,29 @@
     "type": "game_character",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/8/87/Maggy.png/revision/latest/scale-to-width-down/80?cb=20120823170549&path-prefix=ru",
+      "icon": "img/game_character_cain_icon.png",
       "locale_name": "Каин",
       "name": "Cain",
       "descr": "Каин (Cain, старший сын Адама и Евы, брат Авеля) — персонаж игры The Binding of Isaac. Разблокируется, если у игрока будет 55 центов в какой-либо момент игры. Самый быстрый способ разблокировки — попробовать выиграть доллар в Игровом Автомате.",
-      "health": {
-        "red": 2,
-        "blue": 0
-      },
-      "damage": 3,
-      "rate": 4,
-      "speed": 3,
-      "range": 1,
-      "items": {
-        "keys": 1,
-        "bombs": 0,
-        "coins": 0
-      },
-      "artifacts": [ "artifact_passive_lucky_foot" ],
+      "artifacts": [
+        "artifact_passive_lucky_foot"
+      ],
       "unlockable": [
         {
           "descr": "Прохождение Утробы разблокирует Мешок Монет",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/47/Bag.jpg/revision/latest?cb=20120309190402&path-prefix=ru"
+          "icon": "img/game_character_cain_game_characters_0.jpg"
         },
         {
           "descr": "Прохождение Преисподнии разблокирует Мешок с Бомбами",
-          "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/a/ae/The_Bomb_Bag.jpg/revision/latest?cb=20120706193833&path-prefix=ru"
+          "icon": "img/game_character_cain_game_characters_1.jpg"
         },
         {
           "descr": "Прохождение Собора в Wrath of the Lamb разблокирует Авеля",
-          "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/f7/2fd5e7aae53d92cf375a573df45a4fba95f835c5.jpg/revision/latest?cb=20120608082032&path-prefix=ru"
+          "icon": "img/game_character_cain_game_characters_2.jpg"
         },
         {
           "descr": "Прохождение Сундука в Wrath of the Lamb разблокирует Глаз Каина",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/8/87/Cains_Eye.jpg/revision/latest?cb=20120707012204&path-prefix=ru"
+          "icon": "img/game_character_cain_game_characters_3.jpg"
         }
       ],
       "extra": "Каин, как и остальные персонажи, являются самим Исааком, что подтверждал Эдмунд Мак'Миллен в своём блоге.\nКаин получил свое имя от библейского Каина — одного из двух сыновей Адама и Евы.\nКаин с артефактом Счастливая ножка — лучший персонаж для зарабатывания пенни и походов в казино.\nИз-за повязки, Каин стреляет только из одного глаза по немного искривленной траектории.\nИз-за отсутствия глаза, Каин будет стрелять только лазером при получении Технологии 2.\nКольцо на ноге Каина с самого начала — из-за артефакта Счастливая ножка, который даётся ему сразу после старта."
@@ -132,40 +99,29 @@
     "type": "game_character",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/66/JudasHD.png/revision/latest/scale-to-width-down/80?cb=20120824173805&path-prefix=ru&format=webp",
+      "icon": "img/game_character_judas_icon.png",
       "locale_name": "Иуда",
       "name": "Judas",
       "descr": "Иуда (Judas) — персонаж игры The Binding of Isaac. Разблокируется после прохождения Утробы.",
-      "health": {
-        "red": 1,
-        "blue": 0
-      },
-      "damage": 4,
-      "rate": 2,
-      "speed": 2,
-      "range": 2,
-      "items": {
-        "keys": 0,
-        "bombs": 0,
-        "coins": 3
-      },
-      "artifacts": [ "artifact_active_the_book_of_belial" ],
+      "artifacts": [
+        "artifact_active_the_book_of_belial"
+      ],
       "unlockable": [
         {
           "descr": "Прохождение Утробы разблокирует Крошку-Робота",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/2/2c/Robobaby.jpg/revision/latest?cb=20120309191020&path-prefix=ru"
+          "icon": "img/game_character_judas_game_characters_0.jpg"
         },
         {
           "descr": "Прохождение Преисподней разблокирует Энциклопедию о Монстрах",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/d0/The_Monster_Manual.jpg/revision/latest?cb=20120706110523&path-prefix=ru"
+          "icon": "img/game_character_judas_game_characters_1.jpg"
         },
         {
           "descr": "Прохождение Собора разблокирует Гнутый рог",
-          "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/6/67/D1f05a6dce308ff407d0a852cc91f112391c306f.jpg/revision/latest?cb=20120608082049&path-prefix=ru"
+          "icon": "img/game_character_judas_game_characters_2.jpg"
         },
         {
           "descr": "Прохождение Сундука разблокирует Язык Иуды",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/2/20/Judas%27_Tongue.jpg/revision/latest?cb=20120707012127&path-prefix=ru"
+          "icon": "img/game_character_judas_game_characters_3.jpg"
         }
       ],
       "extra": "Иуда, как и остальные персонажи, являются самим Исааком, что подтверждал Эдмунд Мак'Миллен в своё блоге.\nИу́да Искарио́т, в христианстве Иуда сын Симона – один из апостолов Иисуса Христа, предавший его за 30 серебренников (отсюда и 3 пенни в начале)."
@@ -176,40 +132,29 @@
     "type": "game_character",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/66/JudasHD.png/revision/latest/scale-to-width-down/80?cb=20120824173805&path-prefix=ru&format=webp",
+      "icon": "img/game_character_???_icon.png",
       "locale_name": "???",
       "name": "???",
       "descr": "??? (также известен как XXX или Синий Малыш) – персонаж, который разблокируется после 10 прохождений игры.\nСудя по заставкам между уровнями, ??? – это Исаак, умерший от падения в Подвал (или задохнувшийся в сундуке. Так же возможна смерть от ножа Мамы).\n??? уникален, поскольку вся его жизнь в синих сердцах, так как он не может увеличить количество контейнеров здоровья. При увеличении здоровья у героя увеличивается количество синих сердец. Подобрав Супер-Пластырь, протагонист получает 5 синих сердец: 3 как компенсацию за одно обычное сердце и еще 2 синих сердца как обычно. Карта таро «Сила» дает ему постоянное синее сердце в отличие от других персонажей, которым это даст временное увеличение здоровья. Предметы в Комнате Дьявола всегда имеют стоимость в синих сердцах. Некоторые предметы в комнате Дьявола дают синие сердца, таким образом, возможно, что сделки с Дьяволом не будут ничего стоить.\nПосле смерти с артефактом Анх игра продолжается за ???, независимо от изначального персонажа (со всеми уже имеющимися артефактами и бонусами).",
-      "health": {
-        "red": 0,
-        "blue": 3
-      },
-      "damage": 2,
-      "rate": 2,
-      "speed": 2,
-      "range": 2,
-      "items": {
-        "keys": 0,
-        "bombs": 0,
-        "coins": 0
-      },
-      "artifacts": [ "artifact_active_the_poop" ],
+      "artifacts": [
+        "artifact_active_the_poop"
+      ],
       "unlockable": [
         {
           "descr": "Прохождение Утробы разблокирует Игральную Кость",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/3/37/D6.jpg/revision/latest?cb=20120309190544&path-prefix=ru&format=webp"
+          "icon": "img/game_character_???_game_characters_0.jpg"
         },
         {
           "descr": " Прохождение Преисподней разблокирует Забудь Меня",
-          "icon": "http://vignette4.wikia.nocookie.net/bindingofisaac/images/8/8e/ForgetMeNow.jpg/revision/latest?cb=20120821020407&path-prefix=ru&format=webp"
+          "icon": "img/game_character_???_game_characters_1.jpg"
         },
         {
           "descr": " Прохождение Собора в Wrath of the Lamb разблокирует Радужного Малыша",
-          "icon": "http://vignette3.wikia.nocookie.net/bindingofisaac/images/3/31/Be83adeb130a0897fbc10faaca76a367c632a38e.jpg/revision/latest?cb=20120608082115&path-prefix=ru&format=webp"
+          "icon": "img/game_character_???_game_characters_2.jpg"
         },
         {
           "descr": "Прохождение Сундука в Wrath of the Lamb разблокирует Лапку птички Евы",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/64/Eves_Bird_Foot.jpg/revision/latest?cb=20120707012116&path-prefix=ru&format=webp"
+          "icon": "img/game_character_???_game_characters_3.jpg"
         }
       ],
       "extra": "Этот персонаж является отсылкой к учетной записи Эдмунда Макмиллена на Newgrounds. На Newgrounds.com Макмиллен известен как BlueBaby (Синий Малыш) и у него есть серия игр под названием «Dead Baby Dressup».\nПо умолчанию полным здоровьем считаются 3 сердца души. Поэтому пилюля Full Health восстанавливает все сердца до 3-ёх.\nЕсли у ??? есть Облатка и он покупает предмет в Комнате Дьявола (который обычно стоит 3 синих сердца), то он лишится всего половины такого сердца.\nСделка с Дьяволом при игре за ??? является простым уроном (скорее всего баг, исправлено в Rebirth), поэтому имея неуязвимость можно забрать все предметы из комнаты бесплатно.\nТакже, если ??? получит эффект Сгибателя Ложек, его голова станет телесного цвета. Аналогично действует и Судьба, но цвет меняет туловище..??? не виден в меню выбора персонажей, когда заблокирован, в отличие от других персонажей.\nМногие артефакты, такие как Химический ожог, Вирус, Мясо! и другие, не меняют внешность ???.\nВо время загрузки уровня можно заметить,что на груди у ??? находится шрам. Возможно, это шрам от ножа мамы, что добавляет еще один вариант смерти Исаака и превращения в ???."
@@ -220,40 +165,30 @@
     "type": "game_character",
     "game": "the_binding_of_isaac",
     "content": {
-      "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/66/JudasHD.png/revision/latest/scale-to-width-down/80?cb=20120824173805&path-prefix=ru&format=webp",
+      "icon": "img/game_character_eve_icon.png",
       "locale_name": "Ева",
       "name": "Eve",
       "descr": "Ева (Eve) — шестой персонаж в игре. Она разблокируется совершением двух или более сделок с Дьяволом за одно прохождение, причем необязательно совершать их в одной комнате. Она разблокируется сразу же после совершения сделки, так что покупать предметы можно даже ценой жизни персонажа.",
-      "health": {
-        "red": 2,
-        "blue": 0
-      },
-      "damage": 1,
-      "rate": 2,
-      "speed": 3,
-      "range": 2,
-      "items": {
-        "keys": 0,
-        "bombs": 0,
-        "coins": 0
-      },
-      "artifacts": [ "artifact_passive_dead_bird","artifact_passive_whore_of_babylon" ],
+      "artifacts": [
+        "artifact_passive_dead_bird",
+        "artifact_passive_whore_of_babylon"
+      ],
       "unlockable": [
         {
           "descr": "Прохождение Утробы разблокирует Бритву",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/e/e9/TheRazorBlade.jpg/revision/latest?cb=20120825162446&path-prefix=ru"
+          "icon": "img/game_character_eve_game_characters_0.jpg"
         },
         {
           "descr": "Прохождение Преисподнии разблокирует Крошку-Демона",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/51/The_Demon_Baby.jpg/revision/latest?cb=20120706134802&path-prefix=ru"
+          "icon": "img/game_character_eve_game_characters_1.jpg"
         },
         {
           "descr": "Прохождение Собора в Wrath of the Lamb разблокирует Жертвенный Кинжал",
-          "icon": "http://vignette2.wikia.nocookie.net/bindingofisaac/images/3/32/531a391f8e87d75780416fc3a908576ced06f901.jpg/revision/latest?cb=20120608082103&path-prefix=ru"
+          "icon": "img/game_character_eve_game_characters_2.jpg"
         },
         {
           "descr": "Прохождение Сундука в Wrath of the Lamb разблокирует Птичью Лапку Евы",
-          "icon": "http://vignette1.wikia.nocookie.net/bindingofisaac/images/6/64/Eves_Bird_Foot.jpg/revision/latest?cb=20120707012116&path-prefix=ru"
+          "icon": "img/game_character_eve_game_characters_3.jpg"
         }
       ],
       "extra": "Ева в Библии — вторая женщина на Земле, жена Адама, поддавшаяся искушению хитрым Змеем (некое подобие сделки с Дьяволом, что и объясняет способ разблокирования персонажа).\nКак и Магдалина, Ева может быть Исааком в парике и с тенями на глазах.\nРазработчик игры Эдмунд Макмиллан утверждает, что Ева — его самый любимый персонаж из-за ее уникального рискованного стиля игры."
