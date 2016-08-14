@@ -4,7 +4,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_anarchist_cookbook_icon.png",
       "locale_name": "Поваренная книга анархиста",
@@ -17,7 +16,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_bean_icon.png",
       "locale_name": "Боб",
@@ -30,7 +28,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_bob's_rotten_head_icon.png",
       "locale_name": "Гнилая голова Боба",
@@ -43,7 +40,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/78/Isaac_Fate.png/revision/latest?cb=20120903165205&path-prefix=ru"
       ],
@@ -58,7 +54,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/de/Belialisaac.jpg/revision/latest?cb=20120903165218&path-prefix=ru"
       ],
@@ -73,7 +68,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_book_of_revelations_icon.png",
       "locale_name": "Книга Откровений",
@@ -86,7 +80,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/43/Shield.jpg/revision/latest?cb=20120903165230&path-prefix=ru"
       ],
@@ -101,7 +94,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_book_of_sin_icon.png",
       "locale_name": "Книга Грехов",
@@ -114,7 +106,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_dead_sea_scrolls_icon.png",
       "locale_name": "Свитки Мёртвого моря",
@@ -127,7 +118,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_колода_карт_icon.png",
       "locale_name": "Колода карт",
@@ -140,7 +130,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_d6_icon.png",
       "locale_name": "D6",
@@ -153,7 +142,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_doctor's_remote_icon.png",
       "locale_name": "ПДУ Доктора",
@@ -166,7 +154,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_forget_me_now_icon.png",
       "locale_name": "Забудь меня",
@@ -179,7 +166,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/4c/Pacisaac.jpg/revision/latest?cb=20120903170241&path-prefix=ru"
       ],
@@ -194,7 +180,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_hourglass_icon.png",
       "locale_name": "Песочные часы",
@@ -207,7 +192,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_kamikaze!_icon.jpg",
       "locale_name": "Камикадзе! ",
@@ -220,7 +204,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_lemon_mishap_icon.png",
       "locale_name": "Лимонная авария",
@@ -233,7 +216,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_mom's_bottle_of_pills_icon.png",
       "locale_name": "Мамина склянка пилюль",
@@ -246,7 +228,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f7/039_TBoI_collectibles.png/revision/latest?cb=20160111222407&path-prefix=ru"
       ],
@@ -261,7 +242,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_mom's_pad_icon.png",
       "locale_name": "Мамина прокладка",
@@ -274,7 +254,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_monster_manuel_icon.png",
       "locale_name": "Руководство о монстрах",
@@ -287,7 +266,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_monstro's_tooth_icon.png",
       "locale_name": "Зуб Монстро",
@@ -300,7 +278,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_mr._boom_icon.png",
       "locale_name": "Мистер Бум",
@@ -313,7 +290,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/1d/MLUisaac.jpg/revision/latest?cb=20120903170328&path-prefix=ru"
       ],
@@ -328,7 +304,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_nail_icon.png",
       "locale_name": "Гвоздь",
@@ -341,7 +316,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_necronomicon_icon.png",
       "locale_name": "Некрономикон",
@@ -354,7 +328,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/6b/Official_pony.png/revision/latest?cb=20120903170440&path-prefix=ru"
       ],
@@ -369,7 +342,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_the_poop_icon.jpg",
       "locale_name": "Какашка ",
@@ -382,7 +354,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette4.wikia.nocookie.net/bindingofisaac/images/e/e8/Eve_Razor_Blade_small.png/revision/latest?cb=20120903170628&path-prefix=ru"
       ],
@@ -397,7 +368,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/64/Shearsisaac.jpg/revision/latest?cb=20120903170652&path-prefix=ru"
       ],
@@ -412,7 +382,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/5a/Shoopisaac.jpg/revision/latest?cb=20120903170710&path-prefix=ru"
       ],
@@ -427,7 +396,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_tammy's_head_icon.png",
       "locale_name": "Голова Тамми",
@@ -440,7 +408,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_teleport!_icon.png",
       "locale_name": "Телепорт!",
@@ -453,7 +420,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [
         "http://www.youtube.com/watch?v=acz6BnkDp0c"
       ],
@@ -468,7 +434,6 @@
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
-      "appearance": null,
       "links": [ ],
       "icon": "img/artifact_active_yum_heart_icon.png",
       "locale_name": "Ням-Сердце",
