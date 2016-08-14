@@ -6,12 +6,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_<3_artifacts_0.jpg"
+          "artifact_passive_<3_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_<3_icon.png",
+      "icon": "artifact_passive_<3_icon.png",
       "locale_name": "<3",
       "name": "<3",
       "descr": "Увеличивает максимальное здоровье на 1 и восполняет все здоровье. Получение: Сокровищница, Дроп с Чревоугодия. Этот артефакт бьется так же, как сердце из другой игры Эдмунда МакМиллена \"Spewer\"."
@@ -24,12 +24,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_1up_artifacts_0.png"
+          "artifact_passive_1up_artifacts_0.png"
         ],
         "descr": "Cледует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_1up_icon.png",
+      "icon": "artifact_passive_1up_icon.png",
       "locale_name": "+1",
       "name": "1UP",
       "descr": "Дает дополнительную жизнь. Умерли - появились снова в предыдущей комнате с полным здоровьем. Сочетается с Мёртвой Кошкой. Имеет приоритет над ней, если игрок повысил максимальное здоровье с тех пор, как подобрал Кошку. Может быть подобрано несколько раз за одно прохождение. Баг: Сестренка Мэгги или Маленький Стив превратятся в Братика Бобби до выхода из комнаты. Получение: Секретная комната (1\\2 шанс на х2). Отсылка к играм серии \"Mario\""
@@ -42,12 +42,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_battery_artifacts_0.jpg"
+          "artifact_passive_battery_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_battery_icon.png",
+      "icon": "artifact_passive_battery_icon.png",
       "locale_name": "Батарейка",
       "name": "Battery",
       "descr": "Восполняет полоску перезарядки активируемого Артефакта по одному кубику каждые 20 секунд. После использования восполняет только до половины. Так же при захождении в комнату, где битва, восполнит 3 кубика. Получение: Магазин (1\\2 шанс)."
@@ -60,12 +60,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_belt_artifacts_0.jpg"
+          "artifact_passive_the_belt_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_belt_icon.png",
+      "icon": "artifact_passive_the_belt_icon.png",
       "locale_name": "Ремень",
       "name": "The Belt",
       "descr": "Увеличивает скорость на 0.3. Получение: Босс, Сокровищница."
@@ -78,12 +78,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_blood_of_the_martyr_artifacts_0.jpg"
+          "artifact_passive_blood_of_the_martyr_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_blood_of_the_martyr_icon.png",
+      "icon": "artifact_passive_blood_of_the_martyr_icon.png",
       "locale_name": "Кровь мученика",
       "name": "Blood of the Martyr",
       "descr": "Увеличивает урон на 1 и превращает слёзы в кровавые. В сочетании с \"Книгой Дьявола\" или картой таро \"Дьявол\" дает дополнительный эффект умножения урона х1.5. Получение: Сокровищница, Комната Ангела. Специальный."
@@ -96,12 +96,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_boom!_artifacts_0.jpg"
+          "artifact_passive_boom!_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_boom!_icon.png",
+      "icon": "artifact_passive_boom!_icon.png",
       "locale_name": "Бум!",
       "name": "Boom!",
       "descr": "Дает игроку 10 бомб. Получение: Сокровищница х2."
@@ -117,7 +117,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_breakfast_icon.png",
+      "icon": "artifact_passive_breakfast_icon.png",
       "locale_name": "Завтрак",
       "name": "Breakfast",
       "descr": "Даёт 1 полный контейнер здоровья. Получение: Босс."
@@ -133,7 +133,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_brother_bobby_icon.png",
+      "icon": "artifact_passive_brother_bobby_icon.png",
       "locale_name": "Братик Бобби",
       "name": "Brother Bobby",
       "descr": "Следует за игроком, стреляет снарядами по 3.5 урона. Получение: Сокровищница х2, Комната Дьявола. Специальный."
@@ -146,12 +146,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_charm_of_the_vampire_artifacts_0.png"
+          "artifact_passive_charm_of_the_vampire_artifacts_0.png"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_charm_of_the_vampire_icon.png",
+      "icon": "artifact_passive_charm_of_the_vampire_icon.png",
       "locale_name": "Очарование вампира",
       "name": "Charm of the Vampire",
       "descr": "Каждые 13 убитых монстров лечат игрока на пол-сердца. Мухи (кроме взрывных) не засчитываются. Получение: Сокровищница."
@@ -164,12 +164,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_chocolate_milk_artifacts_0.jpg"
+          "artifact_passive_chocolate_milk_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_chocolate_milk_icon.png",
+      "icon": "artifact_passive_chocolate_milk_icon.png",
       "locale_name": "Шоколадное молоко",
       "name": "Chocolate Milk",
       "descr": "Позволяет игроку заряжать (накапливать) выстрелы, делая их тем самым мощнее. Эффект сохраняется с Технологией, Зародышем в банке и другими модификаторами типа атаки (кроме Маминого ножа). Заряд можно не накапливать, стреляя обычными снарядами. Увеличивает возможную скорострельность. Получение: Сокровищница."
@@ -187,7 +187,7 @@
       "links": [
         "http://ru.wikipedia.org/wiki/The_Legend_of_Zelda_(%D0%B8%D0%B3%D1%80%D0%B0)"
       ],
-      "icon": "img/artifact_passive_the_compass_icon.png",
+      "icon": "artifact_passive_the_compass_icon.png",
       "locale_name": "Компас",
       "name": "The Compass",
       "descr": "Открывает все иконки комнат на уровнях. Отсылка к игре The Legend of ZeldaПолучение: Магазин х2, Комната Испытания."
@@ -200,7 +200,7 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_cube_of_meat_artifacts_0.jpg"
+          "artifact_passive_cube_of_meat_artifacts_0.jpg"
         ],
         "descr": "Кусок мяса кружится по орбите"
       },
@@ -210,7 +210,7 @@
         "http://vignette1.wikia.nocookie.net/bindingofisaac/images/9/9d/Meat3boy.png/revision/latest?cb=20120229142909&path-prefix=ru",
         "http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20120229142919&path-prefix=ru"
       ],
-      "icon": "img/artifact_passive_cube_of_meat_icon.png",
+      "icon": "artifact_passive_cube_of_meat_icon.png",
       "locale_name": "Кубик мяса",
       "name": "Cube of Meat",
       "descr": "1 форма: летающий кубик, защищает от снарядов, наносит 7 урона в касание.2 форма: Летающая вокруг игрока голова, стреляет красными слезами, наносящими 5 урона, 3 раза за каждый круг орбиты и так же защищает от снарядов и наносит урон в касание.3 форма: ходящий отдельно от игрока “Мясной Парень” (Meat Boy). Не стреляет, но повреждает врагов в ближнем бою. Наносит 3.5 урона за удар. Примечание: может толкать бомбы.4 форма: увеличивает размер и повреждение субъекта до 5.5. Последняя, которая по задумке может быть достигнута - нужно убить всех 4-ых Всадников.5 форма: Дает в дополнение к четвертой форме первую. Всего можно иметь до 8 кубиков, то есть 2 митбоя 4 уровня. Подбор дополнительных кубиков ничего не даст. Переход между формами осуществляется путем подбора дополнительных кубиков мяса. Получение: Дроп со Всадников Апокалипсиса. ->  ->   -> Примечание: кубик мяса всегда приоритетнее, чем мухи (Pretty fly / Halo of flies). Если у вас 2 мухи и кубик, подбор новых мух ничего не даст. Если у вас 3 мухи, подбор кубика заменит одну на кубик. Открывается прохождением уровней Глубин. Отсылка к другой игре Эдмунда МакМиллена \"Super Meat Boy\""
@@ -223,12 +223,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_cupid's_arrow_artifacts_0.jpg"
+          "artifact_passive_cupid's_arrow_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_cupid's_arrow_icon.png",
+      "icon": "artifact_passive_cupid's_arrow_icon.png",
       "locale_name": "Стрела Купидона",
       "name": "Cupid's Arrow",
       "descr": "Делает слезы игрока пронизывающими. Выстрелы проходят сквозь врагов. Получение: Сокровищница. Специальный."
@@ -244,7 +244,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_dessert_icon.png",
+      "icon": "artifact_passive_dessert_icon.png",
       "locale_name": "Десерт",
       "name": "Dessert",
       "descr": "Даёт один полный контейнер здоровья. Получение: Босс."
@@ -260,7 +260,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_dinner_icon.png",
+      "icon": "artifact_passive_dinner_icon.png",
       "locale_name": "Ужин",
       "name": "Dinner",
       "descr": "Даёт один полный контейнер здоровья. Получение: Босс."
@@ -273,12 +273,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_distant_admiration_artifacts_0.png"
+          "artifact_passive_distant_admiration_artifacts_0.png"
         ],
         "descr": "Кружит по орбите"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_distant_admiration_icon.png",
+      "icon": "artifact_passive_distant_admiration_icon.png",
       "locale_name": "Восторг на расстоянии",
       "name": "Distant Admiration",
       "descr": "Муха описывает круги вокруг игрока, повреждая врагов при касании на 5 урона. Получение: Сокровищница. Специальный."
@@ -294,7 +294,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_a_dollar_icon.png",
+      "icon": "artifact_passive_a_dollar_icon.png",
       "locale_name": "Доллар",
       "name": "A Dollar",
       "descr": "Количество монет становится равным 99. Можно найти или получить несколько раз за прохождение. Получение: Игровой Автомат."
@@ -307,12 +307,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_dr_fetus_artifacts_0.jpg"
+          "artifact_passive_dr_fetus_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_dr_fetus_icon.png",
+      "icon": "artifact_passive_dr_fetus_icon.png",
       "locale_name": "Зародыш в банке",
       "name": "Dr Fetus",
       "descr": "Вместо слез игрок стреляет бомбами. Открывается прохождением игры 5 раз (в дополнении Wrath Of The Lamb может использоваться после победы над Мамой - в испытании Месть Доктора). Если у вас помимо Зародыша есть \"Технология\", это позволит вам стрелять обоими зарядами. На эти бомбы влияет урон и некоторые эффекты. Отсылка к финальному Боссу из игры \"Super Meat Boy\". Предмет является отсылкой к известной игре от создателя самого TBoI - Super meat boy. Получение: Сокровищница. При поднятии добавляет \"Бобби-Бомбу\" и \"Мистер Мега\" в возможный дроп сокровищниц текущего прохождения в количестве х6 каждый. Специальный."
@@ -325,12 +325,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_forever_alone_artifacts_0.png"
+          "artifact_passive_forever_alone_artifacts_0.png"
         ],
         "descr": "Кружит по орбите"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_forever_alone_icon.png",
+      "icon": "artifact_passive_forever_alone_icon.png",
       "locale_name": "Навеки один",
       "name": "Forever Alone",
       "descr": "Добавляет синюю муху, летающую на большем расстоянии от персонажа и атакующую противников. Наносит 2 урона. Примечание: муха не стреляет, но беспрестанно кружит вокруг игрока и повреждает все на своем пути. Получение: Сокровищница, Дроп с Супер-Зависти."
@@ -343,12 +343,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_growth_hormones_artifacts_0.jpg"
+          "artifact_passive_growth_hormones_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_growth_hormones_icon.png",
+      "icon": "artifact_passive_growth_hormones_icon.png",
       "locale_name": "Гормоны роста",
       "name": "Growth Hormones",
       "descr": "Увеличивает скорость на 0.4 и урон на 1. Получение: Сокровищница, Комната Испытания. Специальный."
@@ -364,7 +364,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_dead_cat_icon.png",
+      "icon": "artifact_passive_dead_cat_icon.png",
       "locale_name": "Мёртвая кошка",
       "name": "Dead Cat",
       "descr": "Здоровье становится равным 1 Сердцу, но выдается 9 жизней. Можно увеличивать максимальное здоровье Артефактами, но после смерти снова будет 1 Сердце. Получение: Комната Дьявола, Красный сундук."
@@ -377,12 +377,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_halo_artifacts_0.jpg"
+          "artifact_passive_halo_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_halo_icon.png",
+      "icon": "artifact_passive_halo_icon.png",
       "locale_name": "Нимб",
       "name": "Halo",
       "descr": "Увеличивает урон на 0.3, скорость на 0.3, дальность стрельбы на 2.75, здоровье на 1, скорость стрельбы на 0.2. Открывается победой над Мамой, Сердцем Мамы или Оно Живое с помощью Артефакта “Библия” (The Bible). Получение: Комната Ангела, Сокровищница. Специальный."
@@ -395,12 +395,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_halo_of_flies_artifacts_0.jpg"
+          "artifact_passive_halo_of_flies_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_halo_of_flies_icon.png",
+      "icon": "artifact_passive_halo_of_flies_icon.png",
       "locale_name": "Нимб из мух",
       "name": "Halo of Flies",
       "descr": "Добавляет 2-х Мух, летающих вокруг игрока, блокируя вражеские выстрелы. При касании бьют только мух. Получение: Сокровищница."
@@ -413,12 +413,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_inner_eye_artifacts_0.jpg"
+          "artifact_passive_the_inner_eye_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_inner_eye_icon.png",
+      "icon": "artifact_passive_the_inner_eye_icon.png",
       "locale_name": "Внутренний глаз",
       "name": "The Inner Eye",
       "descr": "Игрок стреляет тройными слезами, при этом снижается скорострельность. Получение: Сокровищница. Специальный."
@@ -434,7 +434,7 @@
         "descr": "Внешний вид не меняется, лестница появляется перед пропастью"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_ladder_icon.png",
+      "icon": "artifact_passive_ladder_icon.png",
       "locale_name": "Лестница",
       "name": "Ladder",
       "descr": "Позволяет пересекать пропасти шириной в один квадрат. Получение: Магазин х2."
@@ -450,7 +450,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_little_c._h._a._d._icon.png",
+      "icon": "artifact_passive_little_c._h._a._d._icon.png",
       "locale_name": "Маленький Ч. А. Д.",
       "name": "Little C. H. A. D.",
       "descr": "Создает пол-Сердца после зачистки каждых трех комнат. Открывается победой над Ч. А. Д.-ом. Отсылка к игре \"Super Meat Boy\", где Ч. А. Д. является боссом. Получение:  Дроп с Ч. А. Д, Сокровищница. Специальный."
@@ -466,7 +466,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_little_chubby_icon.png",
+      "icon": "artifact_passive_little_chubby_icon.png",
       "locale_name": "Маленький Чабби",
       "name": "Little Chubby",
       "descr": "Добавляет к выстрелам игрока личинку, которая запускается как только догоняет игрока. Личинка может проходить сквозь врагов и останавливается только стенами, камнями, калом и кострами. Наносит 3.5 урона за удар. Открывается победой над всеми Боссами на уровнях Пещеры. Получение: Сокровищница. Специальный."
@@ -482,7 +482,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_little_gish_icon.png",
+      "icon": "artifact_passive_little_gish_icon.png",
       "locale_name": "Маленький Гиш",
       "name": "Little Gish",
       "descr": "Следует за игроком, стреляет снарядами, которые наносят 3.5 урона и имеют шанс замедлить врагов. Если маленький Гиш попадает в бомбу, то с некоторой вероятностью бомба становится чёрной, как и её взрыв с чёрной анимацией. Но взрыв такой бомбы не замедляет врага Открывается победой над Гиш-ем, альтернативным Боссом. Получение: Дроп с Гиша, Сокровищница. Отсылка к другой игре Эдмунда МакМиллена \"Gish\"Специальный."
@@ -498,7 +498,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_little_steve_icon.png",
+      "icon": "artifact_passive_little_steve_icon.png",
       "locale_name": "Маленький Стив",
       "name": "Little Steve",
       "descr": "Следует за игроком, стреляет самонаводящимися снарядами, с большой дальностью, наносит 3.5 урона. Открывается победой над Стивеном, альтернативным боссом. Получение: Дроп со Стивена с шансом 5\\6, Сокровищница. Отсылка к другой игре Эдмунда МакМиллена \"Time Fcuk\". Специальный."
@@ -511,12 +511,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_loki's_horns_artifacts_0.jpg"
+          "artifact_passive_loki's_horns_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_loki's_horns_icon.png",
+      "icon": "artifact_passive_loki's_horns_icon.png",
       "locale_name": "Рога Локи",
       "name": "Loki's Horns",
       "descr": "Дает случайный шанс выстрелить во все 4 стороны. Если у игрока уже есть “Мамин Глаз” (Mom’s Eye), то он всегда стреляет таким образом. Открывается победой над всеми Боссами на уровнях Глубин. Получение: Сокровищница. Специальный."
@@ -529,12 +529,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_lord_of_the_pit_artifacts_0.jpg"
+          "artifact_passive_lord_of_the_pit_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_lord_of_the_pit_icon.png",
+      "icon": "artifact_passive_lord_of_the_pit_icon.png",
       "locale_name": "Повелитель ям",
       "name": "Lord of the Pit",
       "descr": "Дает полет, увеличивает скорость на 0.2. Получение: Комната Дьявола (1\\3 шанс)."
@@ -547,7 +547,7 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_lucky_foot_artifacts_0.jpg"
+          "artifact_passive_lucky_foot_artifacts_0.jpg"
         ],
         "descr": ""
       },
@@ -555,7 +555,7 @@
         null,
         "http://ru.bindingofisaac.wikia.com/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9"
       ],
-      "icon": "img/artifact_passive_lucky_foot_icon.png",
+      "icon": "artifact_passive_lucky_foot_icon.png",
       "locale_name": "Счастливая ножка",
       "name": "Lucky Foot",
       "descr": "Увеличивает шанс выигрыша с 33% до 50% у Наперсточника. Снижает шанс получения предсказаний из Автомата Предсказаний до нуля и повышает шанс получения предметов. Повышает шанс выигрыша у Игрового Автомата. Также же изменяет все отрицательные эффекты от пилюль на положительные. (по аналогии с \"Докторским дипломом\"). Открывается при наличии 55 или более центов одновременно. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Каин начинает игру с данным артефактом. Отсылка к народному суеверию \"Кроличья лапка\""
@@ -568,12 +568,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_lump_of_coal_artifacts_0.png"
+          "artifact_passive_lump_of_coal_artifacts_0.png"
         ],
         "descr": "Угольное пятно на лбу, слезы становятся серыми."
       },
       "links": [ ],
-      "icon": "img/artifact_passive_lump_of_coal_icon.png",
+      "icon": "artifact_passive_lump_of_coal_icon.png",
       "locale_name": "Кусок угля",
       "name": "Lump of Coal",
       "descr": "Увеличивает урон в зависимости от времени нахождения слезы на экране. +4.2 урона за каждую секунду (+0.14 каждый кадр, игра идет на 30 кадрах в секунду). После получения на лбу появляется угольная пыль. Слезы окрашиваются в черный цвет. Разблокируется после победы над Крампусом. Получение: Дроп с Крампуса."
@@ -589,7 +589,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_lunch_icon.png",
+      "icon": "artifact_passive_lunch_icon.png",
       "locale_name": "Обед",
       "name": "Lunch",
       "descr": "Дает один полный контейнер здоровья. Получение: Босс."
@@ -602,12 +602,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_magic_mushroom_artifacts_0.jpg"
+          "artifact_passive_magic_mushroom_artifacts_0.jpg"
         ],
         "descr": "Игрок визуально увеличивается. "
       },
       "links": [ ],
-      "icon": "img/artifact_passive_magic_mushroom_icon.png",
+      "icon": "artifact_passive_magic_mushroom_icon.png",
       "locale_name": "Волшебный грибочек",
       "name": "Magic Mushroom",
       "descr": "Полное лечение, увеличивает характеристики: +1 здоровье, +0.5 урона, +0.3 скорость, +7.75 дальность, x1.5 урон. Получение: Сокровищница. Отсылка к Super Mario Bros. Специальный."
@@ -620,12 +620,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_magneto_artifacts_0.jpg"
+          "artifact_passive_magneto_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_magneto_icon.png",
+      "icon": "artifact_passive_magneto_icon.png",
       "locale_name": "Магнит",
       "name": "Magneto",
       "descr": "Притягивает предметы к игроку. Предметы смогут пересекать и камни, и пропасти, и шипы. Тролль-бомбы также будут притягиваться. Получение: Сокровищница."
@@ -638,12 +638,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_mark_artifacts_0.jpg"
+          "artifact_passive_the_mark_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_mark_icon.png",
+      "icon": "artifact_passive_the_mark_icon.png",
       "locale_name": "Метка",
       "name": "The Mark",
       "descr": "Увеличивает урон на 1, скорость передвижения на 0.2 и добавляет одно Сердце Души. Получение: Комната Дьявола."
@@ -656,12 +656,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_max's_head_artifacts_0.jpg"
+          "artifact_passive_max's_head_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_max's_head_icon.png",
+      "icon": "artifact_passive_max's_head_icon.png",
       "locale_name": "Голова Макса",
       "name": "Max's Head",
       "descr": "Добавляет 0.5 урона, и умножает наносимый урон х1.5, увеличенная отдача. Получение: Сокровищница. Специальный."
@@ -674,12 +674,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mini_mush_artifacts_0.jpg"
+          "artifact_passive_mini_mush_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mini_mush_icon.png",
+      "icon": "artifact_passive_mini_mush_icon.png",
       "locale_name": "Мини-грибочек",
       "name": "Mini Mush",
       "descr": "Увеличивает скорость на 0.3 и дальность на 3.25, так же уменьшает размер игрока. Получение: Сокровищница."
@@ -692,12 +692,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mom's_contacts_artifacts_0.jpg"
+          "artifact_passive_mom's_contacts_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mom's_contacts_icon.png",
+      "icon": "artifact_passive_mom's_contacts_icon.png",
       "locale_name": "Мамины линзы",
       "name": "Mom's Contacts",
       "descr": "Выстрелы игрока могут превратить врага в камень на некоторое время. Получение: Сокровищница. Открывается сбором “Маминого Глаза” (Mom’s Eye) и другого Артефакта Мамы за одно прохождение. Специальный."
@@ -710,12 +710,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mom's_eye_artifacts_0.png"
+          "artifact_passive_mom's_eye_artifacts_0.png"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mom's_eye_icon.png",
+      "icon": "artifact_passive_mom's_eye_icon.png",
       "locale_name": "Мамин глаз",
       "name": "Mom's Eye",
       "descr": "На затылке появляется еще один глаз, и каждые несколько обычных выстрелов он делает выстрел назад. Получение: Сокровищница. Специальный."
@@ -728,12 +728,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mom's_heels_artifacts_0.jpg"
+          "artifact_passive_mom's_heels_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mom's_heels_icon.png",
+      "icon": "artifact_passive_mom's_heels_icon.png",
       "locale_name": "Мамины каблуки",
       "name": "Mom's Heels",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
@@ -746,12 +746,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mom's_lipstick_artifacts_0.jpg"
+          "artifact_passive_mom's_lipstick_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mom's_lipstick_icon.png",
+      "icon": "artifact_passive_mom's_lipstick_icon.png",
       "locale_name": "Мамина помада",
       "name": "Mom's Lipstick",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
@@ -764,12 +764,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mom's_underwear_artifacts_0.jpg"
+          "artifact_passive_mom's_underwear_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mom's_underwear_icon.png",
+      "icon": "artifact_passive_mom's_underwear_icon.png",
       "locale_name": "Мамины панталоны",
       "name": "Mom's Underwear",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
@@ -782,12 +782,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_money_=_power_artifacts_0.jpg"
+          "artifact_passive_money_=_power_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_money_=_power_icon.png",
+      "icon": "artifact_passive_money_=_power_icon.png",
       "locale_name": "Деньги = Сила",
       "name": "Money = Power",
       "descr": "Увеличивает урон на 0.04 за каждую монету до максимума 3.96 при 99 монетах. Уменьшение кол-ва монет так же влечёт за собой уменьшение урона. Если взять артефакт Четвертак (Quarter), урон не увеличится. Открывается прохождением игры в 8-ой раз. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный."
@@ -800,12 +800,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mr._mega_artifacts_0.jpg"
+          "artifact_passive_mr._mega_artifacts_0.jpg"
         ],
         "descr": " Делает голову Исаака такой же, как и у Гнева"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mr._mega_icon.png",
+      "icon": "artifact_passive_mr._mega_icon.png",
       "locale_name": "Мистер Мега",
       "name": "Mr. Mega",
       "descr": "Дает 5 бомб и делает все бомбы большими, подобно действию Артефакта “Мистер Бум” (Mr. Boom). Большие бомбы имеют больший радиус взрыва и наносят 110 урона вместо обычных 60. Открывается использованием большого количества бомб. Получение: Сокровищница, Дроп с Супер-Гнева."
@@ -818,12 +818,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_my_reflection_artifacts_0.jpg"
+          "artifact_passive_my_reflection_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_my_reflection_icon.png",
+      "icon": "artifact_passive_my_reflection_icon.png",
       "locale_name": "Мое отражение",
       "name": "My Reflection",
       "descr": "Слезы летят по траектории бумеранга. Дальность становится изначальной. Новые улучшения дальности выстрелов будут влиять на дальность эффекта бумеранга. Получение: Сокровищница. Специальный (0.2 от обычного)."
@@ -836,12 +836,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_number_one_artifacts_0.jpg"
+          "artifact_passive_number_one_artifacts_0.jpg"
         ],
         "descr": "Вместо слез стреляет желтыми каплями."
       },
       "links": [ ],
-      "icon": "img/artifact_passive_number_one_icon.png",
+      "icon": "artifact_passive_number_one_icon.png",
       "locale_name": "Номер один",
       "name": "Number One",
       "descr": "Увеличивает скорострельность на 1.5 при минимальной дальности выстрелов. Получение: Сокровищница. Специальный."
@@ -854,12 +854,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_pact_artifacts_0.jpg"
+          "artifact_passive_the_pact_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_pact_icon.png",
+      "icon": "artifact_passive_the_pact_icon.png",
       "locale_name": "Договор",
       "name": "The Pact",
       "descr": "Игрок становится черным и получает 2 Сердца души. Увеличивает скорострельность на 0.7 и урон на 0.5. Получение: Комната Дьявола."
@@ -872,12 +872,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_parasite_artifacts_0.jpg"
+          "artifact_passive_the_parasite_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_parasite_icon.png",
+      "icon": "artifact_passive_the_parasite_icon.png",
       "locale_name": "Паразит",
       "name": "The Parasite",
       "descr": "Слезы становятся оранжевыми и разделяются пополам после удара. Части разлетаются от точки попадания перпендикулярно старой траектории. Открывается сбором 2-х из “мёртвых голов” за одно прохождение: “Гнилая Голова Боба” (Bob’s Rotten Head), “Голова Гаппи” (Guppy's Head), “Голова Макса” (Max’s Head), “Голова Тамми” (Tammy’s Head). Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный."
@@ -890,12 +890,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_pentagram_artifacts_0.jpg"
+          "artifact_passive_pentagram_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_pentagram_icon.png",
+      "icon": "artifact_passive_pentagram_icon.png",
       "locale_name": "Пентаграмма",
       "name": "Pentagram",
       "descr": "Увеличивает урон на 1. Увеличивает шанс получения комнаты Дьявола\\Ангела на 20%. Получение: Босс. Специальный."
@@ -908,12 +908,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_phd_artifacts_0.jpg"
+          "artifact_passive_phd_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_phd_icon.png",
+      "icon": "artifact_passive_phd_icon.png",
       "locale_name": "Докторский диплом",
       "name": "PHD",
       "descr": "Пилюли с уменьшением параметров превращаются в аналогичные Пилюли с увеличением. Восстанавливает 2 сердца, увеличивает количество монет выпадаемых из автомата по сдаче крови и из капельницы (всегда падает 2 или 3). Определяет эффект пилюль до их использования. Получение: Сокровищница."
@@ -929,7 +929,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_a_quarter_icon.png",
+      "icon": "artifact_passive_a_quarter_icon.png",
       "locale_name": "Четвертак",
       "name": "A Quarter",
       "descr": "Дает 25 центов. Открывается прохождением игры 4 раза. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Дроп с Супер-Алчности."
@@ -945,7 +945,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_raw_liver_icon.png",
+      "icon": "artifact_passive_raw_liver_icon.png",
       "locale_name": "Сырая печень",
       "name": "Raw Liver",
       "descr": "Увеличивает максимальное здоровье на 2 и полностью восстанавливает здоровье. Получение: Секретная комната. Специальный."
@@ -958,12 +958,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_common_cold_artifacts_0.jpg"
+          "artifact_passive_the_common_cold_artifacts_0.jpg"
         ],
         "descr": "Иногда вылетают зеленые слезы."
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_common_cold_icon.png",
+      "icon": "artifact_passive_the_common_cold_icon.png",
       "locale_name": "Простуда",
       "name": "The Common Cold",
       "descr": "Дает шанс отравить врагов, слезы становятся зелеными. Яд наносит 2 урона за тик. Открывается сбором “Стероидной Ярости” (Roid Rage), “Вируса” (The Virus) и “Гормонов Роста” (Growth Hormones). Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный."
@@ -979,7 +979,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_relic_icon.png",
+      "icon": "artifact_passive_the_relic_icon.png",
       "locale_name": "Реликвия",
       "name": "The Relic",
       "descr": "Создает Сердце Души (синее) после прохождения каждых 4-х комнат. Открывается прохождением игры за персонажа Магдалина. Получение: Сокровищница, Комната Ангела."
@@ -995,7 +995,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_robo-baby_icon.png",
+      "icon": "artifact_passive_robo-baby_icon.png",
       "locale_name": "Крошка-Робот",
       "name": "Robo-Baby",
       "descr": "Следует за игроком, стреляет лазером из глаза, наносит 3 урона. Если приглядеться,то можно увидеть,что Крошка-Робот стреляет лазером изо рта. Открывается прохождением игры за персонажа Иуда. Получение: Сокровищница. Специальный."
@@ -1008,12 +1008,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_roid_rage_artifacts_0.jpg"
+          "artifact_passive_roid_rage_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_roid_rage_icon.png",
+      "icon": "artifact_passive_roid_rage_icon.png",
       "locale_name": "Стероидная ярость",
       "name": "Roid Rage",
       "descr": "Увеличивает скорость передвижения на 0.6. Получение: Сокровищница, Комната Испытания."
@@ -1026,12 +1026,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_rosary_artifacts_0.jpg"
+          "artifact_passive_rosary_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_rosary_icon.png",
+      "icon": "artifact_passive_rosary_icon.png",
       "locale_name": "Четки",
       "name": "Rosary",
       "descr": "Добавляют 3 Сердца Души, а также помещают  “Библию” (The Bible) в магазины следующих уровней данного прохождения в количестве х6. Получение: Сокровищница."
@@ -1047,7 +1047,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_rotten_meat_icon.png",
+      "icon": "artifact_passive_rotten_meat_icon.png",
       "locale_name": "Гнилое мясо",
       "name": "Rotten Meat",
       "descr": "Дает один полный контейнер здоровья. Получение: Босс."
@@ -1063,7 +1063,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_sack_of_pennies_icon.png",
+      "icon": "artifact_passive_sack_of_pennies_icon.png",
       "locale_name": "Сумка монет",
       "name": "Sack of Pennies",
       "descr": "Выдает монетку через каждые 2 комнаты. Открывается прохождением игры за персонажа Каин. Получение: Сокровищница."
@@ -1076,12 +1076,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_sad_onion_artifacts_0.jpg"
+          "artifact_passive_the_sad_onion_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_sad_onion_icon.png",
+      "icon": "artifact_passive_the_sad_onion_icon.png",
       "locale_name": "Грустный лучок",
       "name": "The Sad Onion",
       "descr": "Увеличивает скорострельность на 0.7. Является отсылкой к обзорам пользователя Ashens на YouTube. Получение: Сокровищница, Золотой сундук. Специальный."
@@ -1097,7 +1097,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_sister_maggy_icon.png",
+      "icon": "artifact_passive_sister_maggy_icon.png",
       "locale_name": "Сестренка Мэгги",
       "name": "Sister Maggy",
       "descr": "Следует за игроком, стреляет снарядами, наносящими 5 урона. Получение: Сокровищница, Комната Дьявола. Специальный."
@@ -1110,12 +1110,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_skatole_artifacts_0.jpg"
+          "artifact_passive_skatole_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_skatole_icon.png",
+      "icon": "artifact_passive_skatole_icon.png",
       "locale_name": "Скатол",
       "name": "Skatole",
       "descr": "Мухи больше не повреждают игрока и притягиваются к нему, а взрывающиеся двигаются медленнее. Действует на мух не моментально. Можно успеть получить урон. Скатол – вещество, придающие калу характерный запах. Получение: Наперсточник."
@@ -1128,12 +1128,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_skeleton_key_artifacts_0.jpg"
+          "artifact_passive_skeleton_key_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_skeleton_key_icon.png",
+      "icon": "artifact_passive_skeleton_key_icon.png",
       "locale_name": "Отмычка",
       "name": "Skeleton Key",
       "descr": "Дает 99 ключей. Словосочетание Skeleton Key (он же passingkey) обозначает специальный ключ, сделанный таким образом, чтобы открывать все замки в определённом месте, например в гостиницах. Данное словосочетание не переводится на Русский язык дословно, как \"ключ скелета\" и является достаточно распространённой ошибкой. В частности в русской версии игры The Elder Scrolls. Получение: Сокровищница (1\\2 шанс), Комната Испытания."
@@ -1146,12 +1146,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_small_rock_artifacts_0.jpg"
+          "artifact_passive_small_rock_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_small_rock_icon.png",
+      "icon": "artifact_passive_small_rock_icon.png",
       "locale_name": "Камешек",
       "name": "Small Rock",
       "descr": "Увеличивает урон на 1, скорострельность на 0.2 но уменьшает скорость перемещения на 0.2. Перекрашивает слезы в серый цвет. Получение: Помеченные камни (10% дроп). Специальный."
@@ -1164,12 +1164,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_spelunkers_hat_artifacts_0.jpg"
+          "artifact_passive_spelunkers_hat_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_spelunkers_hat_icon.png",
+      "icon": "artifact_passive_spelunkers_hat_icon.png",
       "locale_name": "Каска шахтёра",
       "name": "Spelunkers Hat",
       "descr": "Отображает местонахождение Секретной Комнаты, когда игрок доходит до комнаты, смежной с ней. Также отображает наличие минибоссов в смежных комнатах. Открывается прохождением Пещер. Получение: Сокровищница."
@@ -1182,12 +1182,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_spider's_bite_artifacts_0.jpg"
+          "artifact_passive_spider's_bite_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_spider's_bite_icon.png",
+      "icon": "artifact_passive_spider's_bite_icon.png",
       "locale_name": "Укус паука",
       "name": "Spider's Bite",
       "descr": "У слез игрока есть шанс замедлить врага. Открывается прохождением уровней Подвала. Получение: Секретная комната. Специальный."
@@ -1200,12 +1200,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_spoon_bender_artifacts_0.jpg"
+          "artifact_passive_spoon_bender_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_spoon_bender_icon.png",
+      "icon": "artifact_passive_spoon_bender_icon.png",
       "locale_name": "Сгибатель ложек",
       "name": "Spoon Bender",
       "descr": "Снаряды игрока изгибаются в сторону врагов и приобретают фиолетовый оттенок. Если у вас хорошая дальность, то они могут повернуть назад, если пролетели врагов. Является отсылкой к фильму \"Матрица\", где главный герой силой мысли согнул ложку. Получение: Сокровищница. Специальный."
@@ -1218,12 +1218,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_steam_sale_artifacts_0.jpg"
+          "artifact_passive_steam_sale_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_steam_sale_icon.png",
+      "icon": "artifact_passive_steam_sale_icon.png",
       "locale_name": "Распродажа в Стиме",
       "name": "Steam Sale",
       "descr": "Снижает цены в Магазине на 50%. Дорогие артефакты снижаются с округлением вниз (15->7), а дешевые предметы - с округлением вверх (5->3, 3->2). Получение: Магазин, Дроп с Алчности."
@@ -1236,12 +1236,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_steven_artifacts_0.jpg"
+          "artifact_passive_steven_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_steven_icon.png",
+      "icon": "artifact_passive_steven_icon.png",
       "locale_name": "Стивен",
       "name": "Steven",
       "descr": "Увеличивает урон на 1. Получение: Золотой сундук, Дроп со Стивена с шансом 1\\6. Отсылка к другой игре Эдмунда МакМиллена \"Time Fcuk\"Специальный."
@@ -1254,12 +1254,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_super_bandage_artifacts_0.jpg"
+          "artifact_passive_super_bandage_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_super_bandage_icon.png",
+      "icon": "artifact_passive_super_bandage_icon.png",
       "locale_name": "Супер пластырь",
       "name": "Super Bandage",
       "descr": "Даёт один полный контейнер здоровья и добавляет два Сердца Души. Встречается после победы над боссом. Открывается после нахождения 4-й формы \"Кубика мяса\". Получение: Босс (2\\3 шанс). Специальный."
@@ -1272,12 +1272,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_technology_artifacts_0.jpg"
+          "artifact_passive_technology_artifacts_0.jpg"
         ],
         "descr": "Вместо слез стреляет лазером"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_technology_icon.png",
+      "icon": "artifact_passive_technology_icon.png",
       "locale_name": "Технология",
       "name": "Technology",
       "descr": "Заменяет слезы персонажа на лазер. Дальность не ограничена. Лазеры не могут быть выпущены под углом, и они не останавливают/отбрасывают врагов при попадании, как слезы. Если у вас был Артефакт “Эпичный Зародыш” (Epic Fetus), то помимо запуска ракет, персонаж будет стрелять невидимым лазером (баг?). Получение: Сокровищница (4\\5 шанс), Комната Дьявола (1\\5 шанс). Специальный."
@@ -1290,12 +1290,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_transcendence_artifacts_0.jpg"
+          "artifact_passive_transcendence_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_transcendence_icon.png",
+      "icon": "artifact_passive_transcendence_icon.png",
       "locale_name": "Виселица",
       "name": "Transcendence",
       "descr": "Веревка с петлей, убирающая тело игрока, позволяющая голове летать над камнями и пропастями. Если у вас уже есть Артефакт, делающий игрока демоном (“Гвоздь”, “Договор”), Трансцендентность даст игроку вместо этого черные крылья. Открывается прохождением игры второй раз. Получение: Секретная комната (2\\3 шанс). Трансцендентность – непостижимость для сознания."
@@ -1311,7 +1311,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_treasure_map_icon.png",
+      "icon": "artifact_passive_treasure_map_icon.png",
       "locale_name": "Карта Сокровищ",
       "name": "Treasure Map",
       "descr": "Показывает полную карту каждого уровня (без иконок), также отмечая Секретные Комнаты. Получение: Магазин х2."
@@ -1324,12 +1324,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_virus_artifacts_0.jpg"
+          "artifact_passive_the_virus_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_virus_icon.png",
+      "icon": "artifact_passive_the_virus_icon.png",
       "locale_name": "Вирус",
       "name": "The Virus",
       "descr": "Позволяет повреждать врагов при касании, 40 урона, дополнительно отравляя их ядом, 2 урона за тик. Уменьшает скорость на 0.2. Уменьшение скорости не сочетается с оным от \"Толстого чудо-гриба\". Получение: Сокровищница, Комната Испытания, Дроп с Похоти."
@@ -1342,12 +1342,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_the_wafer_artifacts_0.jpg"
+          "artifact_passive_the_wafer_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_the_wafer_icon.png",
+      "icon": "artifact_passive_the_wafer_icon.png",
       "locale_name": "Облатка",
       "name": "The Wafer",
       "descr": "Добавляет сопротивление урону. Любой отнимающий 1 полное сердце урон отнимет только 1/2 сердца Замечательно работает с персонажем ???. Все предметы в Комнате Дьявола будут стоить 1/2 Сердца души. (визуально цена остаётся прежней, но при покупке тратится только половина сердца). Открывается прохождением игры в 7-ой раз. Получение: Сокровищница. Специальный."
@@ -1360,12 +1360,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_wiggle_worm_artifacts_0.jpg"
+          "artifact_passive_wiggle_worm_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_wiggle_worm_icon.png",
+      "icon": "artifact_passive_wiggle_worm_icon.png",
       "locale_name": "Извивающийся червь",
       "name": "Wiggle Worm",
       "descr": "Заставляет слезы лететь по волнообразной траектории, увеличивает скорострельность на 0.2. Если у вас есть Артефакт “Технология” (Technology), данный Артефакт лишь изменит анимацию выстреливающего лазера, но не расширит его. Получение: Сокровищница. Специальный."
@@ -1378,12 +1378,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_wire_coat_hanger_artifacts_0.jpg"
+          "artifact_passive_wire_coat_hanger_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_wire_coat_hanger_icon.png",
+      "icon": "artifact_passive_wire_coat_hanger_icon.png",
       "locale_name": "Вешалка из проволоки",
       "name": "Wire Coat Hanger",
       "descr": "Увеличивает скорострельность на 0.7. Получение: Босс."
@@ -1396,12 +1396,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_wooden_spoon_artifacts_0.jpg"
+          "artifact_passive_wooden_spoon_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_wooden_spoon_icon.png",
+      "icon": "artifact_passive_wooden_spoon_icon.png",
       "locale_name": "Деревянная ложка",
       "name": "Wooden Spoon",
       "descr": "Увеличивает скорость перемещения на 0.3. Получение: Босс, Золотой сундук."
@@ -1414,12 +1414,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_x-ray_vision_artifacts_0.jpg"
+          "artifact_passive_x-ray_vision_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_x-ray_vision_icon.png",
+      "icon": "artifact_passive_x-ray_vision_icon.png",
       "locale_name": "Рентгеновское зрение",
       "name": "X-Ray Vision",
       "descr": "Отображает и делает всегда открытыми входы в Секретные Комнаты. (Существует небольшой баг. Рыцари и многие другие враги могут застрять в дырке, ведущей в секретную комнату, при ускорении в Вас). Получение: Сокровищница."
@@ -1432,12 +1432,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_9_volt_artifacts_0.jpg"
+          "artifact_passive_9_volt_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_9_volt_icon.png",
+      "icon": "artifact_passive_9_volt_icon.png",
       "locale_name": "9 Вольт",
       "name": "9 Volt",
       "descr": "После использования активируемого предмета шкала заряда заполнится на 2 пункта. Способность почти не касается предметов, которые заряжаются за 2 или менее комнат. В итоге, предмет, который заряжается 3 комнаты, заполнится за 2, а 6 - за 4 комнаты. При покупке мгновенно перезаряжает текущий предмет. Получение: Магазин (1\\2 шанс)."
@@ -1450,12 +1450,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_blood_bag_artifacts_0.jpg"
+          "artifact_passive_blood_bag_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_blood_bag_icon.png",
+      "icon": "artifact_passive_blood_bag_icon.png",
       "locale_name": "Пакет с кровью",
       "name": "Blood Bag",
       "descr": "Увеличивает максимальное здоровье на 1, скорость на 0.2 и восстанавливает 4 сердца. Можно найти или получить несколько раз за прохождение. Получение: Автомат сдачи крови."
@@ -1471,7 +1471,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_bobby-bomb_icon.png",
+      "icon": "artifact_passive_bobby-bomb_icon.png",
       "locale_name": "Бобби-Бомба",
       "name": "Bobby-Bomb",
       "descr": "Дает 5 бомб и делает их самонаводящимися. Получение: Сокровищница."
@@ -1487,7 +1487,7 @@
         "descr": "Cледует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_bomb_bag_icon.png",
+      "icon": "artifact_passive_bomb_bag_icon.png",
       "locale_name": "Мешок с бомбами",
       "name": "Bomb Bag",
       "descr": "Каждые 3 комнаты случайно выпадают бомба, 1+1 Free бомба или Тролль-бомба. Разблокируется после прохождения Преисподней за Каина. Получение: Сокровищница."
@@ -1500,12 +1500,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_brimstone_artifacts_0.png"
+          "artifact_passive_brimstone_artifacts_0.png"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_brimstone_icon.png",
+      "icon": "artifact_passive_brimstone_icon.png",
       "locale_name": "Сера",
       "name": "Brimstone",
       "descr": "Стрельба мощным потоком крови изо рта. Увеличивает урон в 3 раза. Бьет несколько раз за выстрел. Существует баг, названный \"Brimsnap Glitch\": если после разрядки лазера быстро нажимать кнопку стрельбы, он ударит еще несколько раз, при этом визуально игрок стреляет вниз. Получение: Комната Дьявола."
@@ -1518,12 +1518,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_bucket_of_lard_artifacts_0.png"
+          "artifact_passive_bucket_of_lard_artifacts_0.png"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_bucket_of_lard_icon.png",
+      "icon": "artifact_passive_bucket_of_lard_icon.png",
       "locale_name": "Ведро сала",
       "name": "Bucket of Lard",
       "descr": "Добавляет 2 пустых контейнера под сердца и восстанавливает половину сердца, а также уменьшает скорость на 0.2. Получение: Сокровищница, Дроп с Супер-Чревоугодия."
@@ -1536,12 +1536,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_dead_bird_artifacts_0.jpg"
+          "artifact_passive_dead_bird_artifacts_0.jpg"
         ],
         "descr": "В активированном состоянии следует за игроком и врагами поблизости"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_dead_bird_icon.png",
+      "icon": "artifact_passive_dead_bird_icon.png",
       "locale_name": "Мёртвая птичка",
       "name": "Dead Bird",
       "descr": "Когда игрок получает повреждение, птичка начинает атаковать врагов, нанося 2 урона за удар. Может перелетать через препятствия. Действует только в текущей комнате. Разблокируется после открытия Евы. Имеет неприятную особенность \"зависать\" на стреляющих статуях в виде головы. Однако, убивает Наблюдателей, даже если те в форме черепа. Получение: Сокровищница, Ева начинает игру с данным артефактом."
@@ -1557,7 +1557,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_demon_baby_icon.png",
+      "icon": "artifact_passive_demon_baby_icon.png",
       "locale_name": "Крошка-Демон",
       "name": "Demon Baby",
       "descr": "Летает за игроком и автоматически стреляет во врагов в любом направлении, наносит 3 урона, если цель в допустимом радиусе атаки. Не атакует цель, если та находится за преградой или в пропасти. (Также может доставить Вам много проблем, если рядом с Вами взрывоопасные монстры). Разблокируется после прохождения Преисподней персонажем Ева. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс)."
@@ -1570,12 +1570,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_guardian_angel_artifacts_0.png"
+          "artifact_passive_guardian_angel_artifacts_0.png"
         ],
         "descr": "Кружит по орбите вокруг игрока"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_guardian_angel_icon.png",
+      "icon": "artifact_passive_guardian_angel_icon.png",
       "locale_name": "Ангел-Хранитель",
       "name": "Guardian Angel",
       "descr": "Вращается вокруг игрока, блокирует снаряды от врагов, наносит 7 урона противникам при прикосновении. Также увеличивает скорость вращения всех прислужников, летающих вокруг Вас на 30%. При поднятии появляется надпись Faith Up, однако ничего общего с Чётками не имеет. Получение: Сокровищница, Комната Ангела. Разблокируется после прохождения Преисподней Магдалиной."
@@ -1588,12 +1588,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_mom's_knife_artifacts_0.jpg"
+          "artifact_passive_mom's_knife_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_mom's_knife_icon.png",
+      "icon": "artifact_passive_mom's_knife_icon.png",
       "locale_name": "Мамин нож",
       "name": "Mom's Knife",
       "descr": "Игроку дается нож, дальность полета зависит от зажима атаки. Нож можно бросать как бумеранг. Также можно использовать как оружие ближнего боя. Нож можно бросить по диагонали. Также нож \"привязывается\" к основному урону. Максимальное поражение броском достигается тем, что нож дольше находится в враге. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Открывается после победы над Сатаной за Исаака. Нож изменяет свой внешний вид (цвет) из за некоторых предметов:Паразит (Parasite) - оранжевыйСгибатель ложек (Spoon Bender) - фиолетовыйПростуда (Common Cold) - зеленыйДоска для спиритических сеансов (Ouija Board) - прозрачныйМаленький камешек (Small Rock) - серыйКусок угля (Lump of Coal) - черныйУкус паука (Spider Bite) - белыйМамины линзы (Mom's Contacts) - красныйНомер один (Number One) - желтый"
@@ -1606,12 +1606,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_odd_mushroom_(thin)_artifacts_0.jpg"
+          "artifact_passive_odd_mushroom_(thin)_artifacts_0.jpg"
         ],
         "descr": " Уменьшение размеров головы игрока"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_odd_mushroom_(thin)_icon.png",
+      "icon": "artifact_passive_odd_mushroom_(thin)_icon.png",
       "locale_name": "Тонкий Чудо-гриб",
       "name": "Odd Mushroom (Thin)",
       "descr": "Увеличение скорости на 0.3, максимальная скорострельность (+1.7). Урон умножается на 0.9 и уменьшается на 0.4. Получение: Сокровищница."
@@ -1624,12 +1624,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_odd_mushroom_(large)_artifacts_0.jpg"
+          "artifact_passive_odd_mushroom_(large)_artifacts_0.jpg"
         ],
         "descr": " Увеличение размеров головы игрока"
       },
       "links": [ ],
-      "icon": "img/artifact_passive_odd_mushroom_(large)_icon.png",
+      "icon": "artifact_passive_odd_mushroom_(large)_icon.png",
       "locale_name": "Толстый Чудо-гриб",
       "name": "Odd Mushroom (Large)",
       "descr": "Увеличение урона на 0.3, добавление одного пустого контейнера под здоровье, уменьшение скорости на 0.2."
@@ -1642,12 +1642,12 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_ouija_board_artifacts_0.jpg"
+          "artifact_passive_ouija_board_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "img/artifact_passive_ouija_board_icon.png",
+      "icon": "artifact_passive_ouija_board_icon.png",
       "locale_name": "Доска для спиритических сеансов",
       "name": "Ouija Board",
       "descr": "Позволяет слезам игрока пролетать через препятствия. Огонь и груды кала всё еще можно разбивать/тушить, но медленнее. Получение: Сокровищница, Комната Дьявола. Специальный."
@@ -1660,14 +1660,14 @@
     "content": {
       "appearance": {
         "imgs": [
-          "img/artifact_passive_whore_of_babylon_artifacts_0.jpg"
+          "artifact_passive_whore_of_babylon_artifacts_0.jpg"
         ],
         "descr": "Внешний вид в активированном состоянии"
       },
       "links": [
         "http://ru.wikipedia.org/wiki/Castlevania_II_Simon"
       ],
-      "icon": "img/artifact_passive_whore_of_babylon_icon.png",
+      "icon": "artifact_passive_whore_of_babylon_icon.png",
       "locale_name": "Вавилонская блудница",
       "name": "Whore of Babylon",
       "descr": "Превращает игрока в демона, когда остается 1/2 сердца. Урон увеличивается на 2.16, скорость - на 0.45. При переходе в следующую комнату и сохранении эффекта прибавка к урону снизится до 1.5. Действие прекратится, если здоровье персонажа станет больше, чем 1/2 сердца и он перейдет в другую комнату. При активации на экране появляется надпись: '\"What a horrible night to have a curse...\" (Страшная ночь для того, чтобы быть проклятой) - отсылка к 's_Quest Castlevania 2: Simon's Quest. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Ева начинает игру с данным артефактом."
