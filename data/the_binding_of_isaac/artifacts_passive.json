@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "artifact_passive_<3",
     "type": "artifact_passive",
@@ -10,7 +10,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_<3_icon.png",
       "locale_name": "<3",
       "name": "<3",
@@ -28,7 +28,7 @@
         ],
         "descr": "Cледует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_1up_icon.png",
       "locale_name": "+1",
       "name": "1UP",
@@ -46,7 +46,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_battery_icon.png",
       "locale_name": "Батарейка",
       "name": "Battery",
@@ -64,7 +64,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_belt_icon.png",
       "locale_name": "Ремень",
       "name": "The Belt",
@@ -82,7 +82,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_blood_of_the_martyr_icon.png",
       "locale_name": "Кровь мученика",
       "name": "Blood of the Martyr",
@@ -100,7 +100,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_boom!_icon.png",
       "locale_name": "Бум!",
       "name": "Boom!",
@@ -113,10 +113,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_breakfast_icon.png",
       "locale_name": "Завтрак",
       "name": "Breakfast",
@@ -129,10 +129,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_brother_bobby_icon.png",
       "locale_name": "Братик Бобби",
       "name": "Brother Bobby",
@@ -150,7 +150,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_charm_of_the_vampire_icon.png",
       "locale_name": "Очарование вампира",
       "name": "Charm of the Vampire",
@@ -168,7 +168,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_chocolate_milk_icon.png",
       "locale_name": "Шоколадное молоко",
       "name": "Chocolate Milk",
@@ -181,7 +181,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
       "links": [
@@ -227,7 +227,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_cupid's_arrow_icon.png",
       "locale_name": "Стрела Купидона",
       "name": "Cupid's Arrow",
@@ -240,10 +240,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_dessert_icon.png",
       "locale_name": "Десерт",
       "name": "Dessert",
@@ -256,10 +256,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_dinner_icon.png",
       "locale_name": "Ужин",
       "name": "Dinner",
@@ -277,7 +277,7 @@
         ],
         "descr": "Кружит по орбите"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_distant_admiration_icon.png",
       "locale_name": "Восторг на расстоянии",
       "name": "Distant Admiration",
@@ -290,10 +290,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_a_dollar_icon.png",
       "locale_name": "Доллар",
       "name": "A Dollar",
@@ -311,7 +311,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_dr_fetus_icon.png",
       "locale_name": "Зародыш в банке",
       "name": "Dr Fetus",
@@ -329,7 +329,7 @@
         ],
         "descr": "Кружит по орбите"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_forever_alone_icon.png",
       "locale_name": "Навеки один",
       "name": "Forever Alone",
@@ -347,7 +347,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_growth_hormones_icon.png",
       "locale_name": "Гормоны роста",
       "name": "Growth Hormones",
@@ -360,10 +360,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_dead_cat_icon.png",
       "locale_name": "Мёртвая кошка",
       "name": "Dead Cat",
@@ -381,7 +381,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_halo_icon.png",
       "locale_name": "Нимб",
       "name": "Halo",
@@ -399,7 +399,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_halo_of_flies_icon.png",
       "locale_name": "Нимб из мух",
       "name": "Halo of Flies",
@@ -417,7 +417,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_inner_eye_icon.png",
       "locale_name": "Внутренний глаз",
       "name": "The Inner Eye",
@@ -430,10 +430,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется, лестница появляется перед пропастью"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_ladder_icon.png",
       "locale_name": "Лестница",
       "name": "Ladder",
@@ -446,10 +446,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_little_c._h._a._d._icon.png",
       "locale_name": "Маленький Ч. А. Д.",
       "name": "Little C. H. A. D.",
@@ -462,10 +462,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_little_chubby_icon.png",
       "locale_name": "Маленький Чабби",
       "name": "Little Chubby",
@@ -478,10 +478,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_little_gish_icon.png",
       "locale_name": "Маленький Гиш",
       "name": "Little Gish",
@@ -494,10 +494,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_little_steve_icon.png",
       "locale_name": "Маленький Стив",
       "name": "Little Steve",
@@ -515,7 +515,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_loki's_horns_icon.png",
       "locale_name": "Рога Локи",
       "name": "Loki's Horns",
@@ -533,7 +533,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_lord_of_the_pit_icon.png",
       "locale_name": "Повелитель ям",
       "name": "Lord of the Pit",
@@ -572,7 +572,7 @@
         ],
         "descr": "Угольное пятно на лбу, слезы становятся серыми."
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_lump_of_coal_icon.png",
       "locale_name": "Кусок угля",
       "name": "Lump of Coal",
@@ -585,10 +585,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_lunch_icon.png",
       "locale_name": "Обед",
       "name": "Lunch",
@@ -606,7 +606,7 @@
         ],
         "descr": "Игрок визуально увеличивается. "
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_magic_mushroom_icon.png",
       "locale_name": "Волшебный грибочек",
       "name": "Magic Mushroom",
@@ -624,7 +624,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_magneto_icon.png",
       "locale_name": "Магнит",
       "name": "Magneto",
@@ -642,7 +642,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_mark_icon.png",
       "locale_name": "Метка",
       "name": "The Mark",
@@ -660,7 +660,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_max's_head_icon.png",
       "locale_name": "Голова Макса",
       "name": "Max's Head",
@@ -678,7 +678,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mini_mush_icon.png",
       "locale_name": "Мини-грибочек",
       "name": "Mini Mush",
@@ -696,7 +696,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mom's_contacts_icon.png",
       "locale_name": "Мамины линзы",
       "name": "Mom's Contacts",
@@ -714,7 +714,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mom's_eye_icon.png",
       "locale_name": "Мамин глаз",
       "name": "Mom's Eye",
@@ -732,7 +732,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mom's_heels_icon.png",
       "locale_name": "Мамины каблуки",
       "name": "Mom's Heels",
@@ -750,7 +750,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mom's_lipstick_icon.png",
       "locale_name": "Мамина помада",
       "name": "Mom's Lipstick",
@@ -768,7 +768,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mom's_underwear_icon.png",
       "locale_name": "Мамины панталоны",
       "name": "Mom's Underwear",
@@ -786,7 +786,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_money_=_power_icon.png",
       "locale_name": "Деньги = Сила",
       "name": "Money = Power",
@@ -804,7 +804,7 @@
         ],
         "descr": " Делает голову Исаака такой же, как и у Гнева"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mr._mega_icon.png",
       "locale_name": "Мистер Мега",
       "name": "Mr. Mega",
@@ -822,7 +822,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_my_reflection_icon.png",
       "locale_name": "Мое отражение",
       "name": "My Reflection",
@@ -840,7 +840,7 @@
         ],
         "descr": "Вместо слез стреляет желтыми каплями."
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_number_one_icon.png",
       "locale_name": "Номер один",
       "name": "Number One",
@@ -858,7 +858,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_pact_icon.png",
       "locale_name": "Договор",
       "name": "The Pact",
@@ -876,7 +876,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_parasite_icon.png",
       "locale_name": "Паразит",
       "name": "The Parasite",
@@ -894,7 +894,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_pentagram_icon.png",
       "locale_name": "Пентаграмма",
       "name": "Pentagram",
@@ -912,7 +912,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_phd_icon.png",
       "locale_name": "Докторский диплом",
       "name": "PHD",
@@ -925,10 +925,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_a_quarter_icon.png",
       "locale_name": "Четвертак",
       "name": "A Quarter",
@@ -941,10 +941,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_raw_liver_icon.png",
       "locale_name": "Сырая печень",
       "name": "Raw Liver",
@@ -962,7 +962,7 @@
         ],
         "descr": "Иногда вылетают зеленые слезы."
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_common_cold_icon.png",
       "locale_name": "Простуда",
       "name": "The Common Cold",
@@ -975,10 +975,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_relic_icon.png",
       "locale_name": "Реликвия",
       "name": "The Relic",
@@ -991,10 +991,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_robo-baby_icon.png",
       "locale_name": "Крошка-Робот",
       "name": "Robo-Baby",
@@ -1012,7 +1012,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_roid_rage_icon.png",
       "locale_name": "Стероидная ярость",
       "name": "Roid Rage",
@@ -1030,7 +1030,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_rosary_icon.png",
       "locale_name": "Четки",
       "name": "Rosary",
@@ -1043,10 +1043,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_rotten_meat_icon.png",
       "locale_name": "Гнилое мясо",
       "name": "Rotten Meat",
@@ -1059,10 +1059,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_sack_of_pennies_icon.png",
       "locale_name": "Сумка монет",
       "name": "Sack of Pennies",
@@ -1080,7 +1080,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_sad_onion_icon.png",
       "locale_name": "Грустный лучок",
       "name": "The Sad Onion",
@@ -1093,10 +1093,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_sister_maggy_icon.png",
       "locale_name": "Сестренка Мэгги",
       "name": "Sister Maggy",
@@ -1114,7 +1114,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_skatole_icon.png",
       "locale_name": "Скатол",
       "name": "Skatole",
@@ -1132,7 +1132,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_skeleton_key_icon.png",
       "locale_name": "Отмычка",
       "name": "Skeleton Key",
@@ -1150,7 +1150,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_small_rock_icon.png",
       "locale_name": "Камешек",
       "name": "Small Rock",
@@ -1168,7 +1168,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_spelunkers_hat_icon.png",
       "locale_name": "Каска шахтёра",
       "name": "Spelunkers Hat",
@@ -1186,7 +1186,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_spider's_bite_icon.png",
       "locale_name": "Укус паука",
       "name": "Spider's Bite",
@@ -1204,7 +1204,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_spoon_bender_icon.png",
       "locale_name": "Сгибатель ложек",
       "name": "Spoon Bender",
@@ -1222,7 +1222,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_steam_sale_icon.png",
       "locale_name": "Распродажа в Стиме",
       "name": "Steam Sale",
@@ -1240,7 +1240,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_steven_icon.png",
       "locale_name": "Стивен",
       "name": "Steven",
@@ -1258,7 +1258,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_super_bandage_icon.png",
       "locale_name": "Супер пластырь",
       "name": "Super Bandage",
@@ -1276,7 +1276,7 @@
         ],
         "descr": "Вместо слез стреляет лазером"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_technology_icon.png",
       "locale_name": "Технология",
       "name": "Technology",
@@ -1294,7 +1294,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_transcendence_icon.png",
       "locale_name": "Виселица",
       "name": "Transcendence",
@@ -1307,10 +1307,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_treasure_map_icon.png",
       "locale_name": "Карта Сокровищ",
       "name": "Treasure Map",
@@ -1328,7 +1328,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_virus_icon.png",
       "locale_name": "Вирус",
       "name": "The Virus",
@@ -1346,7 +1346,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_the_wafer_icon.png",
       "locale_name": "Облатка",
       "name": "The Wafer",
@@ -1364,7 +1364,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_wiggle_worm_icon.png",
       "locale_name": "Извивающийся червь",
       "name": "Wiggle Worm",
@@ -1382,7 +1382,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_wire_coat_hanger_icon.png",
       "locale_name": "Вешалка из проволоки",
       "name": "Wire Coat Hanger",
@@ -1400,7 +1400,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_wooden_spoon_icon.png",
       "locale_name": "Деревянная ложка",
       "name": "Wooden Spoon",
@@ -1418,7 +1418,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_x-ray_vision_icon.png",
       "locale_name": "Рентгеновское зрение",
       "name": "X-Ray Vision",
@@ -1436,7 +1436,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_9_volt_icon.png",
       "locale_name": "9 Вольт",
       "name": "9 Volt",
@@ -1454,7 +1454,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_blood_bag_icon.png",
       "locale_name": "Пакет с кровью",
       "name": "Blood Bag",
@@ -1467,10 +1467,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Внешний вид не меняется"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_bobby-bomb_icon.png",
       "locale_name": "Бобби-Бомба",
       "name": "Bobby-Bomb",
@@ -1483,10 +1483,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Cледует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_bomb_bag_icon.png",
       "locale_name": "Мешок с бомбами",
       "name": "Bomb Bag",
@@ -1504,7 +1504,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_brimstone_icon.png",
       "locale_name": "Сера",
       "name": "Brimstone",
@@ -1522,7 +1522,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_bucket_of_lard_icon.png",
       "locale_name": "Ведро сала",
       "name": "Bucket of Lard",
@@ -1540,7 +1540,7 @@
         ],
         "descr": "В активированном состоянии следует за игроком и врагами поблизости"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_dead_bird_icon.png",
       "locale_name": "Мёртвая птичка",
       "name": "Dead Bird",
@@ -1553,10 +1553,10 @@
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
-        "imgs": [],
+        "imgs": [ ],
         "descr": "Следует за игроком"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_demon_baby_icon.png",
       "locale_name": "Крошка-Демон",
       "name": "Demon Baby",
@@ -1574,7 +1574,7 @@
         ],
         "descr": "Кружит по орбите вокруг игрока"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_guardian_angel_icon.png",
       "locale_name": "Ангел-Хранитель",
       "name": "Guardian Angel",
@@ -1592,7 +1592,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_mom's_knife_icon.png",
       "locale_name": "Мамин нож",
       "name": "Mom's Knife",
@@ -1610,7 +1610,7 @@
         ],
         "descr": " Уменьшение размеров головы игрока"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_odd_mushroom_(thin)_icon.png",
       "locale_name": "Тонкий Чудо-гриб",
       "name": "Odd Mushroom (Thin)",
@@ -1628,7 +1628,7 @@
         ],
         "descr": " Увеличение размеров головы игрока"
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_odd_mushroom_(large)_icon.png",
       "locale_name": "Толстый Чудо-гриб",
       "name": "Odd Mushroom (Large)",
@@ -1646,7 +1646,7 @@
         ],
         "descr": ""
       },
-      "links": [],
+      "links": [ ],
       "icon": "img/artifact_passive_ouija_board_icon.png",
       "locale_name": "Доска для спиритических сеансов",
       "name": "Ouija Board",
@@ -1671,483 +1671,6 @@
       "locale_name": "Вавилонская блудница",
       "name": "Whore of Babylon",
       "descr": "Превращает игрока в демона, когда остается 1/2 сердца. Урон увеличивается на 2.16, скорость - на 0.45. При переходе в следующую комнату и сохранении эффекта прибавка к урону снизится до 1.5. Действие прекратится, если здоровье персонажа станет больше, чем 1/2 сердца и он перейдет в другую комнату. При активации на экране появляется надпись: '\"What a horrible night to have a curse...\" (Страшная ночь для того, чтобы быть проклятой) - отсылка к 's_Quest Castlevania 2: Simon's Quest. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс), Ева начинает игру с данным артефактом."
-    }
-  },
-  {
-    "id": "artifact_active_anarchist_cookbook",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_anarchist_cookbook_icon.png",
-      "locale_name": "Поваренная книга анархиста",
-      "name": "Anarchist Cookbook",
-      "descr": "Создает 6 тролль-бомб по всей комнате. Карта Таро \"Башня\" имеет такой же эффект. Получение: Библиотека, Сокровищница, дроп с Гордыни. Название - отсылка к пособию по изготовлению взрывчатки в домашних условиях."
-    }
-  },
-  {
-    "id": "artifact_active_the_bean",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_bean_icon.png",
-      "locale_name": "Боб",
-      "name": "The Bean",
-      "descr": "При активации выделяет газ, отравляя врагов поблизости. Пилюля \"отвратительный газ\" (Bad Gas) имеет такой же эффект. Получение: Сокровищница. Открывается уничтожением 50 кучек кала на игровых уровнях."
-    }
-  },
-  {
-    "id": "artifact_active_bob's_rotten_head",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_bob's_rotten_head_icon.png",
-      "locale_name": "Гнилая голова Боба",
-      "name": "Bob's Rotten Head",
-      "descr": "При активации, игрок поднимает над собой голову и кидает её в выбранном направлении. Повреждает врагов напрямую, а также отравляет ядом в течение 5 секунд. Взрыв головы-бомбы уничтожает камни и также может повредить игрока. Получение: Секретная комната, Дроп с Лени. Бомбы полетят по дуге обратно к игроку, если у вас имеется артефакт \"Мое Отражение\"."
-    }
-  },
-  {
-    "id": "artifact_active_the_bible",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette3.wikia.nocookie.net/bindingofisaac/images/7/78/Isaac_Fate.png/revision/latest?cb=20120903165205&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_the_bible_icon.png",
-      "locale_name": "Библия",
-      "name": "The Bible",
-      "descr": "Дарует игроку крылья и возможность летать в пределах данной комнаты. Также мгновенно убивает Маму, Сердце Мамы и Оно Живое. Предупреждение: - Сатана, Исаак (босс) и ??? (босс) мгновенно убивают при попытке использования Библии во время схватки с ними. Получение: Сокровищница, Комната Ангела, Магазин х6 только при подъеме \"Четок\"."
-    }
-  },
-  {
-    "id": "artifact_active_the_book_of_belial",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/d/de/Belialisaac.jpg/revision/latest?cb=20120903165218&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_the_book_of_belial_icon.png",
-      "locale_name": "Книга Белиала",
-      "name": "The Book of Belial",
-      "descr": "+2 урона в пределах данной комнаты. Эффект одинаков с картой таро “Дьявол” (The Devil) и не сочетается с ней. Если персонаж при активации имеет артефакт \"Кровь Мученика\", их совмещенный эффект добавляет умножение урона в полтора раза. Увеличивает шанс получения комнаты Дьявола\\Ангела на 25%. Получение: Библиотека, Сокровищница (1\\3 шанс), Комната Дьявола (1\\6 шанс), Секретная комната (1\\2 шанс), Иуда начинат игру с данным артефактом. Открывается убийством Сердца Мамы. Белиал – имя демона в Библии и некоторых других книгах."
-    }
-  },
-  {
-    "id": "artifact_active_the_book_of_revelations",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_book_of_revelations_icon.png",
-      "locale_name": "Книга Откровений",
-      "name": "The Book of Revelations",
-      "descr": "Добавляет 1 Сердце Души. При использовании на уровне гарантирует появление Всадника-босса, если он на этом этаже ещё не появлялся. Не влияет на уровни с проклятьем лабиринта. Увеличивает шанс получения комнаты Дьявола\\Ангела на 35%Получение: Библиотека, Магазин. Открывается убийством любого из Всадников."
-    }
-  },
-  {
-    "id": "artifact_active_book_of_shadows",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/43/Shield.jpg/revision/latest?cb=20120903165230&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_book_of_shadows_icon.png",
-      "locale_name": "Книга Теней",
-      "name": "Book of Shadows",
-      "descr": "Создает барьер не пропускающий урон на 10 секунд. Получение: Сокровищница, Библиотека. Отсылка к сериалу \"Зачарованные\"."
-    }
-  },
-  {
-    "id": "artifact_active_the_book_of_sin",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_book_of_sin_icon.png",
-      "locale_name": "Книга Грехов",
-      "name": "The Book of Sin",
-      "descr": "Создает рядом случайный Предмет (бомбы, ключи, сердечки, пилюли и карты Таро). Получение: Библиотека, Комната Дьявола (1\\3 шанс), Сокровищница (2\\3 шанс). Открывается победой над каждым из Семи Смертных Грехов."
-    }
-  },
-  {
-    "id": "artifact_active_dead_sea_scrolls",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_dead_sea_scrolls_icon.png",
-      "locale_name": "Свитки Мёртвого моря",
-      "name": "Dead Sea Scrolls",
-      "descr": "Использует случайный активируемый предмет. Не может использовать \"D6\". Если предмет не имеет времени перезарядки (Камикадзе, например), то есть возможность использовать Свиток еще раз без перезарядки. Получение: Сокровищница."
-    }
-  },
-  {
-    "id": "artifact_active_колода_карт",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_колода_карт_icon.png",
-      "locale_name": "Колода карт",
-      "name": "Колода карт",
-      "descr": "Deck of Cards"
-    }
-  },
-  {
-    "id": "artifact_active_d6",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_d6_icon.png",
-      "locale_name": "D6",
-      "name": "D6",
-      "descr": "Позволяет заменить любой лежащий на пьедестале Артефакт, будь он Активируемым или Пассивным, на случайный другой. D6 может заменять не только Артефакты, лежащие в Комнате Сокровищ, но и Артефакты в Магазине, а также выпавшие из Боссов, Попрошайки, разрушаемого камня и т.д. Исключения – Кубик Мяса, Пони, Белая Пони, и Маленький Ч. А. Д. они всегда будут заменены на эти же Артефакты. Получение: Сокровищница, Исаак начинает игру с данным артафактом (только после прохождения Утробы за персонажа ???)."
-    }
-  },
-  {
-    "id": "artifact_active_doctor's_remote",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_doctor's_remote_icon.png",
-      "locale_name": "ПДУ Доктора",
-      "name": "Doctor's Remote",
-      "descr": "Устанавливает крупную красную мишень на полу комнаты, позицию которой можно изменить с помощью стрелок на клавиатуре или с помощью мышки (как с \"Эпичным Зародышем\"). Через несколько секунд огромная ракета прилетит в указанное место, наносит 80 урона. Получение: Сокровищница. Это отсылка к персонажу Dr. Fetus из игры Super Meat Boy."
-    }
-  },
-  {
-    "id": "artifact_active_forget_me_now",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_forget_me_now_icon.png",
-      "locale_name": "Забудь меня",
-      "name": "Forget Me Now",
-      "descr": "При активации уровень заканчивается и запускается заново: с новыми комнатами, монстрами и предметами. Исчезает при активации. Получение: Сокровищница (1\\2 шанс), Комната Дьявола(1\\2 шанс). Отсылка к сериалу \"Замедленное Развитие\", где персонаж Джоб называет \"roofies\" \"Забудь Меня\". Открывается прохождением Преисподней персонажем ???. Использование в Соборе спавнит игрока в Преисподней, на Сундук это не распространяется."
-    }
-  },
-  {
-    "id": "artifact_active_the_gamekid",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/4c/Pacisaac.jpg/revision/latest?cb=20120903170241&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_the_gamekid_icon.png",
-      "locale_name": "Геймкид",
-      "name": "The Gamekid",
-      "descr": "Дает несколько эффектов: временная неуязвимость, способность касанием повреждать врагов на 40 урона, лечит 1/2 здоровья при убийстве каждого 2 монстра (не босса) в течение 5 секунд. Во время действия невозможно использовать обычную атаку. Ощутимым отличием от Артефакта “Мой Маленький Единорог” (My Little Unicorn) является то, что враги во время действия Геймкида убегают от игрока в течение 5 секунд. Открывается посещением Игровых Комнат 10 раз. Получение: Сокровищница. Примечание: Когда используется в комнате дьявола, цвета сердец кажутся более темными, но они НЕ превращены в сердца души (покупаемое изделие, будет стоить нормальных сердец). Отсылка к игре \"Pac-Man\" и  к приставке \"Gameboy\""
-    }
-  },
-  {
-    "id": "artifact_active_the_hourglass",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_hourglass_icon.png",
-      "locale_name": "Песочные часы",
-      "name": "The Hourglass",
-      "descr": "Замедляет врагов и снаряды на 7,5 секунд. Получение: Сокровищница."
-    }
-  },
-  {
-    "id": "artifact_active_kamikaze!",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_kamikaze!_icon.jpg",
-      "locale_name": "Камикадзе! ",
-      "name": "Kamikaze!",
-      "descr": "Активация создает взрыв вокруг игрока, повреждая врагов вокруг, а также отнимая у самого игрока одно сердце. Получение: Сокровищница. Баг: если использовать, плотно прижавшись к стене (т.е. двигаясь в стену), то сердце не отнимается. Баг не работает, если за стеной находится секретная или супер-секретная  комната."
-    }
-  },
-  {
-    "id": "artifact_active_lemon_mishap",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_lemon_mishap_icon.png",
-      "locale_name": "Лимонная авария",
-      "name": "Lemon Mishap",
-      "descr": "Заставляет игрока, дословно, обмочиться, что создает лужу, повреждающую любых врагов, пересекающих ее. Получение: Сокровищница. Наносит 8 урона за удар."
-    }
-  },
-  {
-    "id": "artifact_active_mom's_bottle_of_pills",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_mom's_bottle_of_pills_icon.png",
-      "locale_name": "Мамина склянка пилюль",
-      "name": "Mom's Bottle of Pills",
-      "descr": "Создает случайную пилюлю. Открывается многократным использованием Автомата по сдаче крови. Получение: Сокровищница."
-    }
-  },
-  {
-    "id": "artifact_active_mom's_bra",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f7/039_TBoI_collectibles.png/revision/latest?cb=20160111222407&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_mom's_bra_icon.png",
-      "locale_name": "Мамин лифчик",
-      "name": "Mom's Bra",
-      "descr": "Заставляет игрока надеть на голову лифчик на 15 секунд, благодаря чему враги на 7 секунд застывают на месте. Получение: Сокровищница."
-    }
-  },
-  {
-    "id": "artifact_active_mom's_pad",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_mom's_pad_icon.png",
-      "locale_name": "Мамина прокладка",
-      "name": "Mom's Pad",
-      "descr": "Враги на 6 секунд начинают убегать от игрока и становятся синими. Получение: Сокровищница."
-    }
-  },
-  {
-    "id": "artifact_active_monster_manuel",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_monster_manuel_icon.png",
-      "locale_name": "Руководство о монстрах",
-      "name": "Monster Manuel",
-      "descr": "Вызывает случайного помощника на текущую комнату. Открывается прохождением Преисподней персонажем Иуда. Получение: Сокровищница (2\\3 шанс), Библиотека, Комната Дьявола (1\\3 шанс)."
-    }
-  },
-  {
-    "id": "artifact_active_monstro's_tooth",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_monstro's_tooth_icon.png",
-      "locale_name": "Зуб Монстро",
-      "name": "Monstro's Tooth",
-      "descr": "Монстро прыгает на случайного из врагов и наносит 120 урона. Будьте внимательны: прикосновение к Монстро так же повреждает игрока. Примечание: не работает на самом Монстро (с Монстро 2 работает). Работает в части Rebirth. Получение: Сокровищница. Открывается победой над каждым Боссом с уровней Подвала."
-    }
-  },
-  {
-    "id": "artifact_active_mr._boom",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_mr._boom_icon.png",
-      "locale_name": "Мистер Бум",
-      "name": "Mr. Boom",
-      "descr": "Ставит большую бомбу. У нее больший радиус взрыва и она наносит 110 урона (вместо обычных 60). Получение: Сокровищница, дроп с Гнева."
-    }
-  },
-  {
-    "id": "artifact_active_my_little_unicorn",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/1/1d/MLUisaac.jpg/revision/latest?cb=20120903170328&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_my_little_unicorn_icon.png",
-      "locale_name": "Мой маленький единорог",
-      "name": "My Little Unicorn",
-      "descr": "Дает неуязвимость и возможность наносить 40 урона касанием в течение 5 секунд. Во время действия невозможно использовать обычную атаку. Является отсылкой к мультсериалу My Little Pony. Получение: Сокровищница, Секретная Комната (1\\2 шанс на х2)."
-    }
-  },
-  {
-    "id": "artifact_active_the_nail",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_nail_icon.png",
-      "locale_name": "Гвоздь",
-      "name": "The Nail",
-      "descr": "Несколько эффектов: добавляет 1 Сердце Души; позволяет ломать камни, проходя через них; увеличивает повреждение на 0.7; уменьшает скорость перемещения на 0.2 в текущей комнате. Открывается прохождением игры 3 раза. Получение: Комната Дьявола (2\\3 шанс)."
-    }
-  },
-  {
-    "id": "artifact_active_the_necronomicon",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_necronomicon_icon.png",
-      "locale_name": "Некрономикон",
-      "name": "The Necronomicon",
-      "descr": "Наносит всем врагам в комнате по 40 урона. Открывается использованием карты Таро “Смерть” (The Death) определенное число раз. Некрономикон – вымышленная книга мёртвых. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (2\\9 шанс), Библиотека (2\\3 шанс)."
-    }
-  },
-  {
-    "id": "artifact_active_a_pony",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/6b/Official_pony.png/revision/latest?cb=20120903170440&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_a_pony_icon.png",
-      "locale_name": "Пони",
-      "name": "A Pony",
-      "descr": "Устанавливает параметр скорости на 1.5 и позволяет игроку летать через различные препятствия. При использовании игрок быстро перелетает в выбранном направлении, нанося 40 урона всем подряд, кто стоит на пути. Примечание: При использовании в Аппарат по сдачи крови вы не потратите сердце. Так же в комнате жертвоприношений. Получение: Дроп с Всадника без Головы."
-    }
-  },
-  {
-    "id": "artifact_active_the_poop",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_the_poop_icon.jpg",
-      "locale_name": "Какашка ",
-      "name": "The Poop",
-      "descr": "Игрок роняет кучку кала, точно такую же, какие лежат в подвалах. Открывается 10-ым прохождением игры. Получение: Сокровищница, ??? начинает игру с этим Артефактом."
-    }
-  },
-  {
-    "id": "artifact_active_razor_blade",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette4.wikia.nocookie.net/bindingofisaac/images/e/e8/Eve_Razor_Blade_small.png/revision/latest?cb=20120903170628&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_razor_blade_icon.png",
-      "locale_name": "Лезвие бритвы",
-      "name": "Razor Blade",
-      "descr": "Отнимает сердце в обмен на увеличение урона в данной комнате. За каждое использование дает 0.6 урона. Как и аппарат по сдаче крови, Бритва сначала отнимает красные сердца, а с половины сердца - сердца душ. Разблокируется после убийства Сердца Мамы/Оно Живое персонажем Ева. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс)."
-    }
-  },
-  {
-    "id": "artifact_active_the_pinking_shears",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/6/64/Shearsisaac.jpg/revision/latest?cb=20120903170652&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_the_pinking_shears_icon.png",
-      "locale_name": "Ножницы",
-      "name": "The Pinking Shears",
-      "descr": "Отрезает голову от тела на одну комнату. То есть дает голове полет, а тело бегает по комнате и наносит 7 урона врагам за удар. Получение: Сокровищница. Открывается 100 смертями игрока.  "
-    }
-  },
-  {
-    "id": "artifact_active_shoop_da_whoop!",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/5a/Shoopisaac.jpg/revision/latest?cb=20120903170710&path-prefix=ru"
-      ],
-      "icon": "img/artifact_active_shoop_da_whoop!_icon.png",
-      "locale_name": "Шуп да вуп!",
-      "name": "Shoop Da Whoop!",
-      "descr": "Выстреливает лазером изо рта игрока. Наносит 22 урона за удар. Отсылка к известному мему. Получение: Сокровищница, Дроп с Зависти."
-    }
-  },
-  {
-    "id": "artifact_active_tammy's_head",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_tammy's_head_icon.png",
-      "locale_name": "Голова Тамми",
-      "name": "Tammy's Head",
-      "descr": "Выстреливает 10 снарядов вокруг игрока. Снаряды имеют те же эффекты, что слёзы игрока, урон от каждого увеличен. Получение: Золотой сундук."
-    }
-  },
-  {
-    "id": "artifact_active_teleport!",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_teleport!_icon.png",
-      "locale_name": "Телепорт!",
-      "name": "Teleport!",
-      "descr": "Телепортирует игрока в случайную комнату, кроме комнаты Я-ОШИБКА. Получение: Сокровищница, Комната Испытаний."
-    }
-  },
-  {
-    "id": "artifact_active_we_need_to_go_deeper",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [
-        "http://www.youtube.com/watch?v=acz6BnkDp0c"
-      ],
-      "icon": "img/artifact_active_we_need_to_go_deeper_icon.png",
-      "locale_name": "Нам нужно глубже",
-      "name": "We Need to Go Deeper",
-      "descr": "Создает люк, ведущий на следующий уровень. На последнем уровне не делает ничего. При использовании МОЖНО получить достижение на прохождение без урона, если не пропускается каждый второй уровень (Подвал 2, Катакомбы 2 и т.п.) Если вы используете лопату, к примеру, на уровне Утроба 1 и пройдёте без потери жизни следующий уровень (Утроба 2) - вы всё-равно получите достижение. ПримерПолучение: Комната Дьявола (1\\3 шанс), Секретная комната (1\\2 шанс). Используя лопату на уровне Утроба 2, можно попасть в Преисподнюю на ранних прохождениях, без нужды убивать Сердце Мамы определенное количество раз. В самой Преисподней предмет бесполезен."
-    }
-  },
-  {
-    "id": "artifact_active_yum_heart",
-    "type": "artifact_active",
-    "game": "the_binding_of_isaac",
-    "content": {
-      "appearance": null,
-      "links": [],
-      "icon": "img/artifact_active_yum_heart_icon.png",
-      "locale_name": "Ням-Сердце",
-      "name": "Yum Heart",
-      "descr": "Восполняет 1 полное Сердце (красное). Открывается при наличии 7 слотов Сердечек одновременно. Получение: Сокровищница, Дроп с Супер-Похоти, Магдалина начинает игру с данным артефактом.."
     }
   }
 ]
