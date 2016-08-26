@@ -184,9 +184,7 @@
     "type": "monster",
     "game": "the_binding_of_isaac",
     "content": {
-      "icons": [
-        "monster_gaper_monsters_0.png"
-      ],
+      "icons": [ ],
       "strategy": "",
       "extra": "",
       "locale_name": "Зевака",
@@ -619,9 +617,7 @@
     "type": "monster",
     "game": "the_binding_of_isaac",
     "content": {
-      "icons": [
-        "monster_selfless_knight_monsters_0.jpg"
-      ],
+      "icons": [ ],
       "strategy": "",
       "extra": "",
       "locale_name": "Самоотверженный Рыцарь",
@@ -634,9 +630,7 @@
     "type": "monster",
     "game": "the_binding_of_isaac",
     "content": {
-      "icons": [
-        "monster_hopper_monsters_0.png"
-      ],
+      "icons": [ ],
       "strategy": "",
       "extra": "",
       "locale_name": "Скакун",
@@ -649,9 +643,7 @@
     "type": "monster",
     "game": "the_binding_of_isaac",
     "content": {
-      "icons": [
-        "monster_flaming_hopper_monsters_0.png"
-      ],
+      "icons": [ ],
       "strategy": "",
       "extra": "",
       "locale_name": "Горящий Скакун",
