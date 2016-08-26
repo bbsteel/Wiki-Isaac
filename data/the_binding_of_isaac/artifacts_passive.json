@@ -985,7 +985,7 @@
     }
   },
   {
-    "id": "artifact_passive_robo-baby",
+    "id": "artifact_passive_robo_baby",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
@@ -994,7 +994,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "artifact_passive_robo-baby_icon.png",
+      "icon": "artifact_passive_robo_baby_icon.png",
       "locale_name": "Крошка-Робот",
       "name": "Robo-Baby",
       "descr": "Следует за игроком, стреляет лазером из глаза, наносит 3 урона. Если приглядеться,то можно увидеть,что Крошка-Робот стреляет лазером изо рта. Открывается прохождением игры за персонажа Иуда. Получение: Сокровищница. Специальный."
@@ -1407,18 +1407,18 @@
     }
   },
   {
-    "id": "artifact_passive_x-ray_vision",
+    "id": "artifact_passive_x_ray_vision",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_x-ray_vision_artifacts_0.jpg"
+          "artifact_passive_x_ray_vision_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_x-ray_vision_icon.png",
+      "icon": "artifact_passive_x_ray_vision_icon.png",
       "locale_name": "Рентгеновское зрение",
       "name": "X-Ray Vision",
       "descr": "Отображает и делает всегда открытыми входы в Секретные Комнаты. (Существует небольшой баг. Рыцари и многие другие враги могут застрять в дырке, ведущей в секретную комнату, при ускорении в Вас). Получение: Сокровищница."
@@ -1461,7 +1461,7 @@
     }
   },
   {
-    "id": "artifact_passive_bobby-bomb",
+    "id": "artifact_passive_bobby_bomb",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
@@ -1470,7 +1470,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "artifact_passive_bobby-bomb_icon.png",
+      "icon": "artifact_passive_bobby_bomb_icon.png",
       "locale_name": "Бобби-Бомба",
       "name": "Bobby-Bomb",
       "descr": "Дает 5 бомб и делает их самонаводящимися. Получение: Сокровищница."

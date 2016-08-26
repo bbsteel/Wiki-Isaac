@@ -268,12 +268,12 @@
     }
   },
   {
-    "id": "monster_para-bite",
+    "id": "monster_para_bite",
     "type": "monster",
     "game": "the_binding_of_isaac",
     "content": {
       "icons": [
-        "monster_para-bite_monsters_0.png"
+        "monster_para_bite_monsters_0.png"
       ],
       "strategy": "",
       "extra": "",
