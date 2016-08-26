@@ -114,15 +114,15 @@
     }
   },
   {
-    "id": "artifact_active_колода_карт",
+    "id": "artifact_active_deck_of_cards",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_колода_карт_icon.png",
+      "icon": "artifact_active_deck_of_cards_icon.png",
       "locale_name": "Колода карт",
-      "name": "Колода карт",
-      "descr": "Deck of Cards"
+      "name": "Deck of Cards",
+      "descr": "Даёт случайную карту Таро."
     }
   },
   {
