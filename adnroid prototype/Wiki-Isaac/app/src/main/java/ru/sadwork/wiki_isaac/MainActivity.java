@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    private void onClickSearchButton(View v){
+    public void onClickSearchButton(View v){
 
     }
 
