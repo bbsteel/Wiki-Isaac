@@ -24,12 +24,12 @@
     }
   },
   {
-    "id": "artifact_active_bob's_rotten_head",
+    "id": "artifact_active_bob_s_rotten_head",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_bob's_rotten_head_icon.png",
+      "icon": "artifact_active_bob_s_rotten_head_icon.png",
       "locale_name": "Гнилая голова Боба",
       "name": "Bob's Rotten Head",
       "descr": "При активации, игрок поднимает над собой голову и кидает её в выбранном направлении. Повреждает врагов напрямую, а также отравляет ядом в течение 5 секунд. Взрыв головы-бомбы уничтожает камни и также может повредить игрока. Получение: Секретная комната, Дроп с Лени. Бомбы полетят по дуге обратно к игроку, если у вас имеется артефакт \"Мое Отражение\"."
@@ -138,12 +138,12 @@
     }
   },
   {
-    "id": "artifact_active_doctor's_remote",
+    "id": "artifact_active_doctor_s_remote",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_doctor's_remote_icon.png",
+      "icon": "artifact_active_doctor_s_remote_icon.png",
       "locale_name": "ПДУ Доктора",
       "name": "Doctor's Remote",
       "descr": "Устанавливает крупную красную мишень на полу комнаты, позицию которой можно изменить с помощью стрелок на клавиатуре или с помощью мышки (как с \"Эпичным Зародышем\"). Через несколько секунд огромная ракета прилетит в указанное место, наносит 80 урона. Получение: Сокровищница. Это отсылка к персонажу Dr. Fetus из игры Super Meat Boy."
@@ -212,38 +212,38 @@
     }
   },
   {
-    "id": "artifact_active_mom's_bottle_of_pills",
+    "id": "artifact_active_mom_s_bottle_of_pills",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_mom's_bottle_of_pills_icon.png",
+      "icon": "artifact_active_mom_s_bottle_of_pills_icon.png",
       "locale_name": "Мамина склянка пилюль",
       "name": "Mom's Bottle of Pills",
       "descr": "Создает случайную пилюлю. Открывается многократным использованием Автомата по сдаче крови. Получение: Сокровищница."
     }
   },
   {
-    "id": "artifact_active_mom's_bra",
+    "id": "artifact_active_mom_s_bra",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/f/f7/039_TBoI_collectibles.png/revision/latest?cb=20160111222407&path-prefix=ru"
       ],
-      "icon": "artifact_active_mom's_bra_icon.png",
+      "icon": "artifact_active_mom_s_bra_icon.png",
       "locale_name": "Мамин лифчик",
       "name": "Mom's Bra",
       "descr": "Заставляет игрока надеть на голову лифчик на 15 секунд, благодаря чему враги на 7 секунд застывают на месте. Получение: Сокровищница."
     }
   },
   {
-    "id": "artifact_active_mom's_pad",
+    "id": "artifact_active_mom_s_pad",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_mom's_pad_icon.png",
+      "icon": "artifact_active_mom_s_pad_icon.png",
       "locale_name": "Мамина прокладка",
       "name": "Mom's Pad",
       "descr": "Враги на 6 секунд начинают убегать от игрока и становятся синими. Получение: Сокровищница."
@@ -262,12 +262,12 @@
     }
   },
   {
-    "id": "artifact_active_monstro's_tooth",
+    "id": "artifact_active_monstro_s_tooth",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_monstro's_tooth_icon.png",
+      "icon": "artifact_active_monstro_s_tooth_icon.png",
       "locale_name": "Зуб Монстро",
       "name": "Monstro's Tooth",
       "descr": "Монстро прыгает на случайного из врагов и наносит 120 урона. Будьте внимательны: прикосновение к Монстро так же повреждает игрока. Примечание: не работает на самом Монстро (с Монстро 2 работает). Работает в части Rebirth. Получение: Сокровищница. Открывается победой над каждым Боссом с уровней Подвала."
@@ -392,12 +392,12 @@
     }
   },
   {
-    "id": "artifact_active_tammy's_head",
+    "id": "artifact_active_tammy_s_head",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_tammy's_head_icon.png",
+      "icon": "artifact_active_tammy_s_head_icon.png",
       "locale_name": "Голова Тамми",
       "name": "Tammy's Head",
       "descr": "Выстреливает 10 снарядов вокруг игрока. Снаряды имеют те же эффекты, что слёзы игрока, урон от каждого увеличен. Получение: Золотой сундук."

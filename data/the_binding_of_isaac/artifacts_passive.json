@@ -217,18 +217,18 @@
     }
   },
   {
-    "id": "artifact_passive_cupid's_arrow",
+    "id": "artifact_passive_cupid_s_arrow",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_cupid's_arrow_artifacts_0.jpg"
+          "artifact_passive_cupid_s_arrow_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_cupid's_arrow_icon.png",
+      "icon": "artifact_passive_cupid_s_arrow_icon.png",
       "locale_name": "Стрела Купидона",
       "name": "Cupid's Arrow",
       "descr": "Делает слезы игрока пронизывающими. Выстрелы проходят сквозь врагов. Получение: Сокровищница. Специальный."
@@ -505,18 +505,18 @@
     }
   },
   {
-    "id": "artifact_passive_loki's_horns",
+    "id": "artifact_passive_loki_s_horns",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_loki's_horns_artifacts_0.jpg"
+          "artifact_passive_loki_s_horns_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_loki's_horns_icon.png",
+      "icon": "artifact_passive_loki_s_horns_icon.png",
       "locale_name": "Рога Локи",
       "name": "Loki's Horns",
       "descr": "Дает случайный шанс выстрелить во все 4 стороны. Если у игрока уже есть “Мамин Глаз” (Mom’s Eye), то он всегда стреляет таким образом. Открывается победой над всеми Боссами на уровнях Глубин. Получение: Сокровищница. Специальный."
@@ -552,7 +552,6 @@
         "descr": ""
       },
       "links": [
-        null,
         "http://ru.bindingofisaac.wikia.com/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9"
       ],
       "icon": "artifact_passive_lucky_foot_icon.png",
@@ -650,18 +649,18 @@
     }
   },
   {
-    "id": "artifact_passive_max's_head",
+    "id": "artifact_passive_max_s_head",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_max's_head_artifacts_0.jpg"
+          "artifact_passive_max_s_head_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_max's_head_icon.png",
+      "icon": "artifact_passive_max_s_head_icon.png",
       "locale_name": "Голова Макса",
       "name": "Max's Head",
       "descr": "Добавляет 0.5 урона, и умножает наносимый урон х1.5, увеличенная отдача. Получение: Сокровищница. Специальный."
@@ -686,90 +685,90 @@
     }
   },
   {
-    "id": "artifact_passive_mom's_contacts",
+    "id": "artifact_passive_mom_s_contacts",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_contacts_artifacts_0.jpg"
+          "artifact_passive_mom_s_contacts_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_contacts_icon.png",
+      "icon": "artifact_passive_mom_s_contacts_icon.png",
       "locale_name": "Мамины линзы",
       "name": "Mom's Contacts",
       "descr": "Выстрелы игрока могут превратить врага в камень на некоторое время. Получение: Сокровищница. Открывается сбором “Маминого Глаза” (Mom’s Eye) и другого Артефакта Мамы за одно прохождение. Специальный."
     }
   },
   {
-    "id": "artifact_passive_mom's_eye",
+    "id": "artifact_passive_mom_s_eye",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_eye_artifacts_0.png"
+          "artifact_passive_mom_s_eye_artifacts_0.png"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_eye_icon.png",
+      "icon": "artifact_passive_mom_s_eye_icon.png",
       "locale_name": "Мамин глаз",
       "name": "Mom's Eye",
       "descr": "На затылке появляется еще один глаз, и каждые несколько обычных выстрелов он делает выстрел назад. Получение: Сокровищница. Специальный."
     }
   },
   {
-    "id": "artifact_passive_mom's_heels",
+    "id": "artifact_passive_mom_s_heels",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_heels_artifacts_0.jpg"
+          "artifact_passive_mom_s_heels_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_heels_icon.png",
+      "icon": "artifact_passive_mom_s_heels_icon.png",
       "locale_name": "Мамины каблуки",
       "name": "Mom's Heels",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
     }
   },
   {
-    "id": "artifact_passive_mom's_lipstick",
+    "id": "artifact_passive_mom_s_lipstick",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_lipstick_artifacts_0.jpg"
+          "artifact_passive_mom_s_lipstick_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_lipstick_icon.png",
+      "icon": "artifact_passive_mom_s_lipstick_icon.png",
       "locale_name": "Мамина помада",
       "name": "Mom's Lipstick",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
     }
   },
   {
-    "id": "artifact_passive_mom's_underwear",
+    "id": "artifact_passive_mom_s_underwear",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_underwear_artifacts_0.jpg"
+          "artifact_passive_mom_s_underwear_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_underwear_icon.png",
+      "icon": "artifact_passive_mom_s_underwear_icon.png",
       "locale_name": "Мамины панталоны",
       "name": "Mom's Underwear",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
@@ -1176,18 +1175,18 @@
     }
   },
   {
-    "id": "artifact_passive_spider's_bite",
+    "id": "artifact_passive_spider_s_bite",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_spider's_bite_artifacts_0.jpg"
+          "artifact_passive_spider_s_bite_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_spider's_bite_icon.png",
+      "icon": "artifact_passive_spider_s_bite_icon.png",
       "locale_name": "Укус паука",
       "name": "Spider's Bite",
       "descr": "У слез игрока есть шанс замедлить врага. Открывается прохождением уровней Подвала. Получение: Секретная комната. Специальный."
@@ -1582,18 +1581,18 @@
     }
   },
   {
-    "id": "artifact_passive_mom's_knife",
+    "id": "artifact_passive_mom_s_knife",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_knife_artifacts_0.jpg"
+          "artifact_passive_mom_s_knife_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_knife_icon.png",
+      "icon": "artifact_passive_mom_s_knife_icon.png",
       "locale_name": "Мамин нож",
       "name": "Mom's Knife",
       "descr": "Игроку дается нож, дальность полета зависит от зажима атаки. Нож можно бросать как бумеранг. Также можно использовать как оружие ближнего боя. Нож можно бросить по диагонали. Также нож \"привязывается\" к основному урону. Максимальное поражение броском достигается тем, что нож дольше находится в враге. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Открывается после победы над Сатаной за Исаака. Нож изменяет свой внешний вид (цвет) из за некоторых предметов:Паразит (Parasite) - оранжевыйСгибатель ложек (Spoon Bender) - фиолетовыйПростуда (Common Cold) - зеленыйДоска для спиритических сеансов (Ouija Board) - прозрачныйМаленький камешек (Small Rock) - серыйКусок угля (Lump of Coal) - черныйУкус паука (Spider Bite) - белыйМамины линзы (Mom's Contacts) - красныйНомер один (Number One) - желтый"
