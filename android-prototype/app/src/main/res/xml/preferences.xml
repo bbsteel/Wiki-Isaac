@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="First Category">
+        <CheckBoxPreference
+            android:title="Checkbox Preference"
+            android:defaultValue="false"
+            android:summary="This preference can be true or false"
+            android:key="checkboxPref" />
+        <ListPreference
+            android:title="List Preference"
+            android:summary="This preference allows to select an item in a array"
+            android:key="listPref"
+            android:defaultValue="digiGreen"
+            android:entries="@array/prefListArray"
+            android:entryValues="@array/prefListValues" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Second Category">
+        <EditTextPreference
+            android:name="EditText Preference"
+            android:summary="This allows you to enter a string"
+            android:defaultValue="Nothing"
+            android:title="Edit This Text"
+            android:key="editTextPref" />
+        <Preference
+            android:title="Custom Preference"
+            android:summary="This works almost like a button"
+            android:key="customPref" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -18,3 +18,4 @@ build.gradle
 # etc.
 .DS_Store
 /*/captures
+/other

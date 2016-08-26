@@ -12,12 +12,9 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="ru.sadwork.wiki_isaac.MainActivity"
     tools:showIn="@layout/activity_main">
-
-
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
-
     </LinearLayout>
 </RelativeLayout>
