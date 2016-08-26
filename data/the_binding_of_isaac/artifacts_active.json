@@ -378,14 +378,14 @@
     }
   },
   {
-    "id": "artifact_active_shoop_da_whoop!",
+    "id": "artifact_active_shoop_da_whoop_",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [
         "http://vignette2.wikia.nocookie.net/bindingofisaac/images/5/5a/Shoopisaac.jpg/revision/latest?cb=20120903170710&path-prefix=ru"
       ],
-      "icon": "artifact_active_shoop_da_whoop!_icon.png",
+      "icon": "artifact_active_shoop_da_whoop__icon.png",
       "locale_name": "Шуп да вуп!",
       "name": "Shoop Da Whoop!",
       "descr": "Выстреливает лазером изо рта игрока. Наносит 22 урона за удар. Отсылка к известному мему. Получение: Сокровищница, Дроп с Зависти."
@@ -404,12 +404,12 @@
     }
   },
   {
-    "id": "artifact_active_teleport!",
+    "id": "artifact_active_teleport_",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_teleport!_icon.png",
+      "icon": "artifact_active_teleport__icon.png",
       "locale_name": "Телепорт!",
       "name": "Teleport!",
       "descr": "Телепортирует игрока в случайную комнату, кроме комнаты Я-ОШИБКА. Получение: Сокровищница, Комната Испытаний."

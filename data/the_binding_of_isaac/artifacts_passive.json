@@ -90,18 +90,18 @@
     }
   },
   {
-    "id": "artifact_passive_boom!",
+    "id": "artifact_passive_boom_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_boom!_artifacts_0.jpg"
+          "artifact_passive_boom__artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_boom!_icon.png",
+      "icon": "artifact_passive_boom__icon.png",
       "locale_name": "Бум!",
       "name": "Boom!",
       "descr": "Дает игроку 10 бомб. Получение: Сокровищница х2."
