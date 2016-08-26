@@ -19,5 +19,8 @@ build.gradle
 .DS_Store
 /*/captures
 
-#Isaac Wiki images
+# Isaac Wiki images
 !data/*
+
+# Stas
+/other
