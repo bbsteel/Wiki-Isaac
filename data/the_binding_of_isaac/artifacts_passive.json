@@ -90,18 +90,18 @@
     }
   },
   {
-    "id": "artifact_passive_boom!",
+    "id": "artifact_passive_boom_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_boom!_artifacts_0.jpg"
+          "artifact_passive_boom__artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_boom!_icon.png",
+      "icon": "artifact_passive_boom__icon.png",
       "locale_name": "Бум!",
       "name": "Boom!",
       "descr": "Дает игроку 10 бомб. Получение: Сокровищница х2."
@@ -217,18 +217,18 @@
     }
   },
   {
-    "id": "artifact_passive_cupid's_arrow",
+    "id": "artifact_passive_cupid_s_arrow",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_cupid's_arrow_artifacts_0.jpg"
+          "artifact_passive_cupid_s_arrow_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_cupid's_arrow_icon.png",
+      "icon": "artifact_passive_cupid_s_arrow_icon.png",
       "locale_name": "Стрела Купидона",
       "name": "Cupid's Arrow",
       "descr": "Делает слезы игрока пронизывающими. Выстрелы проходят сквозь врагов. Получение: Сокровищница. Специальный."
@@ -441,7 +441,7 @@
     }
   },
   {
-    "id": "artifact_passive_little_c._h._a._d.",
+    "id": "artifact_passive_little_c__h__a__d_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
@@ -450,7 +450,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "artifact_passive_little_c._h._a._d._icon.png",
+      "icon": "artifact_passive_little_c__h__a__d__icon.png",
       "locale_name": "Маленький Ч. А. Д.",
       "name": "Little C. H. A. D.",
       "descr": "Создает пол-Сердца после зачистки каждых трех комнат. Открывается победой над Ч. А. Д.-ом. Отсылка к игре \"Super Meat Boy\", где Ч. А. Д. является боссом. Получение:  Дроп с Ч. А. Д, Сокровищница. Специальный."
@@ -505,18 +505,18 @@
     }
   },
   {
-    "id": "artifact_passive_loki's_horns",
+    "id": "artifact_passive_loki_s_horns",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_loki's_horns_artifacts_0.jpg"
+          "artifact_passive_loki_s_horns_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_loki's_horns_icon.png",
+      "icon": "artifact_passive_loki_s_horns_icon.png",
       "locale_name": "Рога Локи",
       "name": "Loki's Horns",
       "descr": "Дает случайный шанс выстрелить во все 4 стороны. Если у игрока уже есть “Мамин Глаз” (Mom’s Eye), то он всегда стреляет таким образом. Открывается победой над всеми Боссами на уровнях Глубин. Получение: Сокровищница. Специальный."
@@ -552,7 +552,6 @@
         "descr": ""
       },
       "links": [
-        null,
         "http://ru.bindingofisaac.wikia.com/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9"
       ],
       "icon": "artifact_passive_lucky_foot_icon.png",
@@ -650,18 +649,18 @@
     }
   },
   {
-    "id": "artifact_passive_max's_head",
+    "id": "artifact_passive_max_s_head",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_max's_head_artifacts_0.jpg"
+          "artifact_passive_max_s_head_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_max's_head_icon.png",
+      "icon": "artifact_passive_max_s_head_icon.png",
       "locale_name": "Голова Макса",
       "name": "Max's Head",
       "descr": "Добавляет 0.5 урона, и умножает наносимый урон х1.5, увеличенная отдача. Получение: Сокровищница. Специальный."
@@ -686,126 +685,126 @@
     }
   },
   {
-    "id": "artifact_passive_mom's_contacts",
+    "id": "artifact_passive_mom_s_contacts",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_contacts_artifacts_0.jpg"
+          "artifact_passive_mom_s_contacts_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_contacts_icon.png",
+      "icon": "artifact_passive_mom_s_contacts_icon.png",
       "locale_name": "Мамины линзы",
       "name": "Mom's Contacts",
       "descr": "Выстрелы игрока могут превратить врага в камень на некоторое время. Получение: Сокровищница. Открывается сбором “Маминого Глаза” (Mom’s Eye) и другого Артефакта Мамы за одно прохождение. Специальный."
     }
   },
   {
-    "id": "artifact_passive_mom's_eye",
+    "id": "artifact_passive_mom_s_eye",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_eye_artifacts_0.png"
+          "artifact_passive_mom_s_eye_artifacts_0.png"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_eye_icon.png",
+      "icon": "artifact_passive_mom_s_eye_icon.png",
       "locale_name": "Мамин глаз",
       "name": "Mom's Eye",
       "descr": "На затылке появляется еще один глаз, и каждые несколько обычных выстрелов он делает выстрел назад. Получение: Сокровищница. Специальный."
     }
   },
   {
-    "id": "artifact_passive_mom's_heels",
+    "id": "artifact_passive_mom_s_heels",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_heels_artifacts_0.jpg"
+          "artifact_passive_mom_s_heels_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_heels_icon.png",
+      "icon": "artifact_passive_mom_s_heels_icon.png",
       "locale_name": "Мамины каблуки",
       "name": "Mom's Heels",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
     }
   },
   {
-    "id": "artifact_passive_mom's_lipstick",
+    "id": "artifact_passive_mom_s_lipstick",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_lipstick_artifacts_0.jpg"
+          "artifact_passive_mom_s_lipstick_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_lipstick_icon.png",
+      "icon": "artifact_passive_mom_s_lipstick_icon.png",
       "locale_name": "Мамина помада",
       "name": "Mom's Lipstick",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
     }
   },
   {
-    "id": "artifact_passive_mom's_underwear",
+    "id": "artifact_passive_mom_s_underwear",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_underwear_artifacts_0.jpg"
+          "artifact_passive_mom_s_underwear_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_underwear_icon.png",
+      "icon": "artifact_passive_mom_s_underwear_icon.png",
       "locale_name": "Мамины панталоны",
       "name": "Mom's Underwear",
       "descr": "Увеличивает Дальность на 7.75. Получение: Босс, Сокровищница, Золотой сундук."
     }
   },
   {
-    "id": "artifact_passive_money_=_power",
+    "id": "artifact_passive_money___power",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_money_=_power_artifacts_0.jpg"
+          "artifact_passive_money___power_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_money_=_power_icon.png",
+      "icon": "artifact_passive_money___power_icon.png",
       "locale_name": "Деньги = Сила",
       "name": "Money = Power",
       "descr": "Увеличивает урон на 0.04 за каждую монету до максимума 3.96 при 99 монетах. Уменьшение кол-ва монет так же влечёт за собой уменьшение урона. Если взять артефакт Четвертак (Quarter), урон не увеличится. Открывается прохождением игры в 8-ой раз. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный."
     }
   },
   {
-    "id": "artifact_passive_mr._mega",
+    "id": "artifact_passive_mr__mega",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mr._mega_artifacts_0.jpg"
+          "artifact_passive_mr__mega_artifacts_0.jpg"
         ],
         "descr": " Делает голову Исаака такой же, как и у Гнева"
       },
       "links": [ ],
-      "icon": "artifact_passive_mr._mega_icon.png",
+      "icon": "artifact_passive_mr__mega_icon.png",
       "locale_name": "Мистер Мега",
       "name": "Mr. Mega",
       "descr": "Дает 5 бомб и делает все бомбы большими, подобно действию Артефакта “Мистер Бум” (Mr. Boom). Большие бомбы имеют больший радиус взрыва и наносят 110 урона вместо обычных 60. Открывается использованием большого количества бомб. Получение: Сокровищница, Дроп с Супер-Гнева."
@@ -986,7 +985,7 @@
     }
   },
   {
-    "id": "artifact_passive_robo-baby",
+    "id": "artifact_passive_robo_baby",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
@@ -995,7 +994,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "artifact_passive_robo-baby_icon.png",
+      "icon": "artifact_passive_robo_baby_icon.png",
       "locale_name": "Крошка-Робот",
       "name": "Robo-Baby",
       "descr": "Следует за игроком, стреляет лазером из глаза, наносит 3 урона. Если приглядеться,то можно увидеть,что Крошка-Робот стреляет лазером изо рта. Открывается прохождением игры за персонажа Иуда. Получение: Сокровищница. Специальный."
@@ -1176,18 +1175,18 @@
     }
   },
   {
-    "id": "artifact_passive_spider's_bite",
+    "id": "artifact_passive_spider_s_bite",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_spider's_bite_artifacts_0.jpg"
+          "artifact_passive_spider_s_bite_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_spider's_bite_icon.png",
+      "icon": "artifact_passive_spider_s_bite_icon.png",
       "locale_name": "Укус паука",
       "name": "Spider's Bite",
       "descr": "У слез игрока есть шанс замедлить врага. Открывается прохождением уровней Подвала. Получение: Секретная комната. Специальный."
@@ -1408,18 +1407,18 @@
     }
   },
   {
-    "id": "artifact_passive_x-ray_vision",
+    "id": "artifact_passive_x_ray_vision",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_x-ray_vision_artifacts_0.jpg"
+          "artifact_passive_x_ray_vision_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_x-ray_vision_icon.png",
+      "icon": "artifact_passive_x_ray_vision_icon.png",
       "locale_name": "Рентгеновское зрение",
       "name": "X-Ray Vision",
       "descr": "Отображает и делает всегда открытыми входы в Секретные Комнаты. (Существует небольшой баг. Рыцари и многие другие враги могут застрять в дырке, ведущей в секретную комнату, при ускорении в Вас). Получение: Сокровищница."
@@ -1462,7 +1461,7 @@
     }
   },
   {
-    "id": "artifact_passive_bobby-bomb",
+    "id": "artifact_passive_bobby_bomb",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
@@ -1471,7 +1470,7 @@
         "descr": "Внешний вид не меняется"
       },
       "links": [ ],
-      "icon": "artifact_passive_bobby-bomb_icon.png",
+      "icon": "artifact_passive_bobby_bomb_icon.png",
       "locale_name": "Бобби-Бомба",
       "name": "Bobby-Bomb",
       "descr": "Дает 5 бомб и делает их самонаводящимися. Получение: Сокровищница."
@@ -1582,54 +1581,54 @@
     }
   },
   {
-    "id": "artifact_passive_mom's_knife",
+    "id": "artifact_passive_mom_s_knife",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mom's_knife_artifacts_0.jpg"
+          "artifact_passive_mom_s_knife_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_mom's_knife_icon.png",
+      "icon": "artifact_passive_mom_s_knife_icon.png",
       "locale_name": "Мамин нож",
       "name": "Mom's Knife",
       "descr": "Игроку дается нож, дальность полета зависит от зажима атаки. Нож можно бросать как бумеранг. Также можно использовать как оружие ближнего боя. Нож можно бросить по диагонали. Также нож \"привязывается\" к основному урону. Максимальное поражение броском достигается тем, что нож дольше находится в враге. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Открывается после победы над Сатаной за Исаака. Нож изменяет свой внешний вид (цвет) из за некоторых предметов:Паразит (Parasite) - оранжевыйСгибатель ложек (Spoon Bender) - фиолетовыйПростуда (Common Cold) - зеленыйДоска для спиритических сеансов (Ouija Board) - прозрачныйМаленький камешек (Small Rock) - серыйКусок угля (Lump of Coal) - черныйУкус паука (Spider Bite) - белыйМамины линзы (Mom's Contacts) - красныйНомер один (Number One) - желтый"
     }
   },
   {
-    "id": "artifact_passive_odd_mushroom_(thin)",
+    "id": "artifact_passive_odd_mushroom__thin_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_odd_mushroom_(thin)_artifacts_0.jpg"
+          "artifact_passive_odd_mushroom__thin__artifacts_0.jpg"
         ],
         "descr": " Уменьшение размеров головы игрока"
       },
       "links": [ ],
-      "icon": "artifact_passive_odd_mushroom_(thin)_icon.png",
+      "icon": "artifact_passive_odd_mushroom__thin__icon.png",
       "locale_name": "Тонкий Чудо-гриб",
       "name": "Odd Mushroom (Thin)",
       "descr": "Увеличение скорости на 0.3, максимальная скорострельность (+1.7). Урон умножается на 0.9 и уменьшается на 0.4. Получение: Сокровищница."
     }
   },
   {
-    "id": "artifact_passive_odd_mushroom_(large)",
+    "id": "artifact_passive_odd_mushroom__large_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_odd_mushroom_(large)_artifacts_0.jpg"
+          "artifact_passive_odd_mushroom__large__artifacts_0.jpg"
         ],
         "descr": " Увеличение размеров головы игрока"
       },
       "links": [ ],
-      "icon": "artifact_passive_odd_mushroom_(large)_icon.png",
+      "icon": "artifact_passive_odd_mushroom__large__icon.png",
       "locale_name": "Толстый Чудо-гриб",
       "name": "Odd Mushroom (Large)",
       "descr": "Увеличение урона на 0.3, добавление одного пустого контейнера под здоровье, уменьшение скорости на 0.2."

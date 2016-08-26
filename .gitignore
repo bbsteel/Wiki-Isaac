@@ -18,4 +18,6 @@ build.gradle
 # etc.
 .DS_Store
 /*/captures
-/other
+
+#Isaac Wiki images
+!data/*
