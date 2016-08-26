@@ -178,7 +178,7 @@
           "descr": "Чёрный: В этом случае она разделяется на три части, а не на четыре и после смерти отдельных частей вместо личинок появляются взрывные мухи."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_fistula_bosses_0.png"
@@ -201,7 +201,7 @@
           "descr": "Черно-зеленый: Гёрди имеет зеленоватый оттенок. В этой форме она не атакует кровью, однако продолжает создавать различных мух и нарывы. Не имеет смысла отвлекаться на них - в ответ Гёрди сделает еще больше. В бою помогут Стрела Купидона и Технология, которые одновременно будут наносить урон и Гёрди, и второстепенным врагам."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_gurdy_bosses_0.png"
@@ -232,7 +232,7 @@
           "descr": "Вечный(WotL EE): Регенерирует жизни, имеет 6 глаз."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_peep_bosses_0.png",
@@ -252,19 +252,19 @@
     "content": {
       "forms": [
         {
-          "icon": "boss_chub_form_0.jpg",
+          "icon": "",
           "descr": "Синий: Более крупный, имеет больше здоровья, уменьшена скорость, создает Нарывы."
         },
         {
-          "icon": "boss_chub_form_1.jpg",
+          "icon": "",
           "descr": "Зеленый: Создает Плевунов."
         },
         {
-          "icon": "boss_chub_form_2.jpg",
+          "icon": "",
           "descr": "Оранжевый: Увеличена скорость, уменьшен размер, более непредсказуем. Создает Кровососов."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_chub_bosses_0.png",
@@ -288,7 +288,7 @@
           "descr": "Белый: Вместо зелёных следов оставляет белые (как и Вдова), которые замедляют персонажа. Вместо Зубастых личинок и Плевунов призывает Пауков-Скакунов, стреляет 8 белыми выстрелами. Во 2 фазе вместо мух призывает обычных паучков и стреляет 8 кровавыми снарядами."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_pestilence_bosses_0.png",
@@ -308,7 +308,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [
         "artifact_passive_little_c._h._a._d."
       ],
@@ -334,7 +334,7 @@
           "descr": "Красный: появляется в 2-х экземплярах, в 2 раза быстрее и производит всего 2 Кровососа."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_monstro_ii_bosses_0.png",
@@ -353,7 +353,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_loki_bosses_0.png"
@@ -376,7 +376,7 @@
           "descr": "Черный: Во время первой фазы, он оставляет тролль-бомбу на своем пути, когда носится по экрану. Также босс будет делать это чаще, чем обычная версия Войны. Он реже прыгает в небо, но когда он это делает, то оставляет 2 большие тролль-бомбы вместо 5 обычных тролль-бомб. Во время второй фазы он выстреливает 6-ю снарядами во время остановки."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [
         "artifact_passive_cube_of_meat"
       ],
@@ -398,7 +398,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [
         "artifact_passive_little_gish"
       ],
@@ -418,7 +418,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_conquest_bosses_0.png",
@@ -446,7 +446,7 @@
           "descr": "Красный: Мама топает чаще и быстрее, всегда использует руки, если игрок близко к двери, и выпускает тройные снаряды из глаз. Эта версия не создает монстров. (Добавлена в дополнении Wrath of the Lamb 1.4)."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_mom_bosses_0.png"
@@ -464,7 +464,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_scolex_bosses_0.png"
@@ -482,7 +482,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_blastocyst_bosses_0.png"
@@ -505,7 +505,7 @@
           "descr": "Черный: Эта версия немного больше и имеет больше здоровья, чем обычный всадник. Он всегда создает 4 косы вместо использования песочных часов, также может призывать 2 Взрывные пиявки. Когда он не на коне, он создаёт двух Красных Мо вместо Рыцарей."
         }
       ],
-      "apearance": null,
+      "apearance": "",
       "rewards": [
         "artifact_passive_cube_of_meat"
       ],
@@ -525,7 +525,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_mom's_heart_bosses_0.png"
@@ -543,7 +543,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_it_lives_bosses_0.png"
@@ -561,7 +561,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_satan_bosses_0.png",
@@ -581,7 +581,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_the_fallen_bosses_0.png"
@@ -599,7 +599,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [],
       "icons": [
         "boss_headless_horseman_bosses_0.png"
@@ -617,7 +617,7 @@
     "game": "the_binding_of_isaac",
     "content": {
       "forms": [],
-      "apearance": null,
+      "apearance": "",
       "rewards": [
         "artifact_passive_lump_of_coal"
       ],
