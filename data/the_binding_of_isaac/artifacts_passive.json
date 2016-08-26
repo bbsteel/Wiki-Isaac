@@ -1599,36 +1599,36 @@
     }
   },
   {
-    "id": "artifact_passive_odd_mushroom_(thin)",
+    "id": "artifact_passive_odd_mushroom__thin_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_odd_mushroom_(thin)_artifacts_0.jpg"
+          "artifact_passive_odd_mushroom__thin__artifacts_0.jpg"
         ],
         "descr": " Уменьшение размеров головы игрока"
       },
       "links": [ ],
-      "icon": "artifact_passive_odd_mushroom_(thin)_icon.png",
+      "icon": "artifact_passive_odd_mushroom__thin__icon.png",
       "locale_name": "Тонкий Чудо-гриб",
       "name": "Odd Mushroom (Thin)",
       "descr": "Увеличение скорости на 0.3, максимальная скорострельность (+1.7). Урон умножается на 0.9 и уменьшается на 0.4. Получение: Сокровищница."
     }
   },
   {
-    "id": "artifact_passive_odd_mushroom_(large)",
+    "id": "artifact_passive_odd_mushroom__large_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_odd_mushroom_(large)_artifacts_0.jpg"
+          "artifact_passive_odd_mushroom__large__artifacts_0.jpg"
         ],
         "descr": " Увеличение размеров головы игрока"
       },
       "links": [ ],
-      "icon": "artifact_passive_odd_mushroom_(large)_icon.png",
+      "icon": "artifact_passive_odd_mushroom__large__icon.png",
       "locale_name": "Толстый Чудо-гриб",
       "name": "Odd Mushroom (Large)",
       "descr": "Увеличение урона на 0.3, добавление одного пустого контейнера под здоровье, уменьшение скорости на 0.2."
