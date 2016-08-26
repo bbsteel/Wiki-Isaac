@@ -775,18 +775,18 @@
     }
   },
   {
-    "id": "artifact_passive_money_=_power",
+    "id": "artifact_passive_money___power",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_money_=_power_artifacts_0.jpg"
+          "artifact_passive_money___power_artifacts_0.jpg"
         ],
         "descr": ""
       },
       "links": [ ],
-      "icon": "artifact_passive_money_=_power_icon.png",
+      "icon": "artifact_passive_money___power_icon.png",
       "locale_name": "Деньги = Сила",
       "name": "Money = Power",
       "descr": "Увеличивает урон на 0.04 за каждую монету до максимума 3.96 при 99 монетах. Уменьшение кол-ва монет так же влечёт за собой уменьшение урона. Если взять артефакт Четвертак (Quarter), урон не увеличится. Открывается прохождением игры в 8-ой раз. Получение: Сокровищница (2\\3 шанс), Комната Дьявола (1\\3 шанс). Специальный."
