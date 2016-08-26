@@ -441,7 +441,7 @@
     }
   },
   {
-    "id": "artifact_passive_little_c._h._a._d.",
+    "id": "artifact_passive_little_c__h__a__d_",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
@@ -450,7 +450,7 @@
         "descr": "Следует за игроком"
       },
       "links": [ ],
-      "icon": "artifact_passive_little_c._h._a._d._icon.png",
+      "icon": "artifact_passive_little_c__h__a__d__icon.png",
       "locale_name": "Маленький Ч. А. Д.",
       "name": "Little C. H. A. D.",
       "descr": "Создает пол-Сердца после зачистки каждых трех комнат. Открывается победой над Ч. А. Д.-ом. Отсылка к игре \"Super Meat Boy\", где Ч. А. Д. является боссом. Получение:  Дроп с Ч. А. Д, Сокровищница. Специальный."
@@ -793,18 +793,18 @@
     }
   },
   {
-    "id": "artifact_passive_mr._mega",
+    "id": "artifact_passive_mr__mega",
     "type": "artifact_passive",
     "game": "the_binding_of_isaac",
     "content": {
       "appearance": {
         "imgs": [
-          "artifact_passive_mr._mega_artifacts_0.jpg"
+          "artifact_passive_mr__mega_artifacts_0.jpg"
         ],
         "descr": " Делает голову Исаака такой же, как и у Гнева"
       },
       "links": [ ],
-      "icon": "artifact_passive_mr._mega_icon.png",
+      "icon": "artifact_passive_mr__mega_icon.png",
       "locale_name": "Мистер Мега",
       "name": "Mr. Mega",
       "descr": "Дает 5 бомб и делает все бомбы большими, подобно действию Артефакта “Мистер Бум” (Mr. Boom). Большие бомбы имеют больший радиус взрыва и наносят 110 урона вместо обычных 60. Открывается использованием большого количества бомб. Получение: Сокровищница, Дроп с Супер-Гнева."

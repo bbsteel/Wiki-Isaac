@@ -97,8 +97,8 @@
     "content": {
       "apearance": "",
       "rewards": [
-        "artifact_passive_mr._mega",
-        "artifact_active_mr._boom"
+        "artifact_passive_mr__mega",
+        "artifact_active_mr__boom"
       ],
       "icons": [
         "mini_boss_wrath_mini_bosses_0.png"

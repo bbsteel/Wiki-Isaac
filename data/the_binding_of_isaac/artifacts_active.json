@@ -274,12 +274,12 @@
     }
   },
   {
-    "id": "artifact_active_mr._boom",
+    "id": "artifact_active_mr__boom",
     "type": "artifact_active",
     "game": "the_binding_of_isaac",
     "content": {
       "links": [ ],
-      "icon": "artifact_active_mr._boom_icon.png",
+      "icon": "artifact_active_mr__boom_icon.png",
       "locale_name": "Мистер Бум",
       "name": "Mr. Boom",
       "descr": "Ставит большую бомбу. У нее больший радиус взрыва и она наносит 110 урона (вместо обычных 60). Получение: Сокровищница, дроп с Гнева."
