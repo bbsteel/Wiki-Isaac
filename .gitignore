@@ -2,25 +2,23 @@
 *.iml
 *.ipr
 *.iws
-/*/.idea
-/*/classes
-/*/gen-external-apklibs
+/android-prototype/.idea
+/android-prototype/classes
+/android-prototype/gen-external-apklibs
 
 # Gradle
-/*/build
-/*/gradle
-/*/.gradle
+/android-prototype/build
+/android-prototype/gradle
+/android-prototype/.gradle
 build.gradle
 
 # Android Studio
 /*/local.properties
 
+# Isaac Wiki's data
+!/data/*
+
 # etc.
 .DS_Store
 /*/captures
-
-# Isaac Wiki images
-!data/*
-
-# Stas
 /other
